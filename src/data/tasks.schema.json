@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LeonTask",
+  "type": "object",
+  "required": ["id", "klasa", "dzial", "typ", "tresc", "opcje", "poprawne", "wyjasnienie", "zrodlo", "trudnosc"],
+  "properties": {
+    "id": { "type": "string", "description": "Unikalny identyfikator, np. k3-w25-01" },
+    "klasa": { "type": "integer", "minimum": 1, "maximum": 8 },
+    "dzial": {
+      "type": "string",
+      "enum": [
+        "liczby-ciagi",
+        "dodawanie-odejmowanie",
+        "mnozenie-dzielenie",
+        "podzielnosc",
+        "zadania-tekstowe",
+        "czas-miary",
+        "geometria",
+        "logika",
+        "liczby-wielocyfrowe",
+        "kolejnosc-dzialan",
+        "ulamki",
+        "pola-jednostki"
+      ]
+    },
+    "typ": { "type": "string", "enum": ["single", "multi", "none", "open"] },
+    "tresc": { "type": "string" },
+    "opcje": {
+      "type": "object",
+      "properties": {
+        "A": { "type": "string" },
+        "B": { "type": "string" },
+        "C": { "type": "string" },
+        "D": { "type": "string" }
+      }
+    },
+    "poprawne": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["A", "B", "C", "D"] },
+      "description": "Puste = żadna odpowiedź nie jest poprawna (typ none)"
+    },
+    "wyjasnienie": { "type": "string" },
+    "zrodlo": { "type": "string" },
+    "trudnosc": { "type": "integer", "minimum": 1, "maximum": 3 },
+    "hint": { "type": "string" },
+    "openAnswer": { "type": "string" }
+  }
+}
