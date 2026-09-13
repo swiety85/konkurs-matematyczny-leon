@@ -1,28 +1,33 @@
-import { useMemo, useState } from 'react'
+import { useState } from 'react'
 import { QuizRunner } from '../components/QuizRunner'
 import { useProfile } from '../context/ProfileContext'
-import { getTasksForPool } from '../data'
+import { loadTasksForPool } from '../data'
 import { selectExamSet } from '../engine/adaptive'
-import type { SessionRecord } from '../types'
+import type { SessionRecord, Task } from '../types'
 
 const EXAM_SECONDS = 45 * 60
 
 export function ExamPage() {
   const { profile, recordSession } = useProfile()
-  const [running, setRunning] = useState(false)
-  const tasks = useMemo(() => {
-    if (!running) return []
-    return selectExamSet(getTasksForPool(profile.klasa, 'exam'), 25)
-  }, [running, profile.klasa])
+  const [tasks, setTasks] = useState<Task[]>([])
+  const [loading, setLoading] = useState(false)
 
-  if (running && tasks.length > 0) {
+  const startExam = () => {
+    setLoading(true)
+    void loadTasksForPool(profile.klasa, 'exam').then((pool) => {
+      setTasks(selectExamSet(pool, 25))
+      setLoading(false)
+    })
+  }
+
+  if (tasks.length > 0) {
     return (
       <QuizRunner
         tasks={tasks}
         mode="symulacja"
         title="Symulacja konkursu Leon"
         timedSec={EXAM_SECONDS}
-        onCancel={() => setRunning(false)}
+        onCancel={() => setTasks([])}
         onComplete={({ score, maxScore, attempts, startedAt, durationSec }) => {
           const session: SessionRecord = {
             id: `sym-${Date.now()}`,
@@ -54,10 +59,11 @@ export function ExamPage() {
         </ul>
         <button
           type="button"
-          onClick={() => setRunning(true)}
-          className="mt-6 w-full rounded-2xl bg-indigo-600 py-4 text-lg font-bold text-white shadow-lg hover:bg-indigo-700"
+          disabled={loading}
+          onClick={startExam}
+          className="mt-6 w-full rounded-2xl bg-indigo-600 py-4 text-lg font-bold text-white shadow-lg hover:bg-indigo-700 disabled:opacity-50"
         >
-          Rozpocznij symulację
+          {loading ? 'Ładowanie arkusza…' : 'Rozpocznij symulację'}
         </button>
       </div>
     </div>

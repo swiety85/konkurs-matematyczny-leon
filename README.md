@@ -33,6 +33,40 @@ npm run preview
 - **Postępy i odznaki** — biegłość per dział, historia sesji
 - **Profile uczniów** — wybór profilu przy uruchomieniu, osobny klucz `localStorage` dla każdego dziecka
 - **Panel rodzica** — edycja, dodawanie ucznia, eksport/import JSON i reset postępów
+- **Ilustracje SVG** — zegary i figury rysowane na nowo (komponent `TaskIllustration`)
+
+## Baza zadań
+
+1876 zadań: 417 autorskich (legacy, pula nauki) + 1459 generowanych deterministycznie.
+
+| Klasa | Nauka | Quiz | Symulacja (exam) | Razem |
+|------:|------:|-----:|-----------------:|------:|
+| 1 | 101 | 101 | 264 | 466 |
+| 2 | 101 | 101 | 275 | 477 |
+| 3 | 112 | 101 | 224 | 437 |
+| 4 | 110 | 101 | 285 | 506 |
+
+- **Symulacja** = parafrazy wszystkich 1048 pytań z 40 arkuszy klas 1–4 (manifest:
+  `scripts/archive/manifest.json`). Matematyka zachowana, narracja nowa, klucz wyliczony
+  generatorem — arkusze nie zawierają kluczy odpowiedzi.
+- **Nauka / quiz** = warianty o innych wartościach i narracji (min. 101 na klasę).
+- Odcisk treści+opcji blokuje duplikaty między pulami (sprawdzane globalnie).
+- Zadania generowane ładują się leniwie — jeden chunk na klasę, poza początkowym bundlem.
+
+## Generacja i walidacja
+
+```bash
+npm run archive:extract  # PDF -> scripts/archive/out/*.json (+ _exceptions.json)
+npm run migrate:seeds    # 347 zadań legacy -> src/data/seeds/seeds.json
+npm run generate:pools   # deterministyczne pule -> src/data/generated/klasaN.ts
+npm run validate:pools   # bramka CI: liczebność, rozłączność, pokrycie archiwum, klucze
+```
+
+Zasady generacji (`src/engine/variants/`): stabilny PRNG `(klasa, dział, pula, seq)`,
+receptury dla działań, ciągów, czasu, pieniędzy, jednostek, ułamków, geometrii i zadań
+tekstowych; dystraktory filtrowane tak, by nie tworzyć dodatkowych poprawnych odpowiedzi;
+solver punktacji potwierdza każdy klucz. Pliki generowane są deterministyczne
+(sortowanie po ID) — `validate:pools` działa w CI na zacommitowanych plikach.
 
 Punktacja jak w Leonie: za każdą zaznaczoną poprawną odpowiedź +1 pkt; jeśli zaznaczono choć jedną błędną — 0 pkt za zadanie; gdy żadna opcja nie jest poprawna — 1 pkt za puste zaznaczenie.
 

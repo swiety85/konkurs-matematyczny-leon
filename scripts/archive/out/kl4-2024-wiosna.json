@@ -1,0 +1,388 @@
+{
+  "sheet": "kl4-2024-wiosna",
+  "label": "Klasa 4 / Wiosna 2024",
+  "file": "MATEMATYKA Klasa IV Wiosna 2024.pdf",
+  "pages": 2,
+  "detectedQuestions": 29,
+  "expectedQuestions": 29,
+  "diff": 0,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Liczba o 20 większa od ilorazu liczby 120 : 6 wynosi:\nA. 0                                 B. 20                            C. 40                     D. 60",
+      "options": [
+        "Liczba o 20 większa od ilorazu liczby 120 : 6 wynosi:",
+        "A. 0",
+        "B. 20",
+        "C. 40"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Iloczyn 5 5 5 5 możemy zapisać w postaci:\nA. 54                           B. 55                                 C. 552                    D. 45",
+      "options": [
+        "Iloczyn 5 5 5 5 możemy zapisać w postaci:",
+        "A. 54",
+        "B. 55",
+        "C. 552"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Jeśli średnica okręgu ma długość 10 dm, to długość jego promienia wynosi:\nA. 40 dm                            B. 20 dm                          C. 10 dm                  D. 5 dm",
+      "options": [
+        "Jeśli średnica okręgu ma długość 10 dm, to długość jego promienia wynosi:",
+        "A. 40 dm",
+        "B. 20 dm",
+        "C. 10 dm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Długość odcinka AB w skali 3 : 1 wynosi 4 cm, wobec tego ten odcinek ma długość:\nA. 3 cm                             B. 4 cm                            C. 12 cm                 D. 34 cm",
+      "options": [
+        "Długość odcinka AB w skali 3 : 1 wynosi 4 cm, wobec tego ten odcinek ma długość:",
+        "A. 3 cm",
+        "B. 4 cm",
+        "C. 12 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Obwód narysowanego trójkąta wynosi:\nA. 14 cm                                                   1 dm\nB. 15 cm                               6 cm\nC. 24 cm\nD. 48 cm                                               8 cm",
+      "options": [
+        "Obwód narysowanego trójkąta wynosi:",
+        "A. 14 cm                                                   1 dm",
+        "B. 15 cm                               6 cm",
+        "C. 24 cm"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Kąt o mierze 89o jest:\nA. kątem ostrym                       B. kątem prostym                C. kątem rozwartym        D. kątem półpełnym",
+      "options": [
+        "Kąt o mierze 89o jest:",
+        "A. kątem ostrym",
+        "B. kątem prostym",
+        "C. kątem rozwartym"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Pole kwadratu o obwodzie 16 cm wynosi:\nA. 16 cm2                        B. 8 cm2                             C. 64 cm2                 D. 32 cm2",
+      "options": [
+        "Pole kwadratu o obwodzie 16 cm wynosi:",
+        "A. 16 cm2",
+        "B. 8 cm2",
+        "C. 64 cm2"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Odległość w rzeczywistości wynosi 2000 cm, w skali 1 :100 ta odległość będzie miała długość:\nA. 2 cm                           B. 20 cm                             C. 2000 cm               D. 200000 cm",
+      "options": [
+        "Odległość w rzeczywistości wynosi 2000 cm, w skali 1 :100 ta odległość będzie miała długość:",
+        "A. 2 cm",
+        "B. 20 cm",
+        "C. 2000 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "250 minut to:\nA. 2 godziny i 5 minut                B. 2 godziny i 10 minut         C. 2 godziny i 50 minut   D. 4 godziny i 10 minut",
+      "options": [
+        "250 minut to:",
+        "A. 2 godziny i 5 minut",
+        "B. 2 godziny i 10 minut",
+        "C. 2 godziny i 50 minut"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Liczba 5 razy mniejsza od 555 to:\nA. 500                              B. 111                            C. 155                    D. 550",
+      "options": [
+        "Liczba 5 razy mniejsza od 555 to:",
+        "A. 500",
+        "B. 111",
+        "C. 155"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Różnica największej dwucyfrowej liczby i najmniejszej dwucyfrowej wynosi:\nA. 89                            B. 100                               C. 110                    D. 989",
+      "options": [
+        "Różnica największej dwucyfrowej liczby i najmniejszej dwucyfrowej wynosi:",
+        "A. 89",
+        "B. 100",
+        "C. 110"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Kwadrat liczby 9 pomniejszony o 9 wynosi:\nA. 0                              B. 9                                      C. 72                     D. 81\n\n                      2",
+      "options": [
+        "Kwadrat liczby 9 pomniejszony o 9 wynosi:",
+        "A. 0",
+        "B. 9",
+        "C. 72"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Wynik działania 3 17 − 2 34 wynosi:\n     1                                  1                                      1                         25\nA. 1 68                            B. 1 13                                  C. 13                     D. 68",
+      "options": [
+        "Wynik działania 3 17 − 2 34 wynosi:\n     1                                  1                                      1                         25",
+        "A. 1 68",
+        "B. 1 13",
+        "C. 13"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Wspólną wielokrotnością liczb 2, 3 oraz 8 jest:\nA. 238                             B. 13                                    C. 24                     D. 832",
+      "options": [
+        "Wspólną wielokrotnością liczb 2, 3 oraz 8 jest:",
+        "A. 238",
+        "B. 13",
+        "C. 24"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Iloraz liczb 250 i 50 wynosi:\nA. 50                                B. 5                                   C. 300                    D. 750",
+      "options": [
+        "Iloraz liczb 250 i 50 wynosi:",
+        "A. 50",
+        "B. 5",
+        "C. 300"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Obwód podanego poniżej trójkąta wynosi:\nA. 38 cm\nB. 50 cm                                            25 cm           25 cm\nC. 63 cm\nD. 75 cm                                                    13 cm",
+      "options": [
+        "Obwód podanego poniżej trójkąta wynosi:",
+        "A. 38 cm",
+        "B. 50 cm                                            25 cm           25 cm",
+        "C. 63 cm"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Liczba setek w sumie liczb 187 i 113 wynosi:\nA. 1                                B. 2                                    C. 3                      D. 4",
+      "options": [
+        "Liczba setek w sumie liczb 187 i 113 wynosi:",
+        "A. 1",
+        "B. 2",
+        "C. 3"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Wynikiem działania 10 - 4 : 2 jest liczba:\nA. 3                                B. 6                                    C. 8                      D. 10",
+      "options": [
+        "Wynikiem działania 10 - 4 : 2 jest liczba:",
+        "A. 3",
+        "B. 6",
+        "C. 8"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "W sali kinowej jest dziesięć rzędów po 12 miejsc w każdym i 5 miejsc specjalnych. W tej sali jest:\nA. 125 miejsc                        B. 120 miejsc                     C. 60 miejsc                  D. 12 miejsc",
+      "options": [
+        "W sali kinowej jest dziesięć rzędów po 12 miejsc w każdym i 5 miejsc specjalnych. W tej sali jest:",
+        "A. 125 miejsc",
+        "B. 120 miejsc",
+        "C. 60 miejsc"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Osiem kwadransów to:\nA. 80 minut                          B. 100 minut                           C. 120 minut              D. 800 minut",
+      "options": [
+        "Osiem kwadransów to:",
+        "A. 80 minut",
+        "B. 100 minut",
+        "C. 120 minut"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Liczby większe od 47 to:\nA. XXVIII                            B. L                                   C. XLIX                   D. XXIII",
+      "options": [
+        "Liczby większe od 47 to:",
+        "A. XXVIII",
+        "B. L",
+        "C. XLIX"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Które nierówności są prawidłowe?\nA. 1548 – 500 > 1000              B. 2400 : 600 > 5                         C. 4874 – 800 > 5000      D. 250 : 50 < 60",
+      "options": [
+        "Które nierówności są prawidłowe?",
+        "A. 1548 – 500 > 1000",
+        "B. 2400 : 600 > 5",
+        "C. 4874 – 800 > 5000"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Które liczby są większe od 0,4?\nA. 0,397                            B. 0,401                                C. 0,098                  D. 0,674",
+      "options": [
+        "Które liczby są większe od 0,4?",
+        "A. 0,397",
+        "B. 0,401",
+        "C. 0,098"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Które działania dają wynik 25?\nA. 1600 : 64                       B. 52                                    C. 125 : 25               D. 625 - 500",
+      "options": [
+        "Które działania dają wynik 25?",
+        "A. 1600 : 64",
+        "B. 52",
+        "C. 125 : 25"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Ćwierć kilograma to inaczej:\nA. 250 g                             B. 25 dag                              C. 0,25 kg                D. 2,5 kg",
+      "options": [
+        "Ćwierć kilograma to inaczej:",
+        "A. 250 g",
+        "B. 25 dag",
+        "C. 0,25 kg"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 26,
+      "page": 0,
+      "rawText": "Które lata były w XIV wieku?\nA. 1300                              B. 1301                                C. 1299                   D. 1400",
+      "options": [
+        "Które lata były w XIV wieku?",
+        "A. 1300",
+        "B. 1301",
+        "C. 1299"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 27,
+      "page": 0,
+      "rawText": "Nieparzyste wyniki dają działania:\nA. 444 : 44                        B. 150 : 150                             C. 24 : 4                 D. 400 : 50",
+      "options": [
+        "Nieparzyste wyniki dają działania:",
+        "A. 444 : 44",
+        "B. 150 : 150",
+        "C. 24 : 4"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 28,
+      "page": 0,
+      "rawText": "Odcinek o długości 2 cm narysowany w skali 100 : 1 będzie miał długość:\nA. 120 cm                         B. 1,2 m                            C. 200 cm                       D. 2 m",
+      "options": [
+        "Odcinek o długości 2 cm narysowany w skali 100 : 1 będzie miał długość:",
+        "A. 120 cm",
+        "B. 1,2 m",
+        "C. 200 cm"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 29,
+      "page": 0,
+      "rawText": "Które kąty mogą być kątami równoległoboku?\nA. 100o, 100o, 20o, 20o           B. 135o, 135o, 45o, 45o                   C. 165o, 165o, 15o, 15o   D. 88o, 88o,12o,12o",
+      "options": [
+        "Które kąty mogą być kątami równoległoboku?",
+        "A. 100o, 100o, 20o, 20o",
+        "B. 135o, 135o, 45o, 45o",
+        "C. 165o, 165o, 15o, 15o"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

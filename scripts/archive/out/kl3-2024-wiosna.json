@@ -1,0 +1,339 @@
+{
+  "sheet": "kl3-2024-wiosna",
+  "label": "Klasa 3 / Wiosna 2024",
+  "file": "MATEMATYKA Klasa III Wiosna 2024.pdf",
+  "pages": 2,
+  "detectedQuestions": 26,
+  "expectedQuestions": 25,
+  "diff": 1,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Wskaż równość prawdziwą.\n    36 : 9 = 28 : 7                        24 : 4 = 54 : 8                        63 : 7 = 27 : 3             48 : 6 = 4 2",
+      "options": [
+        "36 : 9 = 28 : 7",
+        "24 : 4 = 54 : 8",
+        "63 : 7 = 27 : 3",
+        "48 : 6 = 4 2"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Wskaż zamalowaną ćwierć kwadratu.",
+      "options": [],
+      "confidence": "low",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Staś ma 9 lat, a Kacper 26. Oblicz, o ile lat Kacper jest starszy od Stasia.\n    17 lat                                 16 lat                                 35 lat                      18 lat",
+      "options": [
+        "17 lat",
+        "16 lat",
+        "35 lat",
+        "18 lat"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Wskaż działanie niewykonalne.\n    0 5                                    5:0                                    5 0                         0:5",
+      "options": [
+        "0 5",
+        "5:0",
+        "5 0",
+        "0:5"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Ustal, jakie wartości kryją się pod motylkami.\n                                    37 +          = 100            - 48 = 27                 49 + 35 =\n                                        64                   63                    65                    62\n\n                                        75                   74                    76                    77\n\n                                        85                   87                    84                    86",
+      "options": [
+        "85",
+        "87",
+        "84",
+        "86"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Miesiąc IX ma:\n    30 dni                                 28 dni                                 29 dni                      31 dni",
+      "options": [
+        "30 dni",
+        "28 dni",
+        "29 dni",
+        "31 dni"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Jest godzina 8.45. Która godzina będzie za półtorej godziny?",
+      "options": [],
+      "confidence": "low",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Przedwczoraj był piątek. Pojutrze będzie:\n    środa                                  poniedziałek                           wtorek                      czwartek",
+      "options": [
+        "środa",
+        "poniedziałek",
+        "wtorek",
+        "czwartek"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "45                                   10.45                                  10.15                       10.30",
+      "options": [
+        "45",
+        "10.45",
+        "10.15",
+        "10.30"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Wskaż liczbę złożoną z 4 setek, 3 dziesiątek i 8 jedności.\n    438                                    834                                    483                         348",
+      "options": [
+        "438",
+        "834",
+        "483",
+        "348"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Wskaż iloczyny, które mają takie same wyniki.\n    2 9                                    3 6                                    7 3                         5 4",
+      "options": [
+        "2 9",
+        "3 6",
+        "7 3",
+        "5 4"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Marek miał 9 monet po 5 zł. Kupił notes za 6 zł i długopis za 13 zł. Ile złotych zostało Markowi?\n    33 zł                                  9 zł                                   13 zł                       26 zł",
+      "options": [
+        "33 zł",
+        "9 zł",
+        "13 zł",
+        "26 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Oblicz i wskaż działania z takimi samymi wynikami.\n   100 : 2                               23 + 27                             80 - 30                   75 - 26",
+      "options": [
+        "100 : 2",
+        "23 + 27",
+        "80 - 30",
+        "75 - 26"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Zmniejszyć liczbę 24 trzy razy, to znaczy:\n   pomnożyć ją przez 3                   podzielić ją przez 3                odjąć od niej 3           dodać do niej 3",
+      "options": [
+        "pomnożyć ją przez 3",
+        "podzielić ją przez 3",
+        "odjąć od niej 3",
+        "dodać do niej 3"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Jaka liczba ukryła się pod kwiatkiem?\n                                                                   :9=3\n   27                                    36                                  28                        24",
+      "options": [
+        "27",
+        "36",
+        "28",
+        "24"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Rodzice Marty mają razem pół wieku. Mama Marty jest młodsza od taty i ma 23 lata. Ile lat ma tata Marty?\n   23 lata                               27 lat                              26 lat                    28 lat",
+      "options": [
+        "23 lata",
+        "27 lat",
+        "26 lat",
+        "28 lat"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Ma początek, ale nie ma końca.\n   półprosta                             odcinek                             prosta                    punkt",
+      "options": [
+        "półprosta",
+        "odcinek",
+        "prosta",
+        "punkt"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Wskaż szereg, w którym liczby zostały uporządkowane od najmniejszej do największej.\n   12 434, 9 872, 71 602, 38 432                                             8 574, 45 678, 76 521, 10 736\n   5 864, 13 897, 38 655, 79 321                                             7 321, 8 933, 13 762, 2 345",
+      "options": [
+        "12 434, 9 872, 71 602, 38 432",
+        "8 574, 45 678, 76 521, 10 736",
+        "5 864, 13 897, 38 655, 79 321",
+        "7 321, 8 933, 13 762, 2 345"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Jak można podzielić 36 ciastek między sześcioro dzieci?\n   1 + 3 + 5 + 7 + 9 + 11                2 + 4 + 6 + 8 + 10 + 12             6 6                       2+3+7+8+6+9",
+      "options": [
+        "1 + 3 + 5 + 7 + 9 + 11",
+        "2 + 4 + 6 + 8 + 10 + 12",
+        "6 6",
+        "2+3+7+8+6+9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Wskaż liczby, których połowa jest liczbą parzystą.\n   72                                    66                                  50                        84",
+      "options": [
+        "72",
+        "66",
+        "50",
+        "84"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Długość skoku kangura wynosi dziewięć metrów. Ile takich skoków musi wykonać kangur, żeby pokonać odległość 81 metrów?\n   6                                     8                                   9                         7",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "7"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Od iloczynu liczb 6 i 8 odejmij ich sumę.\n   14                                    42                                  40                        34",
+      "options": [
+        "14",
+        "42",
+        "40",
+        "34"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Wskaż liczby trzycyfrowe parzyste, w których rząd setek to dziewięć, a rząd jedności to osiem.\n   998                                   989                                 898                       908",
+      "options": [
+        "998",
+        "989",
+        "898",
+        "908"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Ile razem nóg mają 3 tygrysy, 4 lwy i 2 papugi?\n   32                                    16                                  9                         22",
+      "options": [
+        "32",
+        "16",
+        "9",
+        "22"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Zosia spędziła dwa tygodnie ferii zimowych u babci na wsi. Ile to dni?\n   28 dni                                21 dni                              7 dni                     14 dni",
+      "options": [
+        "28 dni",
+        "21 dni",
+        "7 dni",
+        "14 dni"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Ile wynosi długość drogi liska? Oblicz i zaznacz prawidłową odpowiedź.\n\n\n                                                                                      12\n                                                 25 cm                                   cm\n                                                                       m\n                                 cm                                  9c\n                              27                                                                6 cm\n\n\n\n\n   80 cm                                 78 cm                               79 cm                     77 cm",
+      "options": [
+        "80 cm",
+        "78 cm",
+        "79 cm",
+        "77 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

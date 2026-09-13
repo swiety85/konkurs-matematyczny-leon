@@ -32,13 +32,13 @@ export const klasa4Tasks: Task[] = [
     typ: 'multi',
     tresc: 'Wskaż liczby podzielne przez 6.',
     opcje: {
-      A: '42',
+      A: '48',
       B: '54',
-      C: '72',
+      C: '66',
       D: '55'
     },
     poprawne: ['A', 'B', 'C'],
-    wyjasnienie: '42, 54 i 72 dzielą się przez 2 i przez 3.',
+    wyjasnienie: '48, 54 i 66 dzielą się przez 2 i przez 3, a 55 nie dzieli się przez 2.',
     zrodlo: 'Mostek kl.4 / Wiosna 2025',
     trudnosc: 2,
   },

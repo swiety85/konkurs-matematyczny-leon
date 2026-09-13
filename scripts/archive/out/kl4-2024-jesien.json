@@ -1,0 +1,388 @@
+{
+  "sheet": "kl4-2024-jesien",
+  "label": "Klasa 4 / Jesien 2024",
+  "file": "MATEMATYKA_Klasa4_jesień_2024.pdf",
+  "pages": 2,
+  "detectedQuestions": 29,
+  "expectedQuestions": 29,
+  "diff": 0,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Ile cm ma odcinek CD?\n\n            odcinek AB = 2 dm           odcinek BC = 7 cm        odcinek CD = ?            odcinek AD = 35 cm\n\n       A                                             B                    C                                     D\n\n\nA. 6 cm                                 B. 5 cm                               C. 26 cm                              D. 8 cm",
+      "options": [
+        "Ile cm ma odcinek CD?\n\n            odcinek AB = 2 dm           odcinek BC = 7 cm        odcinek CD = ?            odcinek AD = 35 cm\n\n       A                                             B                    C                                     D",
+        "A. 6 cm",
+        "B. 5 cm",
+        "C. 26 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "W której liczbie cyfra setek jest większa od cyfry jedności?\nA. 431                                B. 534                                  C. 132                                D. 261",
+      "options": [
+        "W której liczbie cyfra setek jest większa od cyfry jedności?",
+        "A. 431",
+        "B. 534",
+        "C. 132"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Suma liczby 17 i liczby 4 razy od niej większej jest równa:\nA. 85                                 B. 82                                   C. 38                                 D. 36",
+      "options": [
+        "Suma liczby 17 i liczby 4 razy od niej większej jest równa:",
+        "A. 85",
+        "B. 82",
+        "C. 38"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Marta ma 100 monet po 50 groszy. Ile złotych ma Marta?\n                                        A. 50 zł           B. 550 zł                C. 5500 zł                      D. 5.5 zł",
+      "options": [
+        "Marta ma 100 monet po 50 groszy. Ile złotych ma Marta?",
+        "A. 50 zł",
+        "B. 550 zł",
+        "C. 5500 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Gdzie została poprawnie zapisana liczba: dwieście siedem tysięcy trzysta dwanaście.\n                                 A. 207312              B. 270312               C. 2007321               D. 2070312",
+      "options": [
+        "Gdzie została poprawnie zapisana liczba: dwieście siedem tysięcy trzysta dwanaście.",
+        "A. 207312",
+        "B. 270312",
+        "C. 2007321"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "W której liczbie cyfra dziesiątek jest większa od cyfry setek?\nA. 384                                 B. 237                                 C. 532                                D. 215",
+      "options": [
+        "W której liczbie cyfra dziesiątek jest większa od cyfry setek?",
+        "A. 384",
+        "B. 237",
+        "C. 532"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Jaka liczba kryje się pod ?\n                                                             14 + 32 = 55 - ?\nA. 8                                    B. 11                                 C. 9                                  D. 13",
+      "options": [
+        "Jaka liczba kryje się pod ?\n                                                             14 + 32 = 55 - ?",
+        "A. 8",
+        "B. 11",
+        "C. 9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Odejmij 32 od ilorazu liczb 16 i 4. Jaką liczbę otrzymasz?\nA. 18                                  B. 28                                  C. (-18)                              D. (-28)",
+      "options": [
+        "Odejmij 32 od ilorazu liczb 16 i 4. Jaką liczbę otrzymasz?",
+        "A. 18",
+        "B. 28",
+        "C. (-18)"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Pies waży 6 kg, kot 3 kg, a wiewiórka 500 g. Oblicz, ile razem ważą: dwa psy, cztery koty i trzy wiewiórki.\nA. 255 kg                            B. 25,5 kg                          C.25500 g                          D. 2550 dag",
+      "options": [
+        "Pies waży 6 kg, kot 3 kg, a wiewiórka 500 g. Oblicz, ile razem ważą: dwa psy, cztery koty i trzy wiewiórki.",
+        "A. 255 kg",
+        "B. 25,5 kg                          C.25500 g",
+        "D. 2550 dag"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Które lata należą do VI wieku?\n            A. 499 rok                    B. 500 rok                              C. 501 rok                        D. 600 rok",
+      "options": [
+        "Które lata należą do VI wieku?",
+        "A. 499 rok",
+        "B. 500 rok",
+        "C. 501 rok"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Na przedstawieniu siedzi 15 dzieci, a stoi 2 razy więcej. Ile jest dzieci na przedstawieniu?\n            A. 17                        B. 13                                  C. 30                        D. 45",
+      "options": [
+        "Na przedstawieniu siedzi 15 dzieci, a stoi 2 razy więcej. Ile jest dzieci na przedstawieniu?",
+        "A. 17",
+        "B. 13",
+        "C. 30"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Dzielimy 63 jabłka po równo między 7 uczniów. Ile jabłek dostanie każdy uczeń?\n            A. 6                         B. 7                               C. 9                                    D. 8",
+      "options": [
+        "Dzielimy 63 jabłka po równo między 7 uczniów. Ile jabłek dostanie każdy uczeń?",
+        "A. 6",
+        "B. 7",
+        "C. 9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Mama ma 36 lat i jest młodsza od taty o 6 lat. Ile lat mają łącznie mama i tata?\n           A. 42                     B. 64                                  C. 78                                   D. 72",
+      "options": [
+        "Mama ma 36 lat i jest młodsza od taty o 6 lat. Ile lat mają łącznie mama i tata?",
+        "A. 42",
+        "B. 64",
+        "C. 78"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Wynik odejmowania to:\nA. suma                                 B. różnica                            C. iloczyn                            D. iloraz",
+      "options": [
+        "Wynik odejmowania to:",
+        "A. suma",
+        "B. różnica",
+        "C. iloczyn"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Które dzielenie jest poprawne?\nA. 18 : 5 = 3                      B. 20 : 5 = 4                             C. 18 : 8 = 2                    D. 24 : 4 = 6",
+      "options": [
+        "Które dzielenie jest poprawne?",
+        "A. 18 : 5 = 3",
+        "B. 20 : 5 = 4",
+        "C. 18 : 8 = 2"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Paweł kupił 14 długopisów za 2,70 zł każdy. Ile zapłacił za zakupy?\n               A. 47,80 zł                   B. 37,80 zł                      C. 37,08 zł                     D. 16,70 zł",
+      "options": [
+        "Paweł kupił 14 długopisów za 2,70 zł każdy. Ile zapłacił za zakupy?",
+        "A. 47,80 zł",
+        "B. 37,80 zł",
+        "C. 37,08 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Które zdania są fałszywe?\n            A. Kwiecień jest miesiącem z pierwszego kwartału.                B. Wynik mnożenia to iloczyn.\n            C. Jeden kwadrans to pół godziny.                                D. Liczba podzielona przez samą siebie daje 1.",
+      "options": [
+        "Które zdania są fałszywe?",
+        "A. Kwiecień jest miesiącem z pierwszego kwartału.",
+        "B. Wynik mnożenia to iloczyn.",
+        "C. Jeden kwadrans to pół godziny."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Ania wyjechała autobusem do szkoły o 7:43, na miejscu była 8:15. Ile minut Ania jechała autobusem?\nA. 30 minut                      B. 28 minut                           C. 32 minuty                   D. 25 minut",
+      "options": [
+        "Ania wyjechała autobusem do szkoły o 7:43, na miejscu była 8:15. Ile minut Ania jechała autobusem?",
+        "A. 30 minut",
+        "B. 28 minut",
+        "C. 32 minuty"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Jaki znak wstawisz pomiędzy działaniami, tak żeby było poprawne:\n                                                           123 + 219 ... 442 - 111\nA. <                                  B. >                                   C. =                             D. -",
+      "options": [
+        "Jaki znak wstawisz pomiędzy działaniami, tak żeby było poprawne:\n                                                           123 + 219 ... 442 - 111",
+        "A. <",
+        "B. >",
+        "C. ="
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Zaznacz odpowiedni znak: <, =, > .\n\n12 3 ... 8 7                 A. <                   B. >                   C. =                D. -\n\n44 - 13 ... 8 4              A. =                   B. -                   C. <                D. >\n\n7 7 ... 26 + 23              A. -                   B. <                   C. =                D. <",
+      "options": [
+        "Zaznacz odpowiedni znak: <, =, > .\n\n12 3 ... 8 7",
+        "A. <",
+        "B. >",
+        "C. ="
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Ile wody jest w konewce, jeśli wlano do niej 5 razy po pół litra?\n                  A. 3,5 l                   B. 2500 ml                         C. 2,5 l                      D. 150 ml",
+      "options": [
+        "Ile wody jest w konewce, jeśli wlano do niej 5 razy po pół litra?",
+        "A. 3,5 l",
+        "B. 2500 ml",
+        "C. 2,5 l"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Do liczby 515 dodaj sumę liczb 13 i 25. Zaznacz wynik.\n                  A. 551                     B. 553                          C. 625                           D. 578",
+      "options": [
+        "Do liczby 515 dodaj sumę liczb 13 i 25. Zaznacz wynik.",
+        "A. 551",
+        "B. 553",
+        "C. 625"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Jaka liczba ukryła się pod latawcem?\n\n                                                                                             = 125\n\n\n\nA. 4                                  B. 7                                   C. 5                             D. 6",
+      "options": [
+        "Jaka liczba ukryła się pod latawcem?\n\n                                                                                             = 125",
+        "A. 4",
+        "B. 7",
+        "C. 5"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Jest godzina 9:15. Która godzina będzie za dwie i pół godziny?\nA. 11:45                            B. 12:00                                  C. 11:30                         D. 12:30",
+      "options": [
+        "Jest godzina 9:15. Która godzina będzie za dwie i pół godziny?",
+        "A. 11:45",
+        "B. 12:00",
+        "C. 11:30"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "\u0007Marta dostała od babci dwa banknoty stuzłotowe, trzy banknoty pięćdziesięciozłotowe, sześć banknotów\n    dwudziestozłotowych oraz osiem monet pięciozłotowych. Które zdanie jest prawdziwe?\nA. Kwota uzbierana przez Martę jest liczbą większą od 600.\nB. Kwota uzbierana przez Martę jest liczbą podzielną przez 3.\nC. Kwota uzbierana przez Martę jest mniejsza od 550 zł.\nD. Kwota uzbierana przez Martę wystarczy na zakup hulajnogi za 550 zł.",
+      "options": [
+        "\u0007Marta dostała od babci dwa banknoty stuzłotowe, trzy banknoty pięćdziesięciozłotowe, sześć banknotów\n    dwudziestozłotowych oraz osiem monet pięciozłotowych. Które zdanie jest prawdziwe?",
+        "A. Kwota uzbierana przez Martę jest liczbą większą od 600.",
+        "B. Kwota uzbierana przez Martę jest liczbą podzielną przez 3.",
+        "C. Kwota uzbierana przez Martę jest mniejsza od 550 zł."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 26,
+      "page": 0,
+      "rawText": "Wszystkich liczb parzystych większych od 16, a mniejszych od 40 jest:\nA. 11                              B. 10                               C. 9                                   D. 8",
+      "options": [
+        "Wszystkich liczb parzystych większych od 16, a mniejszych od 40 jest:",
+        "A. 11",
+        "B. 10",
+        "C. 9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 27,
+      "page": 0,
+      "rawText": "Film w kinie rozpoczął się o 17:00 i trwał 117 minut. O której skończył się film?\nA. 18:57                             B. 19:57                            C. 18:37                             D. 17:47",
+      "options": [
+        "Film w kinie rozpoczął się o 17:00 i trwał 117 minut. O której skończył się film?",
+        "A. 18:57",
+        "B. 19:57",
+        "C. 18:37"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 28,
+      "page": 0,
+      "rawText": "W działaniu 115 -         = 52. Co należy wstawić za chmurkę?\nA. 53                                 B. 48                                  C. 71                            D. 63",
+      "options": [
+        "W działaniu 115 -         = 52. Co należy wstawić za chmurkę?",
+        "A. 53",
+        "B. 48",
+        "C. 71"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 29,
+      "page": 0,
+      "rawText": "Obwód kwadratu wynosi 64 cm. Jego bok ma długość:\nA. 15 cm                       B. 16 cm                                      C. 17 cm                         D. 18 cm",
+      "options": [
+        "Obwód kwadratu wynosi 64 cm. Jego bok ma długość:",
+        "A. 15 cm",
+        "B. 16 cm",
+        "C. 17 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

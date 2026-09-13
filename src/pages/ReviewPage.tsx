@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { QuizRunner } from '../components/QuizRunner'
 import { useProfile } from '../context/ProfileContext'
-import { getTasksForPool } from '../data'
+import { loadTasksForPool } from '../data'
 import { TOPICS } from '../data/meta'
 import { selectAdaptiveTasks } from '../engine/adaptive'
 import { getDueTopics, getWeakTopics } from '../engine/storage'
@@ -10,17 +10,22 @@ import type { SessionRecord, Task } from '../types'
 export function ReviewPage() {
   const { profile, recordSession } = useProfile()
   const [tasks, setTasks] = useState<Task[]>([])
+  const [loading, setLoading] = useState(false)
   const weak = getWeakTopics(profile, 5)
   const due = getDueTopics(profile)
 
   const startReview = () => {
     const focus = Array.from(new Set([...due, ...weak]))
-    setTasks(
-      selectAdaptiveTasks(getTasksForPool(profile.klasa, 'learn'), profile, 12, {
-        topics: focus.length ? focus : undefined,
-        preferDue: true,
-      }),
-    )
+    setLoading(true)
+    void loadTasksForPool(profile.klasa, 'learn').then((pool) => {
+      setTasks(
+        selectAdaptiveTasks(pool, profile, 12, {
+          topics: focus.length ? focus : undefined,
+          preferDue: true,
+        }),
+      )
+      setLoading(false)
+    })
   }
 
   if (tasks.length > 0) {
@@ -79,10 +84,11 @@ export function ReviewPage() {
         )}
         <button
           type="button"
+          disabled={loading}
           onClick={startReview}
-          className="mt-6 w-full rounded-2xl bg-amber-500 py-4 text-lg font-bold text-white shadow-lg hover:bg-amber-600"
+          className="mt-6 w-full rounded-2xl bg-amber-500 py-4 text-lg font-bold text-white shadow-lg hover:bg-amber-600 disabled:opacity-50"
         >
-          Ćwicz słabe tematy
+          {loading ? 'Ładowanie zadań…' : 'Ćwicz słabe tematy'}
         </button>
       </div>
     </div>

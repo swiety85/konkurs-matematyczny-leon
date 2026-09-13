@@ -1,0 +1,387 @@
+{
+  "sheet": "kl4-2023-wiosna",
+  "label": "Klasa 4 / Wiosna 2023",
+  "file": "MATEMATYKA Klasa IV wiosna 2023.pdf",
+  "pages": 2,
+  "detectedQuestions": 29,
+  "expectedQuestions": 29,
+  "diff": 0,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Która z podanych liczb jest nieparzysta?\nA. 52                                B. 12                                C. 14                       D. 37",
+      "options": [
+        "Która z podanych liczb jest nieparzysta?",
+        "A. 52",
+        "B. 12",
+        "C. 14"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Wybierz brakującą liczbę, aby wynik działania był poprawny 157 - ….. = 124\nA. 13                              B. 33                                C. 24                         D. 23",
+      "options": [
+        "Wybierz brakującą liczbę, aby wynik działania był poprawny 157 - ….. = 124",
+        "A. 13",
+        "B. 33",
+        "C. 24"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Jaki jest wynik działania 2 7 - 3 ?\nA. 8                                  B. 10                               C. 11                       D. 13",
+      "options": [
+        "Jaki jest wynik działania 2 7 - 3 ?",
+        "A. 8",
+        "B. 10",
+        "C. 11"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Wynik, którego działania jest najmniejszy?\nA. 99 + 0                           B. 89 + 10                            C. 79 + 11                  D. 85 + 7",
+      "options": [
+        "Wynik, którego działania jest najmniejszy?",
+        "A. 99 + 0",
+        "B. 89 + 10",
+        "C. 79 + 11"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Jak zapiszesz liczbę 27 w systemie rzymskim?\nA. XVII                             B. DVII                               C. XXVII                    D. IIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+      "options": [
+        "Jak zapiszesz liczbę 27 w systemie rzymskim?",
+        "A. XVII",
+        "B. DVII",
+        "C. XXVII"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Dla których par liczb NWD wynosi 6?\nA. 12, 16                         B. 6, 12                                C. 12, 18                   D. 24, 30",
+      "options": [
+        "Dla których par liczb NWD wynosi 6?",
+        "A. 12, 16",
+        "B. 6, 12",
+        "C. 12, 18"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Wynikiem dodawania 2 liczb parzystych jest:\nA. zero                           B. liczba nieparzysta\nC. liczba parzysta                D. czasem liczba parzysta a czasem nieparzysta",
+      "options": [
+        "Wynikiem dodawania 2 liczb parzystych jest:",
+        "A. zero",
+        "B. liczba nieparzysta",
+        "C. liczba parzysta"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Mamy dwa działania. A) 9 2 + 3 oraz B) 9 (2 + 3). Prawdą jest że wyniki:\nA. A = B                          B. A > B                             C. B > A                       D. A > 30 i B > 30",
+      "options": [
+        "Mamy dwa działania.",
+        "A) 9 2 + 3 oraz",
+        "B) 9 (2 + 3). Prawdą jest że wyniki:",
+        "A. A = B"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Która z podanych liczb jest największa?\n            A. X                     B. III                               C. C                        D. XC",
+      "options": [
+        "Która z podanych liczb jest największa?",
+        "A. X",
+        "B. III",
+        "C. C"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "N\n                                 \u0007 atasza pomyślała o pewnej liczbie dwucyfrowej. Pomnożyła ją przez 3. Wynik okazał się być dziel-\n                                 nikiem liczby 78. O jakiej liczbie pomyślała Natasza?\n                                        A. 11                                 B. 13\n                                        C. 17                                 D. 26",
+      "options": [
+        "N\n                                 \u0007 atasza pomyślała o pewnej liczbie dwucyfrowej. Pomnożyła ją przez 3. Wynik okazał się być dziel-\n                                 nikiem liczby 78. O jakiej liczbie pomyślała Natasza?",
+        "A. 11",
+        "B. 13",
+        "C. 17"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Średnica koła ma długość 4 cm. Pole tego koła wynosi w przybliżeniu:\n                                      A. 50,24 cm2                       B. 25,12 cm2\n                                      C. 12,56 cm2\n                                                                         D. brak odpowiedzi",
+      "options": [
+        "Średnica koła ma długość 4 cm. Pole tego koła wynosi w przybliżeniu:",
+        "A. 50,24 cm2",
+        "B. 25,12 cm2",
+        "C. 12,56 cm2"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "21 67 to tyle samo co:\n  306                                    306                                  153                        133\nA. 14                                  B. 7                               C. 1 14                     D. 7",
+      "options": [
+        "21 67 to tyle samo co:\n  306                                    306                                  153                        133",
+        "A. 14",
+        "B. 7",
+        "C. 1 14"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Kąt prosty jest mniejszy od kąta półpełnego o:\nA. 90°                              B. 45°                               C. 30°                       D. 180°",
+      "options": [
+        "Kąt prosty jest mniejszy od kąta półpełnego o:",
+        "A. 90°",
+        "B. 45°",
+        "C. 30°"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Wskazówki zegara o godzinie 6:00 tworzą kąt:\nA. pełny                          B. półpełny                            C. prosty                    D. ostry",
+      "options": [
+        "Wskazówki zegara o godzinie 6:00 tworzą kąt:",
+        "A. pełny",
+        "B. półpełny",
+        "C. prosty"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Jaka jest rzeczywista odległość z miejscowości A do miejscowości B? Skoro na mapie w skali 1: 50000, ta odległość wynosi 5 cm.\nA. 2,5 km                             B. 0,25 km                          C. 25 km                    D. 250 km",
+      "options": [
+        "Jaka jest rzeczywista odległość z miejscowości A do miejscowości B? Skoro na mapie w skali 1: 50000, ta odległość wynosi 5 cm.",
+        "A. 2,5 km",
+        "B. 0,25 km",
+        "C. 25 km"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Wybierz zdanie prawdziwe:\nA. Cięciwa jest zawsze krótsza od średnicy                               B. Istnieje cięciwa, której długość jest równa średnicy.\nC. Promień koła jest jego cięciwą.\t\t                                     D. Cięciwa zawsze przechodzi przez środek okręgu.",
+      "options": [
+        "Wybierz zdanie prawdziwe:",
+        "A. Cięciwa jest zawsze krótsza od średnicy",
+        "B. Istnieje cięciwa, której długość jest równa średnicy.",
+        "C. Promień koła jest jego cięciwą."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Wskaż największą liczbę.\nA. 1 14\n     50\n                                     B.1 14\n                                         25\n                                                                         C. 1,14                      D.1,114",
+      "options": [
+        "Wskaż największą liczbę.",
+        "A. 1 14\n     50\n                                     B.1 14\n                                         25",
+        "C. 1,14                      D.1,114"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Która z poniższych liczb jest liczbą parzystą, podzielną przez 7.\nA. 76                                 B. 77                              C. 96                        D. 98",
+      "options": [
+        "Która z poniższych liczb jest liczbą parzystą, podzielną przez 7.",
+        "A. 76",
+        "B. 77",
+        "C. 96"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "NWW liczb 24 i 36\nA. 36                                B. 72                               C. 432                       D. 864",
+      "options": [
+        "NWW liczb 24 i 36",
+        "A. 36",
+        "B. 72",
+        "C. 432"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Jedna tona to:\n           A. 1000 kg                B. 100000 dag                       C. 1000000 g                 D. 1000000 dag",
+      "options": [
+        "Jedna tona to:",
+        "A. 1000 kg",
+        "B. 100000 dag",
+        "C. 1000000 g"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Pole kwadratu o boku 2 dm wynosi.\n       A. 4 dm2                    B. 400 cm2                            C. 4 dm                      D. 400 cm",
+      "options": [
+        "Pole kwadratu o boku 2 dm wynosi.",
+        "A. 4 dm2",
+        "B. 400 cm2",
+        "C. 4 dm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Kasia ma 150 cm wzrostu, kiedy się urodziła, mierzyła 54 cm, o ile urosła Kasia?\nA. 9 dm 6 cm                      B. 96 cm                              C. 1 m 6 cm                   D. 9 cm 6 dm",
+      "options": [
+        "Kasia ma 150 cm wzrostu, kiedy się urodziła, mierzyła 54 cm, o ile urosła Kasia?",
+        "A. 9 dm 6 cm",
+        "B. 96 cm",
+        "C. 1 m 6 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Wyniki, których równań to liczba nieparzysta, podzielna przez 3:\nA. 2 6 + 3                         B. 4 8 - 5                            C. 2 6 + 6                   D. 6 9 - 11",
+      "options": [
+        "Wyniki, których równań to liczba nieparzysta, podzielna przez 3:",
+        "A. 2 6 + 3",
+        "B. 4 8 - 5",
+        "C. 2 6 + 6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Które z poniższych liczb są podzielne przez 12?\nA. 600                              B. 612                               C. 700                       D. 712",
+      "options": [
+        "Które z poniższych liczb są podzielne przez 12?",
+        "A. 600",
+        "B. 612",
+        "C. 700"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Na farmie jest 10 kur 3 krowy i 7 owiec. Ile razem nóg mają zwierzęta?\nA. 60                               B. mniej niż 70                     C. ponad 60                   D. 80",
+      "options": [
+        "Na farmie jest 10 kur 3 krowy i 7 owiec. Ile razem nóg mają zwierzęta?",
+        "A. 60",
+        "B. mniej niż 70",
+        "C. ponad 60"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 26,
+      "page": 0,
+      "rawText": "Wynikiem działania - 17 + 16 jest:\nA. 33                              B. - 33                               C. 1                         D. - 1",
+      "options": [
+        "Wynikiem działania - 17 + 16 jest:",
+        "A. 33",
+        "B. - 33",
+        "C. 1"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 27,
+      "page": 0,
+      "rawText": "Prostopadłościan jest.:\nA. Sześcianem.                       B. Figurą płaską.                   C. Figurą przestrzenną.      D. Bryłą obrotową.",
+      "options": [
+        "Prostopadłościan jest.:",
+        "A. Sześcianem.",
+        "B. Figurą płaską.",
+        "C. Figurą przestrzenną."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 28,
+      "page": 0,
+      "rawText": "Jaką cyfrę musimy wstawić w miejsce kropek 5….40, aby otrzymać liczbę podzielną przez 3 i przez 4?\n      A. 2                       B. 3                                C. 6                        D. 8",
+      "options": [
+        "Jaką cyfrę musimy wstawić w miejsce kropek 5….40, aby otrzymać liczbę podzielną przez 3 i przez 4?",
+        "A. 2",
+        "B. 3",
+        "C. 6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 29,
+      "page": 0,
+      "rawText": "Konkurs matematyczny Leon trwa 45 minut. Ile trwa ten konkurs?\n                A. 34 godziny    B. jedną godzinę lekcyjną           C. ponad 12 godziny              D. godzinę",
+      "options": [
+        "Konkurs matematyczny Leon trwa 45 minut. Ile trwa ten konkurs?",
+        "A. 34 godziny",
+        "B. jedną godzinę lekcyjną",
+        "C. ponad 12 godziny"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

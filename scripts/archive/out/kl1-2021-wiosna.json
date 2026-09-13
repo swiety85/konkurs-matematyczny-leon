@@ -1,0 +1,279 @@
+{
+  "sheet": "kl1-2021-wiosna",
+  "label": "Klasa 1 / Wiosna 2021",
+  "file": "matematyka klasa 1 wiosna 2021.pdf",
+  "pages": 2,
+  "detectedQuestions": 21,
+  "expectedQuestions": 28,
+  "diff": -7,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Wskaż liczby parzyste.\n       4, 8, 12                                 18, 19, 20                                                                                                                                               6, 16, 18                      7, 9, 15\n..................................................................................................................................\n\n\n\n\n                                                                    ............... .................... ...................... ................................................... ..............",
+      "options": [
+        "18, 19, 20",
+        "6, 16, 18",
+        "7, 9, 15\n..................................................................................................................................",
+        "............... .................... ...................... ................................................... .............."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Wskaż największą liczbę jednocyfrową.                                                                                                                                3. Który wynik jest błędny?\n          5                                 9                                                                                                                                                            17 - 10 = 7               10 + 6 = 20\n          10                                1                                                                                                                                                            15 + 3 = 18               12 + 7 =19\n .......................................................................................................................................",
+      "options": [
+        "10",
+        "1",
+        "15 + 3 = 18",
+        "12 + 7 =19\n ......................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Wskaż zegar, który pokazuje godzinę 8.00.                                                                                                                           5. Na dwóch gałązkach jest 16 kwiatów. Na\n                                                                                                                                                                        pierwszej gałązce jest 7 kwiatów. Ile kwiatów\n                                                                                                                                                                        jest na drugiej gałązce?\n\n                                                                                                                                                                                                     23              9             8                  22\n                                                                                            .......................................................................\n .................................................................... 7. Rano termometr wskazywał 9°C. W południe",
+      "options": [
+        "9",
+        "8",
+        "22",
+        ".......................................................................\n .................................................................... 7. Rano termometr wskazywał 9°C. W południe"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Na sankach zjeżdża z górki sześcioro                                                                                               temperatura była o 8°C wyższa niż rano. Ile\n dzieci. Na nartach zjeżdża o siedmioro                                                                                                stopni Celsjusza wskazywał termometr w\n dzieci więcej. Ile dzieci zjeżdża na nartach?                                                                                         południe?\n     13           6            14          7                                                                                               16°C        19°C       18°C         17°C\n...........................................................................................................................................",
+      "options": [
+        "16°C",
+        "19°C",
+        "18°C",
+        "17°C\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Wskaż liczbę o 9 mniejszą od 18.                                                                                                                          9. Sylwia była 2 tygodnie w górach. Ile to dni?\n      8                24               9                    25                                                                                                                                      21              14            28                 7\n...........................................................................................................................................",
+      "options": [
+        "21",
+        "14",
+        "28",
+        "7\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Na połów ryb rybacy wypłynęli 3 łodziami.                                                                                               11. Samochód ma 4 koła. Tata musi wymienić\nW każdej łodzi było 6 rybaków. Ilu rybaków                                                                                                  koła w 5 samochodach. Ile kół musi wymienić\nwypłynęło na połów ryb?                                                                                                                     tata?\n      9                 19               18                 6                                                                                                                                        15          4         5             20           10\n ........................................................................................................................... .................",
+      "options": [
+        "4",
+        "5",
+        "20",
+        "10\n ........................................................................................................................... ................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Ala przyjechała do cioci we wtorek,                                                                                                                      13. Wodą z jednej butelki napełniono 4 szklanki.\n a odjechała w sobotę. Ile dni Ala spędziła                                                                                                                   Ile szklanek napełni się wodą z 6 takich butelek?\n u cioci?\n     2 dni       5 dni       4 dni        3 dni                                                                                                                                                      24              36            20                 16\n............................................................................................................................................",
+      "options": [
+        "24",
+        "36",
+        "20",
+        "16\n............................................................................................................................................"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Zosia ma 24 zł. Brakuje jej 6 zł, by mogła                                                                                                                   15. Jeżeli od liczby 20 odejmę liczbę, o której\n kupić bilet do kina. Jaka jest cena biletu?                                                                                                                      myślę, zostanie 13. O jakiej liczbie myślę?\n      24 zł             6 zł             30 zł             18 zł                                                                  9                                                                  7               6             8\n ...........................................................................................................................................",
+      "options": [
+        "9",
+        "7",
+        "6",
+        "8\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Przeczytaj i zaznacz PRAWDA lub FAŁSZ.\n     1 centymetr = 10 milimetrów.                                                                                                                                                                                         prawda              fałsz\n     Dodawanie i odejmowanie to działania wzajemnie odwrotne.                                                                                                                                                             prawda              fałsz\n     Odjemna i odjemnik = iloraz.                                                                                                                                                                                         prawda              fałsz\n     Zwiększyć dowolną liczbę o 5, to znaczy pomnożyć ją przez 5.                                                                                                                                                         prawda              fałsz\n     Minuty wskazuje duża wskazówka.                                                                                                                                                                                      prawda              fałsz\n     Litr jest jednostką wagi.                                                                                                                                                                                            prawda              fałsz\n     Najkrótszą drogę między dwoma punktami nazywamy odcinkiem.                                                                                                                                                           prawda              fałsz",
+      "options": [
+        "fałsz",
+        "Najkrótszą drogę między dwoma punktami nazywamy odcinkiem.",
+        "prawda",
+        "fałsz"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Wskaż figurę, która ma dwa boki parami równe i cztery kąty proste.\n\n\n\n...........................................................................................................................................",
+      "options": [],
+      "confidence": "low",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Liczba 45 jest:\n       różnicą liczb 26 i 19            iloczynem liczb 26 i 19                           ilorazem liczb 26 i 19          sumą liczb 26 i 19\n...........................................................................................................................................",
+      "options": [
+        "różnicą liczb 26 i 19",
+        "iloczynem liczb 26 i 19",
+        "ilorazem liczb 26 i 19",
+        "sumą liczb 26 i 19\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Wskaż, jaki to będzie dzień tygodnia.\n      Dziś jest niedziela, więc przedwczoraj był                                          poniedziałek        piątek              wtorek\n      Dziś jest środa, więc wczoraj był                                                   wtorek              czwartek            poniedziałek\n      Dziś jest poniedziałek, więc pojutrze będzie                                        sobota              wtorek              środa\n...........................................................................................................................................\n\n\n\n\n                                                                       ...............",
+      "options": [
+        "sobota",
+        "wtorek",
+        "środa\n...........................................................................................................................................",
+        "..............."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Patryk czyta codziennie 3 strony książki. Ile                                 21. Ile tu jest kwadratów?\nstron przeczyta w ciągu 5 dni?                                                                4          7\n         3                15               10                 5                               5          6\n...........................................................................................................................................",
+      "options": [
+        "10",
+        "5",
+        "5",
+        "6\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Kinga kupiła w kwiaciarni róże, tulipany i gerbery. Za róże i tulipany zapłaciła 30 zł.\n Ile zapłaciła za gerbery, jeżeli wszystkie kwiaty kosztowały 50 zł?\n     80 zł                             20 zł                                             30 zł                          50 zł\n...........................................................................................................................................",
+      "options": [
+        "80 zł",
+        "20 zł",
+        "30 zł",
+        "50 zł\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Oblicz różnicę liczb i zaznacz.\n      trzynaście i sześć ...................................                                       7     13       6       19\n      siedemnaście i dziewięć ...................................                                  26    17       8       9\n      czterdzieści i dziesięć ...................................                                  50    40       10      30\n...........................................................................................................................................",
+      "options": [
+        "50",
+        "40",
+        "10",
+        "30\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Maciek spał od godziny dziewiątej wieczorem do szóstej rano. Ile godzin spał Maciek?\n        8 godzin                           10 godzin                                     9 godzin                      7 godzin\n...........................................................................................................................................",
+      "options": [
+        "8 godzin",
+        "10 godzin",
+        "9 godzin",
+        "7 godzin\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Która liczba składa się z siedmiu dziesiątek i trzech jedności?\n        37                                 307                                           73                            703\n...........................................................................................................................................",
+      "options": [
+        "37",
+        "307",
+        "73",
+        "703\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 26,
+      "page": 0,
+      "rawText": "Bartek ma 18 lat i jest o 5 lat młodszy od siostry. Ile lat ma siostra Bartka?\n        22 lata                            13 lat                                         14 lat                       23 lata\n...........................................................................................................................................",
+      "options": [
+        "22 lata",
+        "13 lat",
+        "14 lat",
+        "23 lata\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 27,
+      "page": 0,
+      "rawText": "Wskaż liczby dwucyfrowe, w których cyfra jedności jest o 6 mniejsza od cyfry dziesiątek.\n      93                    82                     92                     60\n...........................................................................................................................................",
+      "options": [
+        "93",
+        "82",
+        "92",
+        "60\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 28,
+      "page": 0,
+      "rawText": "Wśród podanych liczb: 7, 10, 19, 30 wskaż dwie, których różnica jest najbliższa liczbie 10.\n\n        30 i 7                             30 i 19                                       19 i 10                       10 i 7\n...........................................................................................................................................",
+      "options": [
+        "30 i 7",
+        "30 i 19",
+        "19 i 10",
+        "10 i 7\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 29,
+      "page": 0,
+      "rawText": "Magda ma 100 zł. Chce kupić prezent siostrze. Pomóż jej wybrać zabawki tak, aby mogła\n  wydać wszystkie pieniądze. Wskaż prawidłową odpowiedź.\n\n\n\n\n        30 zł                                10 zł                                          20 zł                         40 zł\n\n         30 + 40 + 10 + 20                              10 + 20 + 40 + 10                                     40 + 40 + 30 + 10\n         30 + 20 + 20 + 20                             40 + 40 + 20                                           20 + 20 + 10 + 10 + 40\n                                                       www.leon-konkursy.pl",
+      "options": [
+        "30 + 20 + 20 + 20",
+        "40 + 40 + 20",
+        "20 + 20 + 10 + 10 + 40",
+        "www.leon-konkursy.pl"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

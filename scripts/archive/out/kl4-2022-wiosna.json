@@ -1,0 +1,370 @@
+{
+  "sheet": "kl4-2022-wiosna",
+  "label": "Klasa 4 / Wiosna 2022",
+  "file": "matematyka klasa 4 wiosna 2022-2.pdf",
+  "pages": 2,
+  "detectedQuestions": 28,
+  "expectedQuestions": 29,
+  "diff": -1,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Iloczyn wszystkich cyfr w roku 2022 daje wynik:\n       0                                    2                                                   6                             8\n...........................................................................................................................................\n\n\n\n\n                                                                    ...............",
+      "options": [
+        "2",
+        "6",
+        "8\n...........................................................................................................................................",
+        "..............."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Liczby, które dodajemy nazywamy:                                              3. Wynik dodawania to:\n       iloczynami                           różnicami                                           suma                       iloraz\n       składnikami                          czynnikami                                          różnica                    iloczyn\n ...........................................................................................................................................",
+      "options": [
+        "składnikami",
+        "czynnikami",
+        "różnica",
+        "iloczyn\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "..........................................................................................................................................",
+      "options": [],
+      "confidence": "low",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Karol miał 27 znaczków. Od babci dostał jeszcze 43 znaczki. Niestety po pewnym czasie\n zgubił 7 znaczków, a dwa oddał swojemu koledze. Ile znaczków teraz ma Karol?\n     70                       63                       61                      58\n ...........................................................................................................................................",
+      "options": [
+        "70",
+        "63",
+        "61",
+        "58\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Które działanie należy wykonać jako pierwsze w poniższym przykładzie?\n                               4+6:3•5–2\n      dodawanie                mnożenie               dzielenie                                                               odejmowanie\n....................................................................................................................................",
+      "options": [
+        "dodawanie",
+        "mnożenie",
+        "dzielenie",
+        "odejmowanie\n...................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Liczba 109 009 to:\n       milion dziewięć tysięcy                                                                   dziesięć tysięcy dziewięćset dziewięć\n       sto dziewięć tysięcy dziewięć                                                             sto dziewięć tysięcy dziewięćdziesiąt\n...........................................................................................................................................\n                                                                    ..................",
+      "options": [
+        "dziesięć tysięcy dziewięćset dziewięć",
+        "sto dziewięć tysięcy dziewięć",
+        "sto dziewięć tysięcy dziewięćdziesiąt\n...........................................................................................................................................",
+        ".................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Adam ma 12 lat, jego mama jest od niego                                  8. Obwód trójkąta równobocznego wynosi 24 cm.\n 3 razy starsza, a tata jest starszy od mamy                                 Ile wynosi długość boku?\n o 5 lat. O ile lat tata jest starszy od Adama?\n      21              29               36                 41                             0,8 cm           0,8 m       0,8 dm         80 mm\n...........................................................................................................................................",
+      "options": [
+        "0,8 cm",
+        "0,8 m",
+        "0,8 dm",
+        "80 mm\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Antek wylał sok na kartkę gdzie znajdowała się data zapisana sposobem rzymskim.\n Jaki znak może kryć się pod znakiem zapytania zachowując zasady zapisu liczb rzymskich?\n\n\n       M                                    C                                             III                             X\n ...........................................................................................................................................",
+      "options": [
+        "M",
+        "C",
+        "III",
+        "X\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Ile zer będzie po wykonaniu ilorazu 4000 i 20?\n      jedno                                 dwa                                           trzy                          cztery\n ...........................................................................................................................................",
+      "options": [
+        "jedno",
+        "dwa",
+        "trzy",
+        "cztery\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Mam 3 dziesiątki, 5 setek i 9 jedności. Jaką jestem liczbą?\n     359                       5393                    953                                                      539\n............................................................................................................................................",
+      "options": [
+        "359",
+        "5393",
+        "953",
+        "539\n............................................................................................................................................"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Ile nierówności zostało poprawnie zapisanych?\n         I. 16 > 19   II. 15 : 3 > 12 : 4 III. 4 • 3 + 2 > 5 + 2 • 3                                         IV. 5 • 4 > 3 • 8\n       żadna                      jedna                  dwie                                                            trzy\n.........................................................................................................................",
+      "options": [
+        "żadna",
+        "jedna",
+        "dwie",
+        "trzy\n........................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "W którym dzieleniu reszta jest równa 2?\n      17 : 3                  9:5                                                          7:5                           15 : 7\n ...........................................................................................................................................",
+      "options": [
+        "17 : 3",
+        "9:5",
+        "7:5",
+        "15 : 7\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Truskawki u Leona w ogrodzie rosną w 8 rzędach po 7 krzewów w każdym rzędzie. Które\n zdanie jest prawdziwe?\n       W sadzie Leona rośnie 56 truskawek.                                                W sadzie Leona rośnie 56 krzewów truskawek.\n       Liczba krzewów w sadzie Leona jest                                                 Liczba krzewów w sadzie Leona jest podzielna\n       podzielna przez 3.                                                                 przez 2.",
+      "options": [
+        "Liczba krzewów w sadzie Leona jest",
+        "Liczba krzewów w sadzie Leona jest podzielna",
+        "podzielna przez 3.",
+        "przez 2."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Jaką część liter w słowie LEON stanowi litera N?\n       2,5\n                                        _1                                   25%                                 0,25",
+      "options": [
+        "2,5",
+        "_1",
+        "25%",
+        "0,25"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Jaki jest iloczyn trzech kolejnych nieparzystych liczb naturalnych, z których najmniejsza\nz cyfr jest równa 3?\n     parzysty                nieparzysty               większy od 100          mniejszy od 100\n..........................................................................................................................................",
+      "options": [
+        "parzysty",
+        "nieparzysty",
+        "większy od 100",
+        "mniejszy od 100\n.........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Ania mieszka blisko kompleksu sportowego gdzie po lekcjach spotyka się ze znajomymi.\n Boisko ma wymiary 32 m x 17 m. Pole tego boiska wynosi:\n       522 m 2                          544 m 2                               482 m 2                             444 m2\n.......................................................................................................................................",
+      "options": [
+        "522 m 2",
+        "544 m 2",
+        "482 m 2",
+        "444 m2\n......................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Sześcian liczby 8 to:\n                                                                                                                   3\n       8+8+8                            3•8                                   8•8•8                              8\n...........................................................................................................................................",
+      "options": [
+        "8+8+8",
+        "3•8",
+        "8•8•8",
+        "8\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Staś zbierał na komputer. Wrzucał do pudełka na oszczędności tylko monety dwuzłotowe.\n Staś uzbierał 84 zł. Ile monet dwuzłotowych jest w pudełku?\n      84                     52                      42                    21\n...........................................................................................................................................",
+      "options": [
+        "84",
+        "52",
+        "42",
+        "21\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Zegar wskazuje godzinę: 8:47. Okazało się, że zegar spieszy się o 99 minut. Którą godzinę\npowinien wskazywać zegar, jeżeli działał by poprawnie?\n        7:04                              7:08                                7:27                                7:43\n...........................................................................................................................................",
+      "options": [
+        "7:04",
+        "7:08",
+        "7:27",
+        "7:43\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Pomyśl o najmniejszej liczbie trzycyfrowej, a następnie zwiększ ją o nią samą. Jaką liczbę\n otrzymasz?\n       parzystą                          pierwszą                             podzielną przez 6                   podzielną przez 2\n...........................................................................................................................................",
+      "options": [
+        "parzystą",
+        "pierwszą",
+        "podzielną przez 6",
+        "podzielną przez 2\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Które zdanie jest poprawne?\n        trzy kwadranse to 75% godziny                                         kwadrans stanowi _1\n                                                                                                6 godziny\n        10 minut to _\n                    1 godziny\n                    6\n                                                                              godzina to 3060 sekund\n...........................................................................................................................................",
+      "options": [
+        "10 minut to _",
+        "1 godziny",
+        "6",
+        "godzina to 3060 sekund\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Jaką cyfrę należy wstawić zamiast znaku zapytania? _\n                                                         19 = 4 _\n                                                                ?\n                                                                                     4        4\n        2                                    3                                4                                  5\n...........................................................................................................................................",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Jaką najmniejszą liczbę należy dodać do 327, aby otrzymać liczbę podzielną przez 5?\n         2                                   3                                8                                  13\n...........................................................................................................................................",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "13\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Jaką całość otrzymasz wyłączając ją przed ułamek 7 ?\n                                                                                     _\n                                                                                     29\n\n\n         dwie całe                           trzy całe                        cztery całe                         nie będzie całości\n...........................................................................................................................................",
+      "options": [
+        "dwie całe",
+        "trzy całe",
+        "cztery całe",
+        "nie będzie całości\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 26,
+      "page": 0,
+      "rawText": "Jaką liczbę otrzymasz, jeżeli 2365 powiększymy 4 razy?\n         2369                              7760                               9460                               9345\n........................................................................................................................",
+      "options": [
+        "2369",
+        "7760",
+        "9460",
+        "9345\n........................................................................................................................"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 27,
+      "page": 0,
+      "rawText": "Miesiąc w którym piszesz ten konkurs, czyli marzec znajduje się w:\n          pierwszym kwartale roku                                             drugim kwartale roku\n         trzecim kwartale roku                                                czwartym kwartale roku\n ...........................................................................................................................................",
+      "options": [
+        "pierwszym kwartale roku",
+        "drugim kwartale roku",
+        "trzecim kwartale roku",
+        "czwartym kwartale roku\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 28,
+      "page": 0,
+      "rawText": "Szymon wyszedł do sklepu o godzinie 10:18. W pierwszą stronę szedł 27 minut, a wracał\n  o 4 minuty szybciej. O której godzinie Szymon wrócił do domu?\n            11:18                            11:08                            10:58                              10:48\n...........................................................................................................................................",
+      "options": [
+        "11:18",
+        "11:08",
+        "10:58",
+        "10:48\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 29,
+      "page": 0,
+      "rawText": "Rok 2022 zapisany w systemie rzymskim to:\n         MMII                                MMXI                              MMXXII                             MMLII\n                                                       www.leon-konkursy.pl",
+      "options": [
+        "MMXI",
+        "MMXXII",
+        "MMLII",
+        "www.leon-konkursy.pl"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "sheet": "kl2-2023-wiosna",
+  "label": "Klasa 2 / Wiosna 2023",
+  "file": "MATEMATYKA Klasa II wiosna 2023.pdf",
+  "pages": 2,
+  "detectedQuestions": 23,
+  "expectedQuestions": 22,
+  "diff": 1,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Jakie liczby ukryły się pod obrazkiem? Zaznacz.\n                              16 +        = 25        + 17 = 36         15 + 14 =\n\n                                     8                6                    9                7\n                                     19               16                   17               18\n                                     28               27                   30               29",
+      "options": [
+        "16 +        = 25        + 17 = 36         15 + 14 =",
+        "8                6                    9                7",
+        "19               16                   17               18",
+        "28               27                   30               29"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Zaznacz błędne obliczenie.\n                                     17 + 23 + 4 – 9 = 35 \t\t                                25 + 39 + 16 – 27 = 53\n                                     58 + 14 – 29 = 44\t\t                                    83 – 29 + 15 = 69",
+      "options": [
+        "17 + 23 + 4 – 9 = 35",
+        "25 + 39 + 16 – 27 = 53",
+        "58 + 14 – 29 = 44",
+        "83 – 29 + 15 = 69"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Ile tu jest prostokątów? Wskaż działanie pasujące do zadania.\n\n\n\n                                     3 8+4                        3 9+4                     4 8-4                    9 3",
+      "options": [
+        "3 8+4",
+        "3 9+4",
+        "4 8-4",
+        "9 3"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Wskaż liczbę, która nie pasuje do pozostałych.\n\n\n\n                                     5                            4                         11                       27",
+      "options": [
+        "5",
+        "4",
+        "11",
+        "27"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "W dwóch pudełkach było 16 ciastek. W pierwszym pudełku było 8 ciastek. Ile ciastek było w drugim pudełku?\n                                     6                            7                         8                        9",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Zaznacz liczby nieparzyste:\n                                     7                            8                         6                        15",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "15"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Przeanalizuj ceny ubrań w sklepie. Oblicz, ile trzeba zapłacić za:\n                                                                                                         5 zł     7 zł\n\n                                                                                                                                      6 zł\n5 par rękawiczek                 25 zł           12 zł             18 zł            15 zł\n3 szaliki                        9 zł            18 zł             21 zł            42 zł             3 zł\n8 czapek                         24 zł           48 zł             56 zł            35 zł\n6 par skarpet                    30 zł           15 zł             35 zł            18zł",
+      "options": [
+        "30 zł",
+        "15 zł",
+        "35 zł",
+        "18zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Która data jest najwcześniejsza?",
+      "options": [],
+      "confidence": "low",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Wartość, którego wyrażenia wynosi 30?\n                              14 + 16                             6 5                       52 - 21                  60 : 2",
+      "options": [
+        "14 + 16",
+        "6 5",
+        "52 - 21",
+        "60 : 2"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Przeczytaj i zaznacz PRAWDA lub FAŁSZ.\nOdjemna – odjemnik = różnica.                                                               PRAWDA                   FAŁSZ\nSumę długości wszystkich boków wielokąta nazywamy obwodem.                                  PRAWDA                   FAŁSZ\nCLVI = 154\t\t\t                                                                               FAŁSZ                    PRAWDA\nTuzin to 60 sztuk.\t\t\t                                                                       FAŁSZ                    PRAWDA\nDziałaniem odwrotnym do mnożenia jest dzielenie.\t\t                                          PRAWDA                   FAŁSZ",
+      "options": [
+        "FAŁSZ",
+        "PRAWDA\nDziałaniem odwrotnym do mnożenia jest dzielenie.",
+        "PRAWDA",
+        "FAŁSZ"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Oblicz.\n28 : 7                                     5                                  4                          6                       3\n5 6                                        25                                 35                         30                      20\n15 : 3                                     5                                  3                          4                       6\n9 4                                        45                                 18                         27                      36",
+      "options": [
+        "45",
+        "18",
+        "27",
+        "36"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "\u0007W sadzie pan Marek chce posadzić 8 jabłoni. Jabłonie mają być rozmieszczone co 3 metry jak na ilustracji. Jaka będzie\n    odległość między pierwszą a siódmą jabłonią?\n\n             3m                     3m                    3m                  3m             3m                   3m             3m\n\n\nOdległość między pierwszą a siódmą jabłonią wynosi:\n                               15 m                                           18 m                       9m                      24 m",
+      "options": [
+        "15 m",
+        "18 m",
+        "9m",
+        "24 m"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Zaznacz odpowiedni znak: <, =, >.\n\n30 g ... 40 g                              <                                  >                          =                       -\n450 g ... 250 g                            =                                  -                          <                       >\n19 g ... 1 dag 9 g                         -                                  <                          =                       <",
+      "options": [
+        "-",
+        "<",
+        "=",
+        "<"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Jakie liczby ukryły się pod obrazkami? Rozwiąż zaszyfrowane działania.\n\n                         12 +       = 21                 + 17 = 35            19 + 8 =\n\n         :       =              2                   12                  9                    3\n         :       =              6                   2                   3                    9\n         -       =              9                   11                  10                   8",
+      "options": [
+        "9",
+        "11",
+        "10",
+        "8"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Tata Marty ma 192 cm wzrostu. Marta jest niższa od taty o 56 cm. Ile centymetrów wzrostu ma Marta?\n                             192 cm                       248 cm                  136 cm               56 cm",
+      "options": [
+        "192 cm",
+        "248 cm",
+        "136 cm",
+        "56 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "\u0007Pasek kolorowego papieru ma długość 20 cm. Ile centymetrów długości będzie miała każda część paska papieru,\n    jeżeli potniesz go na 5 równych części?\n                                3 cm                     4 cm                   6 cm                   8 cm",
+      "options": [
+        "3 cm",
+        "4 cm",
+        "6 cm",
+        "8 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Przedwczoraj był czwartek. Jaki dzień będzie jutro?\n                               środa                                          sobota                     niedziela               piątek",
+      "options": [
+        "środa",
+        "sobota",
+        "niedziela",
+        "piątek"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Tydzień i 6 dni. Ile to dni?\n                                           12 dni                             13 dni                     14 dni                  11 dni",
+      "options": [
+        "12 dni",
+        "13 dni",
+        "14 dni",
+        "11 dni"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Ile wynosi długość drogi ślimaka? Oblicz i zaznacz prawidłową odpowiedź.                                         11 cm\n                                           9 cm                                                  6 cm                                     4 cm\n                                                                      14 cm\n\n\n                                           44 cm                              43 cm                      46 cm                   45 cm",
+      "options": [
+        "44 cm",
+        "43 cm",
+        "46 cm",
+        "45 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Mama Kasi upiekła 25 babeczek. Brat Kasi i jej tata zjedli 9 babeczek. Ile babeczek zostało?\n                             17                              15                       16                                         34",
+      "options": [
+        "17",
+        "15",
+        "16",
+        "34"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Wskaż wyniki mnożenia liczb przez 6.\n                              36                                              24                         32                      21",
+      "options": [
+        "36",
+        "24",
+        "32",
+        "21"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Wykonaj działania korzystając z zaszyfrowanych w tabeli liczb i zaznacz wynik.\n\n                     6                          8                10                      9                   13              9                   12\n\n\n     +       =                       19                     17                     14               16\n     +       =                       18                     19                     20               21\n     +           +       =           20                     17                     16               27",
+      "options": [
+        "20",
+        "17",
+        "16",
+        "27"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "08.2023 r.                     24 VII 2023 r.            29 września 2023 r.            19 XII 2023 r.",
+      "options": [
+        "08.2023 r.",
+        "24 VII 2023 r.",
+        "29 września 2023 r.",
+        "19 XII 2023 r."
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

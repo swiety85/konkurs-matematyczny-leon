@@ -1,0 +1,297 @@
+{
+  "sheet": "kl3-2021-wiosna",
+  "label": "Klasa 3 / Wiosna 2021",
+  "file": "matematyka klasa 3 wiosna 2021.pdf",
+  "pages": 2,
+  "detectedQuestions": 22,
+  "expectedQuestions": 28,
+  "diff": -6,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Jeśli rowerzysta jechał 4 h ze średnią prędkością 23 km/h, to pokonał:\n       27 km                                43 km                                                                                      92 km                               100 km\n...........................................................................................................................................\n\n\n\n\n                                                                                        ............... ........................",
+      "options": [
+        "43 km",
+        "92 km",
+        "100 km\n...........................................................................................................................................",
+        "............... ........................"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Małgosia ma 8 monet po 5 zł, Henio ma 9                                                                             3. Które działanie jest poprawne?\n monet po 4 zł. Która informacja jest błędna?                                                                                         857 – 427 = 430                      155 : 4 = 40\n       5 zł            9 monet           8 monet           4 zł                 1025 + 1075 = 2100\n ...........................................................................................................................................",
+      "options": [
+        "9 monet",
+        "8 monet",
+        "4 zł",
+        "1025 + 1075 = 2100\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "W sklepie chemicznym było 9 płynów                                                                                 5. Ile to tygodni?\n  do płukania po 9 zł, 8 opakowań proszku\n                                                                                                                                   63 dni            7            6        9         8\n  do prania po 6 zł i opakowanie kapsułek\n  do prania za 26 zł. Oblicz koszt towarów.                                                                                        84 dni            12           9        11        10\n                                                                                                                                   56 dni            7            8        6         9\n       150 zł           154 zł          146 zł           155 zł\n .................................................................... .......................................................................\n                                                                 ...................",
+      "options": [
+        "154 zł",
+        "146 zł",
+        "155 zł\n .................................................................... .......................................................................",
+        "..................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Oblicz.                                                                            7. Zaznacz błędne obliczenie:\n\n  15 • 3 = ......              765 - 198 = ......                                                                  1259 – 465 = 794                         370 + 250 + 164 + 76 = 860\n  178 + 68 = .....             12 • 7 = .....                                                                      9 • 9 • 10 = 810                         930 : 35 = 29\n...........................................................................................................................................",
+      "options": [
+        "178 + 68 = .....",
+        "12 • 7 = .....",
+        "9 • 9 • 10 = 810",
+        "930 : 35 = 29\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Za 10 opakowań herbatników i 30 butelek soku Maria zapłaciła 180 zł.\n  Herbatniki kosztowały 60 zł.\n     Ile złotych kosztowały soki?                                                                                                     100 zł             140 zł       120 zł        160 zł\n     Ile kosztowało jedno opakowanie herbatników?                                                                                     4 zł           6 zł             7 zł          5 zł\n     Ile kosztowała jedna butelka soku?                                                                                               7 zł           5 zł             4 zł          6 zł\n...........................................................................................................................................",
+      "options": [
+        "7 zł",
+        "5 zł",
+        "4 zł",
+        "6 zł\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Mama pracowała w ogrodzie pół godziny, a babcia ćwierć godziny.\n\n      Ile minut pracowała w ogrodzie babcia?                                                    15 min                                      30 min        45 min\n      Ile minut pracowała w ogrodzie mama?                                                      45 min                                      15 min        30 min\n ........................................................................................................................... .................\n                                                                                         .................... ..............",
+      "options": [
+        "45 min",
+        "15 min",
+        "30 min\n ........................................................................................................................... .................",
+        ".................... .............."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Natalka zapłaciła 38 zł za 4 kg gruszek i                                                                      11. Gospodyni miała 9 gęsi. Każda gęś zniosła\n  2 kg jabłek. Ile kosztował kilogram gruszek,                                                                       w ciągu tygodnia 6 jajek. Ile jajek zniosły gęsi\n  jeżeli kilogram jabłek kosztował 7 zł?                                                                             w ciągu dwóch tygodni?\n       5 zł             4 zł             7 zł               6 zł                                                                    54               756              378            108\n............................................................................................................................................",
+      "options": [
+        "54",
+        "756",
+        "378",
+        "108\n............................................................................................................................................"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Michał czyta 7 stron książki w ciągu 10                                                                          13. Liczba, o której myślę dzieli się między\n  minut. Ile stron przeczyta w ciągu godziny?                                                                          innymi przez 8, 6, 4 i 3. O jakiej liczbie myślę?\n      35                49               42                70                                                                       48               19               24                 36\n ...........................................................................................................................................",
+      "options": [
+        "48",
+        "19",
+        "24",
+        "36\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Wskaż poprawną odpowiedź:\n     Ile razy godzina jest dłuższa od kwadransa?                                                                                      2         4             3\n     O ile minut godzina jest dłuższa od kwadransa?                                                                                   15        30            45\n     O ile minut godzina jest dłuższa od minuty?                                                                                      61        1            59",
+      "options": [
+        "O ile minut godzina jest dłuższa od minuty?",
+        "61",
+        "1",
+        "59"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Wskaż poprawne odpowiedzi. 7 i 0,5 litra soku jabłkowego i 2 litry soku malinowego można\nrozlać do:\n       95 szklanek po 100 ml                   38 szklanek po ćwierć litra\n       3 naczyń po 3 litry                     19 naczyń po pół litra\n...........................................................................................................................................",
+      "options": [
+        "95 szklanek po 100 ml",
+        "38 szklanek po ćwierć litra",
+        "3 naczyń po 3 litry",
+        "19 naczyń po pół litra\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Ile kosztuje jeden piórnik, jeśli za 9 takich piórników trzeba zapłacić 54 zł 36 gr?\n       4 zł 40 gr                       6 zł 4 gr                                        5 zł 4 gr                      6 zł 40 gr\n..........................................................................................................................................",
+      "options": [
+        "4 zł 40 gr",
+        "6 zł 4 gr",
+        "5 zł 4 gr",
+        "6 zł 40 gr\n.........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Rekin może dożyć 400 lat, żółw 150 lat, a orka 80 lat.O ile dłużej żyje:\n      rekin od orki                                  70                                  250                  320               230\n      rekin od żółwia                                320                                 230                  70                250\n      żółw od orki                                   250                                 70                   230               320\n...........................................................................................................................................\n\n\n\n\n                                                                       ...............",
+      "options": [
+        "70",
+        "230",
+        "320\n...........................................................................................................................................",
+        "..............."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Jeden bok prostokąta ma 60 m, a drugi jest                                    19. Wskaż brakującą liczbę.\no 5 m krótszy. Oblicz obwód tego prostokąta.                                                                                6          3\n                                                                                          23 19 15 11 7 ?\n         105 m            55 m             230 m              65 m                                                          5          4\n...........................................................................................................................................",
+      "options": [
+        "230 m",
+        "65 m",
+        "5",
+        "4\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Trzydzieścioro dzieci i dwoje opiekunów wycieczki zwiedzili Zamek                                                 102 zł         92 zł\n Książ i palmiarnię. Bilet wstępu dla dziecka kosztował 3 zł,\n a dla dorosłego był dwa razy droższy.Ile zapłacili za bilety wstępu?                                                  6 zł           186 zł\n...........................................................................................................................................",
+      "options": [
+        "102 zł",
+        "92 zł\n Książ i palmiarnię. Bilet wstępu dla dziecka kosztował 3 zł,\n a dla dorosłego był dwa razy droższy.Ile zapłacili za bilety wstępu?",
+        "6 zł",
+        "186 zł\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Patrycja miała 100 zł. Kupiła tuzin guzików. Ćwierć tuzina guzików kosztowało 6 zł.\n\n      Ile kosztował jeden guzik?                            2 zł       5 zł                   3 zł    6 zł\n      Ile kosztował tuzin guzików?                          36 zł      60 zł                  24 zł   72 zł\n      Ile reszty otrzymała Patrycja?                        28 zł      76 zł                  64 zł   40 zł\n...........................................................................................................................................",
+      "options": [
+        "28 zł",
+        "76 zł",
+        "64 zł",
+        "40 zł\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Wskaż właściwe odpowiedzi.                             2 godziny i 25 minut                                    1 godzina i 45 minut\n 145 minut to tyle samo, co:                                9 kwadransów i 10 minut                                 1 godzina i 85 minut\n...........................................................................................................................................",
+      "options": [
+        "2 godziny i 25 minut",
+        "1 godzina i 45 minut\n 145 minut to tyle samo, co:",
+        "9 kwadransów i 10 minut",
+        "1 godzina i 85 minut\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Kasia miała 18 zł. Kupiła piórnik za 8 zł i trzy jednakowe długopisy. Zostało jej 4 zł.\n Ile kosztował jeden długopis?\n       3 zł                     5 zł                      2 zł                4 zł\n...........................................................................................................................................",
+      "options": [
+        "3 zł",
+        "5 zł",
+        "2 zł",
+        "4 zł\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Ile kosztował telewizor, jeżeli dziadek dał kasjerce 1270 zł i otrzymał 95 zł reszty?\n        1174                               1365                                          1176                        1175\n...........................................................................................................................................",
+      "options": [
+        "1174",
+        "1365",
+        "1176",
+        "1175\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Z których trzech odcinków o podanych długościach nie można zbudować trójkąta?\n\n        8 cm, 7 cm, 5 cm                           11 cm, 8 cm, 6 cm                                  4 cm, 3 cm, 7 cm\n...........................................................................................................................................",
+      "options": [
+        "Z których trzech odcinków o podanych długościach nie można zbudować trójkąta?",
+        "8 cm, 7 cm, 5 cm",
+        "11 cm, 8 cm, 6 cm",
+        "4 cm, 3 cm, 7 cm\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 26,
+      "page": 0,
+      "rawText": "Rok 2019 w zapisie rzymskim to:\n        MMXIX                              MMXIV                                         MMXXI                       MMXVI\n...........................................................................................................................................",
+      "options": [
+        "MMXIX",
+        "MMXIV",
+        "MMXXI",
+        "MMXVI\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 27,
+      "page": 0,
+      "rawText": "Jeżeli w liczbie MMDCLXVI zamienimy miejscami znaki L i X, to otrzymamy liczbę:\n         o dwadzieścia razy mniejszą                                                 o dwadzieścia mniejszą\n        o dwadzieścia większą                                                        o dwadzieścia razy większą\n ...........................................................................................................................................",
+      "options": [
+        "o dwadzieścia razy mniejszą",
+        "o dwadzieścia mniejszą",
+        "o dwadzieścia większą",
+        "o dwadzieścia razy większą\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 28,
+      "page": 0,
+      "rawText": "Wskaż nazwę trójkąta przedstawionego na rysunku.\n         trójkąt równoboczny                            trójkąt równoramienny\n         trójkąt prostokątny                           trójkąt rozwartokątny\n\n                                                       www.leon-konkursy.pl",
+      "options": [
+        "trójkąt równoramienny",
+        "trójkąt prostokątny",
+        "trójkąt rozwartokątny",
+        "www.leon-konkursy.pl"
+      ],
+      "confidence": "high",
+      "graphic": true
+    }
+  ]
+}

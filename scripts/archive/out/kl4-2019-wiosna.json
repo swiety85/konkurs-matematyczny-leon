@@ -1,0 +1,279 @@
+{
+  "sheet": "kl4-2019-wiosna",
+  "label": "Klasa 4 / Wiosna 2019",
+  "file": "MATEMATYKA  Klasa IV wiosna 2019 .pdf",
+  "pages": 2,
+  "detectedQuestions": 21,
+  "expectedQuestions": 24,
+  "diff": -3,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Wskaż dodawanie, którego wynik jest                 2. Które dzielenie z resztą jest wykonane\nnajwiększy.                                           poprawnie?\n     14 + 53           42 + 24                             7:3=2r3             12 : 5 = 2 r 2\n      33 + 35          21 + 48                             25 : 4 = 5 r 5      30 : 8 = 3 r 7",
+      "options": [
+        "33 + 35",
+        "21 + 48",
+        "25 : 4 = 5 r 5",
+        "30 : 8 = 3 r 7"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Ile zer będzie w wyniku: 15 000 • 300?             4. Ile czasu minęło od godziny 9.28 do",
+      "options": [],
+      "confidence": "low",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Jaka cyfra będzie znajdowała się na                6. Jaką liczbę należy dodać do 352, aby\nmiejscu dziesiątek w wyniku                           otrzymać 1412?\n124 + 345 + 254?\n                                                           1060                  1006\n        3                      2                           1600                  1066\n        7                      9",
+      "options": [
+        "1600",
+        "1066",
+        "7",
+        "9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Zaznacz zdanie prawdziwe.\n     odcinek ma początek i koniec                        półprosta ma początek ale nie ma końca\n     prosta nie ma początku ale ma koniec                prosta jest to zbiór punktów\n     żadne zdanie nie jest prawdziwe",
+      "options": [
+        "półprosta ma początek ale nie ma końca",
+        "prosta nie ma początku ale ma koniec",
+        "prosta jest to zbiór punktów",
+        "żadne zdanie nie jest prawdziwe"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Pole prostokąta wynosi 26 dm2 . Jeden z jego boków ma długość 2 dm. Długość drugiego\n boku jest równa:\n\n     52 dm                           24 dm              13 dm                           11 dm",
+      "options": [
+        "52 dm",
+        "24 dm",
+        "13 dm",
+        "11 dm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Leon narysował swoją figurkę w skali 1:11. Figurka na rysunku ma 3 cm 4 mm wysokości.\n Zaznacz rzeczywistą wysokość figurki.\n\n      33,44                          37,4              44,33                            385",
+      "options": [
+        "33,44",
+        "37,4",
+        "44,33",
+        "385"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Lolek ma w skarbonce 32 monety dwuzłotowe, 12 monet pięciozłotowych i o 9 mniej\n monet jednozłotowych niż pięciozłotowych. Lolek chce kupić plecak za 122 zł.\n Ile reszty mu zostanie?\n        9 zł                           3 zł              5 zł                           8 zł",
+      "options": [
+        "9 zł",
+        "3 zł",
+        "5 zł",
+        "8 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Kasia poprawnie obliczyła wartość wyrażenia 19 : (12 + 13 – 3 • 2). Które działanie\n  wykonała jako ostatnie?\n\n        dzielenie                      mnożenie           dodawanie                     odejmowanie",
+      "options": [
+        "dzielenie",
+        "mnożenie",
+        "dodawanie",
+        "odejmowanie"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "37?\n        3                     2\n        6                     5                            2 godziny i 9 minut          198 minut\n                                                           3 godziny i 9 minut          189 minut",
+      "options": [
+        "2 godziny i 9 minut",
+        "198 minut",
+        "3 godziny i 9 minut",
+        "189 minut"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Jaka będzie cyfra dziesiątek w wyniku działania 134 + 136 + 18 + 4?\n\n            2                           9                 4                               1",
+      "options": [
+        "2",
+        "9",
+        "4",
+        "1"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "W sklepie było 1201 książek. W pierwszym tygodniu sprzedano 156 książek,\na w drugim – 3 krotnie mniej niż w pierwszym. Ile książek zostało po dwóch tygodniach\nsprzedaży?\n     1045                    1149                    993                     939",
+      "options": [
+        "1045",
+        "1149",
+        "993",
+        "939"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Leon ma 235 lat i jest starszy o 118       15. Która z poniższych liczb jest\nlat od swojego brata. Ile mają łącznie         podzielna przez 3 ale nie przez 9?\nlat?\n       więcej niż 350       352                      1821               900\n        325                 353                      729                3111",
+      "options": [
+        "325",
+        "353",
+        "729",
+        "3111"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Robaczek przeszedł 3 dm, następnie 23 cm i dodatkowo 450 mm. Ile centymetrów\nprzeszedł robaczek?\n\n     88 cm                    89 cm                    98 cm                99 cm",
+      "options": [
+        "88 cm",
+        "89 cm",
+        "98 cm",
+        "99 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Porównaj. Wybierz znak, który należy wstawić w wykropkowane miejsce.\n   3 2 …. 2 3      >         <          =\n     2\n   9 …. 4   3      >         <          =",
+      "options": [
+        "3",
+        ">",
+        "<",
+        "="
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "W klasie jest 30 osób, w tym 17 dziewczyn. Jaką część wszystkich uczniów stanowią\nchłopcy?\n      _\n     30                       _\n                              30                    17 _                     _\n                                                                            13\n     17                       13                    30                      30",
+      "options": [
+        "17",
+        "13",
+        "30",
+        "30"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Która z liczb jest podzielna bez reszty przez 3:\n\n      1114                     2331                    5121                  9001",
+      "options": [
+        "1114",
+        "2331",
+        "5121",
+        "9001"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "W bloku jest 7 klatek schodowych. W każdej jest po 18 mieszkań. Ile mieszkań jest w\ntym bloku?\n      162                      126                     116                   114",
+      "options": [
+        "162",
+        "126",
+        "116",
+        "114"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Reszta z dzielenia wartości wyrażenia 23 + 3 • 9 przez 7 jest równa:\n\n      3                        2                       1                     0",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Wybierz liczby, które dzielą się               23. Wynik mnożenia to:\nprzez 3 bez reszty.\n      5624                     2511                     suma                różnica\n      5205                     1875                     iloraz              iloczyn",
+      "options": [
+        "5205",
+        "1875",
+        "iloraz",
+        "iloczyn"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Obwód trójkąta równoramiennego jest równy 23 cm. Podstawa ma długość 9 cm. Ile jest\nrówne ramię?\n      14                   7\n      10                   12",
+      "options": [
+        "14",
+        "7",
+        "10",
+        "12"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Porównaj. Wybierz znak, który należy wstawić w miejsce wykropkowane.\n   456 + 123 …… 465 + 132              >       <           =\n   200 – 18 …… 200 – 81                >       <           =",
+      "options": [
+        "200 – 18 …… 200 – 81",
+        ">",
+        "<",
+        "="
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

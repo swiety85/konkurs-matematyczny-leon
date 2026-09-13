@@ -1,0 +1,271 @@
+{
+  "sheet": "kl1-2023-wiosna",
+  "label": "Klasa 1 / Wiosna 2023",
+  "file": "MATEMATYKA Klasa I Wiosna 2023.pdf",
+  "pages": 2,
+  "detectedQuestions": 20,
+  "expectedQuestions": 21,
+  "diff": -1,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Który wynik jest błędny? Wskaż go.\n                                  16 - 9 = 7                  14 + 8 = 22               12 + 9 = 20          17 - 8 = 8",
+      "options": [
+        "16 - 9 = 7",
+        "14 + 8 = 22",
+        "12 + 9 = 20",
+        "17 - 8 = 8"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Zsumuj ze sobą wszystkie liczby i zaznacz wynik.\n\n\n\n\n                                  24                          18                        17                   25",
+      "options": [
+        "24",
+        "18",
+        "17",
+        "25"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "\u0007Leszek chciał kupić model samolotu za 27 zł. Sprawdź, czy wystarczy mu pieniędzy. Jeśli nie, to ile pieniędzy mu zabraknie.\n   Wskaż poprawną odpowiedź.\n\n\n\n\n                                  3 zł                        5 zł                      0 zł                 4 zł",
+      "options": [
+        "3 zł",
+        "5 zł",
+        "0 zł",
+        "4 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Krysia bawiła się z kotkami. Policzyła ich łapy, było ich 16. Z iloma kotkami bawiła się Krysia?\n                                  2                           3                         5                    4",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Marlena była 3 tygodnie nad morzem. Ile to dni?\n                                  21                          7                         14                   28",
+      "options": [
+        "21",
+        "7",
+        "14",
+        "28"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Wskaż pary liczb dwucyfrowych, w których cyfry jedności i dziesiątek zamieniły się miejscami.\n                                  52, 25                      75, 51                    36, 63               14, 41",
+      "options": [
+        "52, 25",
+        "75, 51",
+        "36, 63",
+        "14, 41"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Wskaż działanie pasujące do poniższego rysunku.\n\n\n\n\n                                  15 – 6 = 9                  6 + 9 = 16                9 + 6 = 15           16 – 9 = 6",
+      "options": [
+        "15 – 6 = 9",
+        "6 + 9 = 16",
+        "9 + 6 = 15",
+        "16 – 9 = 6"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Jakie liczby ukryły się pod obrazkiem? Zaznacz.\n\n       6+      = 13                      + 7 = 15                  =9+8\n\n                        9                6            8              7\n                        6                8            7              5\n                        16               18           17             19",
+      "options": [
+        "16",
+        "18",
+        "17",
+        "19"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Jeżeli od liczby, o której myślę, odejmę 9, to otrzymam liczbę 8. O jakiej liczbie myślę?\n                                  17                          16                        8                    9",
+      "options": [
+        "17",
+        "16",
+        "8",
+        "9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "W skarbonce znajduje się 5 monet po 2 zł i 4 monety po 1 zł. Ile to złotych?\n                                  5 zł                        9 zł                      10 zł                14 zł",
+      "options": [
+        "5 zł",
+        "9 zł",
+        "10 zł",
+        "14 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Teraz jest 11:15. Która godzina będzie za 45 minut?\n                                      11:45                         12:15                      12:30                      12:00",
+      "options": [
+        "11:45",
+        "12:15",
+        "12:30",
+        "12:00"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Liczba 6 jest o 9 mniejsza od liczby:\n                                      14                            3                          15                         9",
+      "options": [
+        "14",
+        "3",
+        "15",
+        "9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Jaka cyfra ukryła się pod kwiatkiem?\n                                       7-□ =3                  9=□       +2+□           5+     □-4=□\n\n                                      3                             1                          2                          4",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Wskaż równość prawdziwą.\n                                    doba = 24 godziny           10 mm = 1 cm                 1000 dag = 1 kg             1 grosz = 1 gr",
+      "options": [
+        "doba = 24 godziny",
+        "10 mm = 1 cm",
+        "1000 dag = 1 kg",
+        "1 grosz = 1 gr"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Wartość, którego wyrażenia wynosi 28?\n                                      15 + 6                            4 7                    33 - 5                     15 + 13",
+      "options": [
+        "15 + 6",
+        "4 7",
+        "33 - 5",
+        "15 + 13"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "\u0007Zosia ma 80 zł. Chce kupić prezent koleżance. Pomóż jej wybrać zabawki tak,                             17. Oblicz różnicę liczb:\n    aby mogła wydać wszystkie pieniądze. Wskaż prawidłową odpowiedź.\n                                                                                                             IX - VI                     XII - IV\n                                          40 zł\n                                                                        30 zł\n                                                                                                                     4                          5\n                                                                                              20 zł\n                                                                                                                     3                          6\n       10 zł\n                                      30 + 40 + 10                  30 + 20 + 10 + 40                                5                          7\n                                      20 + 10 + 40 + 10             30 + 20 + 10                                     6                          8",
+      "options": [
+        "20 + 10 + 40 + 10",
+        "30 + 20 + 10",
+        "6",
+        "8"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "W jednej skrzynce jest 38 kg mandarynek, a w drugiej o 9 kg więcej bananów.\nIle ważą banany?\t\t\t\n                 38 kg                                              47 kg                      29 kg                      46 kg\nIle razem ważą te owoce?\t\t\n                                      47 kg                         86 kg                      85 kg                      67 kg\n\nIle kilogramów owoców brakuje do 100 kilogramów?\n                                      15 kg                         25 kg                      62 kg                      53 kg",
+      "options": [
+        "15 kg",
+        "25 kg",
+        "62 kg",
+        "53 kg"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Przeczytaj i zaznacz PRAWDA lub FAŁSZ.\nOd północy do południa mija 12 godzin.\t\t                                                       PRAWDA                     FAŁSZ\nKażdy wielokąt ma boki, kąty i wierzchołki.\t\t                                                  PRAWDA                     FAŁSZ\nSłowa zapisujemy cyframi, a liczby literami.\t\t                                                 FAŁSZ                      PRAWDA\nPoprawność dodawania sprawdzamy za pomocą dzielenia.                                           FAŁSZ                      PRAWDA\n\n                                                  A   3 cm      B                  ? cm                          C       4 cm            D",
+      "options": [
+        "? cm",
+        "C",
+        "4 cm",
+        "D"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Ile centymetrów ma odcinek BC?\n                                                                                   12 cm\n\nOdcinek BC ma:                        12 cm                         7 cm                       5 cm                       6 cm",
+      "options": [
+        "12 cm",
+        "7 cm",
+        "5 cm",
+        "6 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Uzupełnij zdania.\n\n\n\n\n                               Ania, 9 lat                   Zosia, 12 lat                    Kasia, 7 lat\n\n\nNajstarsza jest:                      Ania                          Kasia                      Zosia\nNajmłodsza jest:                      Kasia                         Zosia                      Ania\nZosia jest starsza od Ani o:          4 lata                        3 lata                     5 lat",
+      "options": [
+        "Ania\nZosia jest starsza od Ani o:",
+        "4 lata",
+        "3 lata",
+        "5 lat"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

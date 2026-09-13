@@ -1,0 +1,206 @@
+{
+  "sheet": "kl2-2019-wiosna",
+  "label": "Klasa 2 / Wiosna 2019",
+  "file": "MATEMATYKA klasa II wiosna 2019 .pdf",
+  "pages": 2,
+  "detectedQuestions": 15,
+  "expectedQuestions": 23,
+  "diff": -8,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Kasia ma 20 cukierków. Zjadła 4.                  2. Zaznacz poprawnie wykonane\nIle cukierków jej zostało?                           nierówności.\n    16                     24                             5>7                       10 > 4\n    15                     17                             3 > 10                    8>6",
+      "options": [
+        "15",
+        "17",
+        "3 > 10",
+        "8>6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Ile jest równa różnica liczb 25 i 8?              4. Trzeci miesiąc po marcu to:\n\n     32                     17                            kwiecień                  maj\n     33                     18                            czerwiec                  lipiec",
+      "options": [
+        "33",
+        "18",
+        "czerwiec",
+        "lipiec"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Krzyś waży 21 kg. Rafał jest o 5 kg              6. Jola pojechała na zawody sportowe,\nlżejszy od Krzyśka. Ile waży Rafał?                 które zaczynają się o godzinie 9.00 i\n                                                    trwają 3 godziny. O której godzinie\n    mniej niż 16 kg        więcej niż 16 kg         zakończą się zawody?\n                           18 kg                         11.00          12.00    13.00       6.00\n    16 kg",
+      "options": [
+        "12.00",
+        "13.00",
+        "6.00",
+        "16 kg"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Kasia we wtorek dowiedziała się, że sprawdzian będzie za 2 dni. W jaki dzień będzie\nsprawdzian?\n\n     czwartek               środa                   poniedziałek                 piątek",
+      "options": [
+        "czwartek",
+        "środa",
+        "poniedziałek",
+        "piątek"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Asia miała uczyć się wiersza przez 40 minut. Uczyła się 23 minuty.\nIle jeszcze minut Asia musi się uczyć?\n     20 min                     17 min                  7 min                    27 min",
+      "options": [
+        "20 min",
+        "17 min",
+        "7 min",
+        "27 min"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Oblicz i zaznacz poprawną odpowiedź.\n\n                      19         29       26        20 - 5 + 3 = ____       19      29       18\n 17 + 5 + 4 = ___\n\n 28 + 2 - 4 = ___     22         30       26        20 + 5 - 3 = ____       22      12       28",
+      "options": [
+        "20 + 5 - 3 = ____",
+        "22",
+        "12",
+        "28"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Przyjrzyj się poniższym działaniom. Wybierz zdanie prawdziwe.\n    III + IV = VI   VI – IV = II   IX – V = VI   II • IV = VIII\n\n     tylko dwa działania są zapisane poprawnie\n\n     w pierwszym działaniu powinien być wynik VII\n     w trzecim działaniu powinien być wynik VII\n     działania, które są poprawne mają wynik parzysty",
+      "options": [
+        "tylko dwa działania są zapisane poprawnie",
+        "w pierwszym działaniu powinien być wynik VII",
+        "w trzecim działaniu powinien być wynik VII",
+        "działania, które są poprawne mają wynik parzysty"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "We wtorek było 15 stopni, a dzisiaj                    12. Ile łącznie kół mają 2 rowery i jeden\njest 8 stopni. Jaka jest różnica między                    samochód?\ntemperaturami?                                                    8                                  4\n  5 stopni              7 stopni              8 stopni            10                                 6",
+      "options": [
+        "7 stopni",
+        "8 stopni",
+        "10",
+        "6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Wybierz poprawne równanie.                             14. Liczba setek w liczbie 2345 to:\n    6•3=3•6                        6+3=3+6                        2                 3\n\n   6:3=3:6                         6–3=3–6                        4                 100",
+      "options": [
+        "6:3=3:6",
+        "6–3=3–6",
+        "4",
+        "100"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "W poniedziałek Filip i Zygmunt                         16. Które liczby są uszeregowane\numówili się na spotkanie za 6 dni.                         malejąco?\nKtóry to będzie dzień tygodnia?\n       czwartek                                                   25, 26, 23, 20\n       piątek                                                         12, 15, 18, 22\n       sobota                                                         12, 9, 7, 5\n       niedziela                                                      31, 28, 24,19",
+      "options": [
+        "sobota",
+        "12, 9, 7, 5",
+        "niedziela",
+        "31, 28, 24,19"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Kasia dostaje 10 zł co tydzień.                        18. W klasie Konstancji jest 18 chłopców\nIle pieniędzy uzbiera przez kwartał?                       i 15 dziewczynek.\n                                                           Ile uczniów jest w tej klasie?\n       150 zł                      60 zł                          33                           43\n       80 zł                       120 zł                         32                           38",
+      "options": [
+        "80 zł",
+        "120 zł",
+        "32",
+        "38"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Który to miesiąc?                                      20. Wstaw i zaznacz odpowiednią cyfrę\n                   II             III\n                                                           lub działanie.\n Marzec                                       IV\n                                                             ____ • 6 = 30                     6         5       4\n Maj               VI              IV          V\n                                                            12 • ____ = 12                     0         1       2\n Lipiec            VII             VIII        VIII\n                                                            ____ • ____ = 30                   6•5           10 • 3",
+      "options": [
+        "Maj               VI              IV          V",
+        "12 • ____ = 12                     0         1       2",
+        "Lipiec            VII             VIII        VIII",
+        "____ • ____ = 30                   6•5           10 • 3"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Nauczyciel kupił 40 ciastek. Zjadł 10, a resztę rozdał po równo swoim\n uczniom. Każdy uczeń dostał po dwa ciastka. Ilu uczniów jest w klasie?\n\n    10                             15\n    20                             25",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Na obóz pojechało 30 uczniów. Rozdzielono ich do 5 pokoi.\nPo ilu uczniów było w każdym pokoju?\n       4                                  7                   6                                 10",
+      "options": [
+        "4",
+        "7",
+        "6",
+        "10"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Wybierz liczby nieparzyste.\n\n       10                    16                       11          9                       27",
+      "options": [
+        "16",
+        "11",
+        "9",
+        "27"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

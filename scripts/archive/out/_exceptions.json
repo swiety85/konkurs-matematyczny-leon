@@ -1,0 +1,274 @@
+{
+  "exceptions": [
+    {
+      "sheet": "kl1-2019-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 15 / oczekiwano 22"
+    },
+    {
+      "sheet": "kl1-2019-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 10, 22"
+    },
+    {
+      "sheet": "kl1-2020-jesien",
+      "reason": "count-mismatch",
+      "detail": "wykryto 22 / oczekiwano 25"
+    },
+    {
+      "sheet": "kl1-2020-jesien",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 4, 12"
+    },
+    {
+      "sheet": "kl1-2021-jesien",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 5, 12, 13, 14, 17, 24"
+    },
+    {
+      "sheet": "kl1-2021-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 21 / oczekiwano 28"
+    },
+    {
+      "sheet": "kl1-2021-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 4, 17"
+    },
+    {
+      "sheet": "kl1-2022-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 19 / oczekiwano 22"
+    },
+    {
+      "sheet": "kl1-2022-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 18"
+    },
+    {
+      "sheet": "kl1-2022-jesien",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 14, 15, 18"
+    },
+    {
+      "sheet": "kl1-2023-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 20 / oczekiwano 21"
+    },
+    {
+      "sheet": "kl1-2023-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 7"
+    },
+    {
+      "sheet": "kl1-2023-jesien",
+      "reason": "count-mismatch",
+      "detail": "wykryto 22 / oczekiwano 23"
+    },
+    {
+      "sheet": "kl1-2023-jesien",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 4, 9"
+    },
+    {
+      "sheet": "kl1-2024-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 26 / oczekiwano 25"
+    },
+    {
+      "sheet": "kl1-2024-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 3, 19, 23"
+    },
+    {
+      "sheet": "kl1-2024-jesien",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 2, 3, 14"
+    },
+    {
+      "sheet": "kl1-2025-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 2, 13, 22"
+    },
+    {
+      "sheet": "kl2-2019-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 15 / oczekiwano 23"
+    },
+    {
+      "sheet": "kl2-2020-jesien",
+      "reason": "count-mismatch",
+      "detail": "wykryto 25 / oczekiwano 29"
+    },
+    {
+      "sheet": "kl2-2020-jesien",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 6"
+    },
+    {
+      "sheet": "kl2-2021-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 19 / oczekiwano 28"
+    },
+    {
+      "sheet": "kl2-2021-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 16"
+    },
+    {
+      "sheet": "kl2-2022-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 21 / oczekiwano 25"
+    },
+    {
+      "sheet": "kl2-2022-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 1"
+    },
+    {
+      "sheet": "kl2-2023-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 23 / oczekiwano 22"
+    },
+    {
+      "sheet": "kl2-2023-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 8"
+    },
+    {
+      "sheet": "kl2-2023-jesien",
+      "reason": "count-mismatch",
+      "detail": "wykryto 24 / oczekiwano 23"
+    },
+    {
+      "sheet": "kl2-2023-jesien",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 23"
+    },
+    {
+      "sheet": "kl2-2024-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 26 / oczekiwano 25"
+    },
+    {
+      "sheet": "kl2-2024-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 3"
+    },
+    {
+      "sheet": "kl3-2019-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 20 / oczekiwano 21"
+    },
+    {
+      "sheet": "kl3-2019-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 15, 16, 16, 17"
+    },
+    {
+      "sheet": "kl3-2021-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 22 / oczekiwano 28"
+    },
+    {
+      "sheet": "kl3-2021-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 28"
+    },
+    {
+      "sheet": "kl3-2022-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 24 / oczekiwano 26"
+    },
+    {
+      "sheet": "kl3-2022-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 20"
+    },
+    {
+      "sheet": "kl3-2022-jesien",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 6"
+    },
+    {
+      "sheet": "kl3-2023-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 19 / oczekiwano 20"
+    },
+    {
+      "sheet": "kl3-2023-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 11"
+    },
+    {
+      "sheet": "kl3-2024-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 26 / oczekiwano 25"
+    },
+    {
+      "sheet": "kl3-2024-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 2, 7"
+    },
+    {
+      "sheet": "kl3-2024-jesien",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 20"
+    },
+    {
+      "sheet": "kl4-2019-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 21 / oczekiwano 24"
+    },
+    {
+      "sheet": "kl4-2019-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 3, 9"
+    },
+    {
+      "sheet": "kl4-2020-jesien",
+      "reason": "count-mismatch",
+      "detail": "wykryto 28 / oczekiwano 30"
+    },
+    {
+      "sheet": "kl4-2021-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 23 / oczekiwano 34"
+    },
+    {
+      "sheet": "kl4-2022-wiosna",
+      "reason": "count-mismatch",
+      "detail": "wykryto 28 / oczekiwano 29"
+    },
+    {
+      "sheet": "kl4-2022-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 2, 20"
+    },
+    {
+      "sheet": "kl4-2022-jesien",
+      "reason": "count-mismatch",
+      "detail": "wykryto 28 / oczekiwano 27"
+    },
+    {
+      "sheet": "kl4-2022-jesien",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 12"
+    },
+    {
+      "sheet": "kl4-2023-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 14"
+    },
+    {
+      "sheet": "kl4-2024-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 5, 16, 28"
+    },
+    {
+      "sheet": "kl4-2025-wiosna",
+      "reason": "manual-review",
+      "detail": "pytania do recznej kontroli: 11"
+    }
+  ]
+}

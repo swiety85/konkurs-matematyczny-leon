@@ -1,0 +1,344 @@
+{
+  "sheet": "kl1-2024-wiosna",
+  "label": "Klasa 1 / Wiosna 2024",
+  "file": "MATEMATYKA Klasa I Wiosna 2024.pdf",
+  "pages": 2,
+  "detectedQuestions": 26,
+  "expectedQuestions": 25,
+  "diff": 1,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Ile to tygodni i dni?\n12 dni                   1 tydzień i 4 dni                1 tydzień i 5 dni                   1 tydzień i 6 dni            2 tygodnie",
+      "options": [
+        "1 tydzień i 4 dni",
+        "1 tydzień i 5 dni",
+        "1 tydzień i 6 dni",
+        "2 tygodnie"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Asia ma jedenaście lat. Ile lat będzie miała za dziewięć lat?\n    19 lat                                   20 lat                                18 lat                              11 lat",
+      "options": [
+        "19 lat",
+        "20 lat",
+        "18 lat",
+        "11 lat"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Jest godzina 19.45. Jaką godzinę wskaże zegar za kwadrans?",
+      "options": [],
+      "confidence": "low",
+      "graphic": true
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Wskaż prawidłowe odpowiedzi.\nDoba to                    24 godziny                     12 godziny                   6 godziny                   30 godziny\nRok ma                     3 kwartały                     4 kwartały                   1 kwartał                   2 kwartały\t\t\n1 złoty to                 1000 groszy                    1 grosz                      100 groszy                  10 groszy",
+      "options": [
+        "1000 groszy",
+        "1 grosz",
+        "100 groszy",
+        "10 groszy"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Ustal, jakie wartości ukryły się pod motylkami.\n                                             = 13 + 6                   = 20 - 8                 17 - 6 =\n\n\n                                             18                     7                     19                      20\n\n                                             12                     28                    11                      13\n\n                                             10                     12                    23                      11",
+      "options": [
+        "10",
+        "12",
+        "23",
+        "11"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Jaka liczba ukryła się pod kwiatkiem?\n                                                                    +         +    = 18\n\n    4                                        6                                     5                                   7",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Jaka liczba ukryła się pod słoneczkiem?\n                                                                        8+2+9=\n    19                                       10                                    20                                  18",
+      "options": [
+        "19",
+        "10",
+        "20",
+        "18"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Ile to miesięcy?\n2 kwartały                    3                               5                           4                        6",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Przedstaw liczbę 15 jako: sumę trzech składników.\n    5+5+5                                    15 + 0 + 1                            10 + 4 + 1                          3+4+8",
+      "options": [
+        "5+5+5",
+        "15 + 0 + 1",
+        "10 + 4 + 1",
+        "3+4+8"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Każdy kwiatek zastępuje tę samą liczbę. Jaka to liczba?\n                                                      12 -                  -      =4\n\n    3                                        5                                     4                                   2",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Wstaw odpowiedni znak: <, =, >.\n13 + 8 ... 14 + 9             <                              =                            >                     -\n20 - 6 ... 6 + 7              =                              >                            -                     <\n25 - 8 ... 8 + 9              -                              <                            =                     >",
+      "options": [
+        "-",
+        "<",
+        "=",
+        ">"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Wskaż dziesiątki sąsiadujące z liczbą 20.\n     5, 45                               10, 30                                   40, 60                         50, 70",
+      "options": [
+        "5, 45",
+        "10, 30",
+        "40, 60",
+        "50, 70"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Zaznacz prawidłową odpowiedź. 24 : 6 = ...\n\n     siedem                              cztery                                   trzy                           pięć",
+      "options": [
+        "siedem",
+        "cztery",
+        "trzy",
+        "pięć"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Jaka to liczba? Sześć jedności i dwie dziesiątki.\n\n     62                                  61                                       26                             16",
+      "options": [
+        "62",
+        "61",
+        "26",
+        "16"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Wskaż zbiór, w którym znajdują się liczby parzyste.\n             3        7                          3       2                                6       4                        6       0\n         1        5       9                  1       4           5                    2       8        0              10       8       2",
+      "options": [
+        "0",
+        "10",
+        "8",
+        "2"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Liczba 6 jest o 8 mniejsza od liczby:\n     2                                   16                                       14                             15",
+      "options": [
+        "2",
+        "16",
+        "14",
+        "15"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Zaznacz błędne obliczenie.\n     19 + 2 = 20                         20 – 9 = 10                              16 - 9 = 6                     14 + 6 = 20",
+      "options": [
+        "19 + 2 = 20",
+        "20 – 9 = 10",
+        "16 - 9 = 6",
+        "14 + 6 = 20"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Jaką liczbę zakryła biedronka?\n\n13 +             = 25                    10                              12                   11                13\n\n         + 17 = 31                       12                              13                   10                14",
+      "options": [
+        "12",
+        "13",
+        "10",
+        "14"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "30                                    20.15                                 20.00                               19.15",
+      "options": [
+        "30",
+        "20.15",
+        "20.00",
+        "19.15"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Wskaż sumę i różnicę liczb pasującą do poniższego rysunku.\n\n\n\n     9+7                                 7+8                                      16 - 7                         15 – 7",
+      "options": [
+        "9+7",
+        "7+8",
+        "16 - 7",
+        "15 – 7"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Dodaj składniki i oblicz sumę. 3 8 5\n\n     13                                  16                                       11                             385",
+      "options": [
+        "13",
+        "16",
+        "11",
+        "385"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Wskaż działania, których wyniki są liczbami nieparzystymi.\n\n     27 + 16 = …                         33 + 19 = ...                            26 + 18 = …                    49 + 16 = …",
+      "options": [
+        "27 + 16 = …",
+        "33 + 19 = ...",
+        "26 + 18 = …",
+        "49 + 16 = …"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Ola i jej siostra Sylwia mają razem 20 lat. Ile lat ma Ola, a ile Sylwia, jeśli Ola jest o 4 lata starsza od Sylwii?\n\nOla ma                                   4 lata                          12 lat               20 lat            14 lat\nSylwia ma                                20 lat                          16 lat               12 lat            8 lat",
+      "options": [
+        "20 lat",
+        "16 lat",
+        "12 lat",
+        "8 lat"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Wskaż działanie pasujące do schematu:\n                                                                     -        +   = 17\n\n     15 - 3 + 5                          10 – 2 + 9                               25 - 9 + 1                     19 – 2 + 1",
+      "options": [
+        "15 - 3 + 5",
+        "10 – 2 + 9",
+        "25 - 9 + 1",
+        "19 – 2 + 1"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Mama Kasi kupiła 7 jabłek, 3 marchewki i 2 banany. Ile razem owoców kupiła mama Kasi?\n     9                                   12                                       7                              5",
+      "options": [
+        "9",
+        "12",
+        "7",
+        "5"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Jeżeli do liczby 16 dodasz tę liczbę, otrzymasz 25. Jaka to liczba?\n     41                                  8                                        25                             9",
+      "options": [
+        "41",
+        "8",
+        "25",
+        "9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

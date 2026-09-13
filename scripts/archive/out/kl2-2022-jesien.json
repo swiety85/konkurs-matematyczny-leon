@@ -1,0 +1,362 @@
+{
+  "sheet": "kl2-2022-jesien",
+  "label": "Klasa 2 / Jesien 2022",
+  "file": "MATEMATYKA klasa II. Jesień 2022.pdf",
+  "pages": 2,
+  "detectedQuestions": 27,
+  "expectedQuestions": 27,
+  "diff": 0,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Dzisiaj jest wtorek. Za ile dni będzie niedziela?\na) 4                                           b) 6                        c) 7                                        d) 5",
+      "options": [
+        "Dzisiaj jest wtorek. Za ile dni będzie niedziela?\na) 4",
+        "b) 6",
+        "c) 7",
+        "d) 5"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Tabliczka czekolady kosztuje 10 zł. Ile trzeba zapłacić za pięć tabliczek czekolady?\na) 10 zł                                       b) 40 zł                    c) 50 zł                                    d) 15 zł",
+      "options": [
+        "Tabliczka czekolady kosztuje 10 zł. Ile trzeba zapłacić za pięć tabliczek czekolady?\na) 10 zł",
+        "b) 40 zł",
+        "c) 50 zł",
+        "d) 15 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "\u0007Ania kupiła długopis za 4 zł, gumkę za 1 zł i zeszyt za 2 zł. Dała sprzedawczyni 10 zł. Dostała 3 zł reszty.\n   Ile kosztowały jej zakupy?\na) 5 zł                                    b) 7 zł                         c) 6 zł                                     d) 8 zł",
+      "options": [
+        "Ile kosztowały jej zakupy?\na) 5 zł",
+        "b) 7 zł",
+        "c) 6 zł",
+        "d) 8 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Jest 36 grzybów. Do każdego koszyczka włożono po 9 grzybów. Oblicz, ile było koszyczków.\na) 5                                       b) 3                            c) 2                                        d) 4",
+      "options": [
+        "Jest 36 grzybów. Do każdego koszyczka włożono po 9 grzybów. Oblicz, ile było koszyczków.\na) 5",
+        "b) 3",
+        "c) 2",
+        "d) 4"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Jaka liczba zostały zasłonięta kwiatkiem?                  6 + 14 =\na) 21                                      b) 20                           c) 22                                       d) 19",
+      "options": [
+        "6 + 14 =\na) 21",
+        "b) 20",
+        "c) 22",
+        "d) 19"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Jaka liczba została zasłonięta kwiatkiem?                  7•4=\na) 35                                      b) 42                           c) 28                                       d) 21",
+      "options": [
+        "7•4=\na) 35",
+        "b) 42",
+        "c) 28",
+        "d) 21"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Jaka liczba została zasłonięta kwiatkiem?                  41 – 17 =\na) 24                                      b) 23                           c) 26                                       d) 25",
+      "options": [
+        "41 – 17 =\na) 24",
+        "b) 23",
+        "c) 26",
+        "d) 25"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Która data jest najpóźniejsza?\na) 21 lipca 2022 r.                        b) 19 XI 2022 r.                c) 14 X 2022 r.                            d) 30 IX 2022 r.",
+      "options": [
+        "Która data jest najpóźniejsza?\na) 21 lipca 2022 r.",
+        "b) 19 XI 2022 r.",
+        "c) 14 X 2022 r.",
+        "d) 30 IX 2022 r."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Hania ułożyła liczby w kolejności malejącej. Wskaż te liczby w kolejności rosnącej.                     9, 7, 5, 3, 1\na) 7, 9, 5, 1, 3                           b) 1, 3, 5, 7, 9                c) 1, 5, 3, 9, 7                            d) 3, 1, 5, 9, 7",
+      "options": [
+        "9, 7, 5, 3, 1\na) 7, 9, 5, 1, 3",
+        "b) 1, 3, 5, 7, 9",
+        "c) 1, 5, 3, 9, 7",
+        "d) 3, 1, 5, 9, 7"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Jaka liczba ukryła się pod listkiem?                                                       13 +         + 2 = 18\na) 4                                       b) 3                            c) 5                                        d) 2",
+      "options": [
+        "+ 2 = 18\na) 4",
+        "b) 3",
+        "c) 5",
+        "d) 2"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Jakie liczby ukryły się pod listkami?                                                          +        + 7 = 20\n\na) 5                                       b) 9                            c) 7                                        d) 8",
+      "options": [
+        "+ 7 = 20\n\na) 5",
+        "b) 9",
+        "c) 7",
+        "d) 8"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Ile wynosi długość drogi ślimaka? Zaznacz prawidłową odpowiedź.\n\n\n\n\na) 26 cm                                b) 29 cm                c) 27 cm                                 d) 28 cm",
+      "options": [
+        "a) 26 cm",
+        "b) 29 cm",
+        "c) 27 cm",
+        "d) 28 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Liczba 35 zapisana słownie to:\na) trzysta pięć                         b) pięćdziesiąt trzy    c) trzydzieści pięć                      d) pięćset trzy",
+      "options": [
+        "Liczba 35 zapisana słownie to:\na) trzysta pięć",
+        "b) pięćdziesiąt trzy",
+        "c) trzydzieści pięć",
+        "d) pięćset trzy"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Jaka to liczba? Jeżeli od liczby 21 odejmiesz tę liczbę, otrzymasz 9.\na) 13                                   b) 11                   c) 14                                    d) 12",
+      "options": [
+        "Jaka to liczba? Jeżeli od liczby 21 odejmiesz tę liczbę, otrzymasz 9.\na) 13",
+        "b) 11",
+        "c) 14",
+        "d) 12"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Wskaż działanie, w którym wynik jest równy 29.\na) 46 - 17                              b) 33 - 5               c) 14 + 15                               d) 17 + 12",
+      "options": [
+        "Wskaż działanie, w którym wynik jest równy 29.\na) 46 - 17",
+        "b) 33 - 5",
+        "c) 14 + 15",
+        "d) 17 + 12"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Wskaż miesiąc, który ma 30 dni.\na) IV                                   b) VIII                 c) I                                     d) XI",
+      "options": [
+        "Wskaż miesiąc, który ma 30 dni.\na) IV",
+        "b) VIII",
+        "c) I",
+        "d) XI"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Jakie jednakowe liczby można dodać, żeby otrzymać wynik 18?\na) 8 + 8                                b) 9 + 9                c) 6 + 6 + 6                             d) 4 + 4 + 4 + 4",
+      "options": [
+        "Jakie jednakowe liczby można dodać, żeby otrzymać wynik 18?\na) 8 + 8",
+        "b) 9 + 9",
+        "c) 6 + 6 + 6",
+        "d) 4 + 4 + 4 + 4"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Babcia upiekła 38 ciasteczek. Dzieci zjadły 7 ciasteczek. Ile ciasteczek zostało?\na) 29                                   b) 33                   c) 27 cm                                 d) 31",
+      "options": [
+        "Babcia upiekła 38 ciasteczek. Dzieci zjadły 7 ciasteczek. Ile ciasteczek zostało?\na) 29",
+        "b) 33",
+        "c) 27 cm",
+        "d) 31"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Ile jest osób w 7 parach?\na) 7                                    b) 17                   c) 14                                    d) 13",
+      "options": [
+        "Ile jest osób w 7 parach?\na) 7",
+        "b) 17",
+        "c) 14",
+        "d) 13"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Który wynik jest błędny? Wskaż go.\na) 22 + 8 = 30                          b) 30 - 15 = 15         c) 60 + 10 = 80                          d) 90 - 20 = 60",
+      "options": [
+        "Który wynik jest błędny? Wskaż go.\na) 22 + 8 = 30",
+        "b) 30 - 15 = 15",
+        "c) 60 + 10 = 80",
+        "d) 90 - 20 = 60"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Jak można rozmienić 20 zł za pomocą monet lub banknotów?\na) 2 zł, 5 zł, 5 zł, 5 zł, 2 zł, 1 zł   b) 10 zł, 10 zł         c) 2 zł, 5 zł, 10 zł, 2 zł, 5 zł, 1 zł   d) 2 zł, 2 zł, 2 zł, 2 zł, 2 zł, 5 zł, 5 zł",
+      "options": [
+        "Jak można rozmienić 20 zł za pomocą monet lub banknotów?\na) 2 zł, 5 zł, 5 zł, 5 zł, 2 zł, 1 zł",
+        "b) 10 zł, 10 zł",
+        "c) 2 zł, 5 zł, 10 zł, 2 zł, 5 zł, 1 zł",
+        "d) 2 zł, 2 zł, 2 zł, 2 zł, 2 zł, 5 zł, 5 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Wskaż liczby parzyste:\na) 8                                    b) 11                   c) 24                                    d) 13",
+      "options": [
+        "Wskaż liczby parzyste:\na) 8",
+        "b) 11",
+        "c) 24",
+        "d) 13"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Konstancja miała 7 pudełek. Do każdego włożyła po 10 kulek. Ile razem kulek Konstancja włożyła do pudełek?\na) 50                                   b) 7                    c) 70                                    d) 17",
+      "options": [
+        "Konstancja miała 7 pudełek. Do każdego włożyła po 10 kulek. Ile razem kulek Konstancja włożyła do pudełek?\na) 50",
+        "b) 7",
+        "c) 70",
+        "d) 17"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Jakie liczby mogły zostać zastąpione znakiem zapytania?                  22 < ?\na) 23                                   b) 22                   c) 7                                     d) 25",
+      "options": [
+        "22 < ?\na) 23",
+        "b) 22",
+        "c) 7",
+        "d) 25"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Oblicz, ile to dni: 3 tygodnie\na) 14                                   b) 21                    c) 32                                   d) 28",
+      "options": [
+        "Oblicz, ile to dni: 3 tygodnie\na) 14",
+        "b) 21",
+        "c) 32",
+        "d) 28"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 26,
+      "page": 0,
+      "rawText": "Ile kół mają trzy rowery?\na) 4                                    b) 12                   c) 3                                     d) 6",
+      "options": [
+        "Ile kół mają trzy rowery?\na) 4",
+        "b) 12",
+        "c) 3",
+        "d) 6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 27,
+      "page": 0,
+      "rawText": "Rafał ma jeden banknot dwudziestozłotowy i sześć monet jednozłotowych. Jola ma 19 złotówek. Kto ma więcej pieniędzy?\na) Rafał                                b) Jola                 c) mają tyle samo                        d) -",
+      "options": [
+        "Rafał ma jeden banknot dwudziestozłotowy i sześć monet jednozłotowych. Jola ma 19 złotówek. Kto ma więcej pieniędzy?\na) Rafał",
+        "b) Jola",
+        "c) mają tyle samo",
+        "d) -"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

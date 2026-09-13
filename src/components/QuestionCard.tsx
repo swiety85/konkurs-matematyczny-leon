@@ -1,5 +1,6 @@
 import type { OptionKey, Task } from '../types'
 import { scoreTask } from '../engine/scoring'
+import { TaskIllustration } from './TaskIllustration'
 
 const KEYS: OptionKey[] = ['A', 'B', 'C', 'D']
 
@@ -46,6 +47,12 @@ export function QuestionCard({
       <p className="mb-6 whitespace-pre-line text-lg font-medium leading-relaxed text-slate-800 sm:text-xl">
         {task.tresc}
       </p>
+
+      {task.illustration && (
+        <div className="mb-6">
+          <TaskIllustration spec={task.illustration} />
+        </div>
+      )}
 
       {task.typ === 'open' ? (
         <label className="block">

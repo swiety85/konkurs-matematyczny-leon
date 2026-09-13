@@ -1,0 +1,336 @@
+{
+  "sheet": "kl2-2025-wiosna",
+  "label": "Klasa 2 / Wiosna 2025",
+  "file": "MATEMATYKA_Klasa2 - WIOSNA 2025.pdf",
+  "pages": 2,
+  "detectedQuestions": 25,
+  "expectedQuestions": 25,
+  "diff": 0,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Które z podanych liczb są podzielne przez 3?\n                     15                                22                                  30                               19\nsa IV            klasa V        klasa VI           klasa VII        klasa VIII",
+      "options": [
+        "klasa V",
+        "klasa VI",
+        "klasa VII",
+        "klasa VIII"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Każdy kwiatek zastępuje tą samą liczbę. Jaka to liczba?\nsa IV            klasa V        klasa VI           klasa VII        klasa VIII\nX w odpowiednim polu.                                                    50 -          -           -         = 35\n\n                     5                                4                                    6                                7\n  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Wskaż poprawne porównania:\n                     9 + 8 > 15                        12 - 5 < 6                          18 : 3 = 6                       7 2 > 15",
+      "options": [
+        "9 + 8 > 15",
+        "12 - 5 < 6",
+        "18 : 3 = 6",
+        "7 2 > 15"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Ile centymetrów brakuje do metra?\n             30 cm + 20 cm                            45 cm                                55 cm                            50 cm                           40 cm\ndzi zaznacz, stawiając krzyżyk X w polu A, B, C, lub D przy odpowiednim numerze pytania.\n             25 cm + 50 cm                            25 cm                                35 cm                            30 cm                           125 cm",
+      "options": [
+        "25 cm",
+        "35 cm",
+        "30 cm",
+        "125 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Wskaż liczbę, która ma więcej jedności niż dziesiątek.\n                     97                                33                                  89                               34",
+      "options": [
+        "97",
+        "33",
+        "89",
+        "34"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Wskaż liczby parzyste większe od 30, ale mniejsze od 40.\n                     32                                35                                  38                               40",
+      "options": [
+        "32",
+        "35",
+        "38",
+        "40"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Wskaż szereg, w którym liczby zostały uporządkowane od najmniejszej do największej.\n                     pięćdziesiąt, trzydzieści, siedemdziesiąt                             dziesięć, czterdzieści, osiemdziesiąt\n                     dwadzieścia, pięćdziesiąt, czterdzieści                               sto, sześćdziesiąt, trzy",
+      "options": [
+        "pięćdziesiąt, trzydzieści, siedemdziesiąt",
+        "dziesięć, czterdzieści, osiemdziesiąt",
+        "dwadzieścia, pięćdziesiąt, czterdzieści",
+        "sto, sześćdziesiąt, trzy"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Wstaw odpowiedni znak: <, =, >.\n             11 zł                               <             =             >                 -        5 zł + 2 zł + 2 zł + 2 zł + 1 zł\n             36 zł                               <             =             >                 -        5 zł + 5 zł + 5 zł + 5 zł + 5 zł + 2 zł + 2 zł + 2 zł\n             18 zł                               <             =             >                 -        5 zł + 5 zł + 2 zł + 2 zł + 1 zł + 2 zł + 2 zł",
+      "options": [
+        "=",
+        ">",
+        "-",
+        "5 zł + 5 zł + 2 zł + 2 zł + 1 zł + 2 zł + 2 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Oblicz i zaznacz.\n             48 - 29 = ……                             18                                   19                               20                              21",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Ile centymetrów brakuje do metra, jeśli mamy 73 cm?\n                     17 cm                            27 cm                                37 cm                            23 cm",
+      "options": [
+        "17 cm",
+        "27 cm",
+        "37 cm",
+        "23 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Uzupełnij równanie:                 + 15 = 32\n                     17                               19                                   20                               22",
+      "options": [
+        "17",
+        "19",
+        "20",
+        "22"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Wskaż liczby, które są większe od 40, ale mniejsze od 60.\n     38                              42                         55                          62",
+      "options": [
+        "38",
+        "42",
+        "55",
+        "62"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Wybierz liczby, które można zapisać jako sumę trzech jednakowych składników.\n\n     9                               12                         15                          16",
+      "options": [
+        "9",
+        "12",
+        "15",
+        "16"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Na placu zabaw bawiło się 24 dzieci. 9 poszło do domu. Ile dzieci zostało?\n\n     12                              15                         17                          20",
+      "options": [
+        "12",
+        "15",
+        "17",
+        "20"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Na półce jest 5 książek i dwa razy więcej notesów. Ile łącznie rzeczy leży na półce?\n\n     10                              5                          15                          20",
+      "options": [
+        "10",
+        "5",
+        "15",
+        "20"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Ile minut ma kwadrans?\n\n                                     30                         15                          20                      45",
+      "options": [
+        "30",
+        "15",
+        "20",
+        "45"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Wczoraj był czwartek. Jaki dzień tygodnia będzie jutro?\n\n                                     sobota                     niedziela                   poniedziałek            piątek",
+      "options": [
+        "sobota",
+        "niedziela",
+        "poniedziałek",
+        "piątek"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Od godziny 14:45 do 16:20 minęło:\n\n                                     1 godzina 35 minut         1 godzina 15 minut          1 godzina 30 minut      2 godziny",
+      "options": [
+        "1 godzina 35 minut",
+        "1 godzina 15 minut",
+        "1 godzina 30 minut",
+        "2 godziny"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Zaznacz błędne obliczenie.\n\n     66 + 12 = 79                    38 + 9 = 47                65 + 17 = 82                43 + 9 = 53",
+      "options": [
+        "66 + 12 = 79",
+        "38 + 9 = 47",
+        "65 + 17 = 82",
+        "43 + 9 = 53"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Sznurek ma długość 45 cm. Ile centymetrów długości będzie miała każda jego część, jeśli rozetniesz go na pięć równych części?\n\n     4 cm                            5 cm                       8 cm                        9 cm",
+      "options": [
+        "4 cm",
+        "5 cm",
+        "8 cm",
+        "9 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Wskaż składniki sumy równej 28.\n\n     12 + 3 + 11                     10 + 9 + 8                 9 + 9 + 10                  5 + 8 + 12",
+      "options": [
+        "12 + 3 + 11",
+        "10 + 9 + 8",
+        "9 + 9 + 10",
+        "5 + 8 + 12"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Ustal, jakie wartości mogły się ukryć pod owadami.\n\n\n                                               >4 8                    =6 9      49 : 7 <\n\n                                     29                         31                          33                      30\n                                     55                         52                          58                      54\n                                     7                          6                           8                       1",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "1"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Oblicz różnicę liczb: 52 i 33.\n     19                              85                         84                          18",
+      "options": [
+        "19",
+        "85",
+        "84",
+        "18"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Która godzina będzie za 30 minut, jeśli teraz jest 14:25?\n     14:45                           ☐ 14:55                    ☐ 15:00                     ☐ 14:30",
+      "options": [
+        "14:45",
+        "☐ 14:55",
+        "☐ 15:00",
+        "☐ 14:30"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Marta ma 3 kwiaty. Każdy kwiat ma 5 płatków. Ile płatków mają wszystkie kwiaty razem?\n     15                              ☐ 10                       ☐ 20                        12",
+      "options": [
+        "15",
+        "☐ 10",
+        "☐ 20",
+        "12"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

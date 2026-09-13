@@ -1,0 +1,258 @@
+{
+  "sheet": "kl2-2021-wiosna",
+  "label": "Klasa 2 / Wiosna 2021",
+  "file": "matematyka klasa 2 wiosna 2021.pdf",
+  "pages": 2,
+  "detectedQuestions": 19,
+  "expectedQuestions": 28,
+  "diff": -9,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Po łące biegają zające. Kamil policzył, że mają razem 36 nóg. Ile zająców biega po łące?\n        8                                9                                                                    18                                              6\n...........................................................................................................................................",
+      "options": [
+        "8",
+        "9",
+        "18",
+        "6\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Porównaj liczby i zaznacz znak, który ukrył się pod\n            19+5                  11+13                                                                                            >             <             =\n            36-8                  43-12                                                                                            >             <             =\n            18+7                  34-21                                                                                            >             <             =\n...........................................................................................................................................\n\n                                                                                           ................. ...................",
+      "options": [
+        ">",
+        "<",
+        "=\n...........................................................................................................................................",
+        "................. ..................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Do liczby 39 dodaj liczbę o 25 mniejszą.                                                                            4. Zaznacz poprawnie wykonane działanie:\n   Jaka będzie suma tych liczb?                                                                                                                                           80 – 30 = 40\n                                                                                                                                           7 • 9 = 63\n         53              35              64                 52                                                                                                            55 + 45 = 100\n                                                                                                                                           25 : 5 = 5\n...........................................................................................................................................",
+      "options": [
+        "64",
+        "52",
+        "55 + 45 = 100",
+        "25 : 5 = 5\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Patryk waży 52 kg. Ania waży o 15 kg mniej.                                                                        6. W piekarni na 5 tacach było po 7 bułek.\n   Ile kilogramów waży Ania?                                                                                             Klienci kupili 16 bułek. Ile bułek zostało?\n        67 kg           36 kg            37 kg              66 kg                                                                          18            19               17               12\n...........................................................................................................................................",
+      "options": [
+        "18",
+        "19",
+        "17",
+        "12\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Patryk miał 100 zł. Kupił 7 znaczków, po 6 zł za sztukę, oraz nowy klaser na znaczki za 15 zł.\n      Ile złotych zapłacił Patryk za zakupy?                                         42 zł                                                  28 zł             57 zł            27 zł\n      Ile pieniędzy zostało Patrykowi?                                                58 zł                                                  43 zł            72 zł            85 zł\n.................................................................................................................................",
+      "options": [
+        "58 zł",
+        "43 zł",
+        "72 zł",
+        "85 zł\n................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "W piątek Marysia zaczyna lekcje                                                9. Która data jest najwcześniejsza?\n                                                                  ......................\n\n\n\n\n    o godzinie 8.00. Zajęcia trwają 5 godzin.\n                                                                                                                                       5 VI 2021 r.                   7 lipca 2021 r.\n    O której godzinie Marysia kończy zajęcia?",
+      "options": [
+        "......................",
+        "o godzinie 8.00. Zajęcia trwają 5 godzin.",
+        "5 VI 2021 r.                   7 lipca 2021 r.",
+        "O której godzinie Marysia kończy zajęcia?"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Oblicz i zaznacz poprawną odpowiedź.\n      35 kg + 500 dag + 10 kg = ...                          545 kg                                                                     45 kg             50 kg                555 kg\n      17 dag + 180 g + 3 dag = ...                           38 dag                                                                     200 dag           37 dag               20 dag\n      19 km + 3000 m + 17 km = ...                             35 km                                                                    39 km             3036 km              40 km\n...........................................................................................................................................\n                                                                  ....................",
+      "options": [
+        "39 km",
+        "3036 km",
+        "40 km\n...........................................................................................................................................",
+        "...................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "O jakiej liczbie myślę?                                                      12. Przygotowano 42 rogaliki. Pakowano je do\n     Liczba jedności jest mniejsza od 7.                                              torebek po 7. Do ilu torebek zapakowano\n     Liczba dziesiątek jest liczbą nieparzystą.                                       te rogaliki?\n            94           46             69                99                                                                           8             7                5                6\n...........................................................................................................................................",
+      "options": [
+        "8",
+        "7",
+        "5",
+        "6\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Za 8 róż zapłacono 40 zł\n      Ile kosztowała jedna róża?                                                      6                                                      9                7                5\n      Ile trzeba zapłacić za 7 róż?                                                   45                                                     35               28               42\n\f                                                                          .......... ................",
+      "options": [
+        "35",
+        "28",
+        "42",
+        ".......... ................"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Ile jest osób w 9 parach?                                                                                                                                   15. Zaznacz liczbę, w której różnica cyfr wynosi 5\n          9          2        18          14                                                                                                                               94       61               41            72\n...........................................................................................................................................",
+      "options": [
+        "94",
+        "61",
+        "41",
+        "72\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Ile wynosi obwód trójkąta o wymiarach                                                                                                                     17. Ile wynosi obwód prostokąta o bokach\n     podanych na rysunku.                                                                                                                                          8 cm i 5 cm.\n\n\n\n\n                                                      mc\n\n                                                                9\n                                                             mc\n                                                         9\n          27        9         36          18          9 cm                                                                                                                10        26               13            27\n...........................................................................................................................................",
+      "options": [
+        "10",
+        "26",
+        "13",
+        "27\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "05.2021 r.                  19 IV 2021 r.\n            12:00        11:00          13:00           14:00\n...........................................................................................................................................",
+      "options": [
+        "12:00",
+        "11:00",
+        "13:00",
+        "14:00\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Ile wynosi długość drogi ślimaka? Oblicz i zaznacz prawidłową odpowiedź.\n                          .........................................................................................................\n                                                                                                                                                                        9 cm                                            6 cm\n                                             12 cm                                                                                                                                           13 cm\n\n\n\n\n                                                                    mc\n                                                                   4\n           45 cm                                44 cm                                                                                                                     43 cm                                42 cm\n...........................................................................................................................................\n                                                                        ................................ ...................... .............. ...................",
+      "options": [
+        "44 cm",
+        "43 cm",
+        "42 cm\n...........................................................................................................................................",
+        "................................ ...................... .............. ..................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Babcia przygotowała na                                                                                                                                      20. Basia miała 18 bąbli po ugryzieniu\n     obiad 18 pierogów do równego podziału                                                                                                                           komarów na prawej nodze\n     między troje rodzeństwa. Dwoje dzieci                                                                                                                           i 7 na lewej nodze. Zosia miała\n     już zjadło swoje pierogi. Ile pierogów                                                                                                                          po 8 bąbli na każdej nodze.\n     zostało dla ostatniego dziecka?                                                                                                                                 O ile więcej bąbli miała Basia?\n\n           12             6                 3                9                                                                                                             8             9                10               11\n ...........................................................................................................................................",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Zaznacz błędne obliczenie:                                                                                                                                      22. Cztery ćwierćlitrowe szklanki soku to litr.\n            15 + 7 + 29 = 51                                                                                                                                             W kartonie mieszczą się 2 litry soku. Dla ilu\n            49 + 8 – 26 = 30                                                                                                                                             osób wystarczy soku, jeśli każda osoba\n            37 + 42 + 3 + 8 = 90                                                                                                                                         wypije jedną szklankę?\n\n            63 – 25 + 8 = 46                                                                                                                                               2          4                   12               8\n ...........................................................................................................................................",
+      "options": [
+        "2",
+        "4",
+        "12",
+        "8\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Odjemnik wynosi 9, a odjemna 58.                                                                                                               24. Liczba 9 to wynik dzielenia dwóch liczb.\n     Ile wynosi różnica?                                                                                                                                Jedną z nich jest 7. Jaka jest druga liczba?\n           68            48                 49                69                                                                                                           36         45                  56               63\n...........................................................................................................................................",
+      "options": [
+        "36",
+        "45",
+        "56",
+        "63\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Wskaż tylko takie liczby, które można                                                                                                 26. Dzieci zjadły 21 gruszek. Pięcioro dzieci\n     zapisać w postaci sumy trzech                                                                                                             zjadło po 3 gruszki, a pozostałe po jednej.\n     jednakowych składników.                                                                                                                   Ile dzieci jadło gruszki?\n           12            15                 16                9                                                                                                            10         11                  9                12\n...........................................................................................................................................",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12\n..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 27,
+      "page": 0,
+      "rawText": "Przeczytaj uważnie i wskaż odpowiednie ceny, przy produktach.\n     Najwyższą cenę mają buty. Kurtka ma cenę   Kurtka      46 zł                                                                                                                                    75 zł         58 zł        91 zł\n     niższą niż spodnie, ale wyższą niż sweter. Buty        58 zł                                                                                                                                    91 zł         46 zł        75 zł\n     Sweter kosztuje najmniej. Spodnie mają     Sweter      91 zł                                                                                                                                    58 zł         75 zł        46 zł\n     cenę wyższą od ceny swetra.                Spodnie     75 zł                                                                                                                                    46 zł         91 zł        58 zł\n ...........................................................................................................................................",
+      "options": [
+        "75 zł",
+        "46 zł",
+        "91 zł",
+        "58 zł\n ..........................................................................................................................................."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 28,
+      "page": 0,
+      "rawText": "Jakie to liczby?\n      sześć setek jedna dziesiątka i dwie jedności                                                                                                                       216         612                     162                621\n      cztery setki osiem dziesiątek zero jedności                                                                                                                        840         408                     480                804\n      trzy setki zero dziesiątek trzy jedności                                                                                                                           330         103                     301                303\n      dwie setki sześć dziesiątek pięć jedności                                                                                                                          265         625                     526                256\n                                                                  www.leon-konkursy.pl",
+      "options": [
+        "625",
+        "526",
+        "256",
+        "www.leon-konkursy.pl"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

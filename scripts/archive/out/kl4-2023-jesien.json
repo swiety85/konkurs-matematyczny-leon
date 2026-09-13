@@ -1,0 +1,388 @@
+{
+  "sheet": "kl4-2023-jesien",
+  "label": "Klasa 4 / Jesien 2023",
+  "file": "MATEMATYKA Klasa IV jesień 2023.pdf",
+  "pages": 2,
+  "detectedQuestions": 29,
+  "expectedQuestions": 29,
+  "diff": 0,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Zaznacz działania, w których wynik to 25:\nA. 25 1                            B. 25 0                               C. 5 5                    D. 25 : 25",
+      "options": [
+        "Zaznacz działania, w których wynik to 25:",
+        "A. 25 1",
+        "B. 25 0",
+        "C. 5 5"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Jaka liczba kryje się pod        ?\n                                                   58 + 76 = 88 +\nA. 36                                     B. 47                          C. 46                     D. 44",
+      "options": [
+        "Jaka liczba kryje się pod        ?\n                                                   58 + 76 = 88 +",
+        "A. 36",
+        "B. 47",
+        "C. 46"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Leon chce kupić 15 batonów za 4 zł każdy. Ile zapłaci za zakupy?\nA. 40 zł                           B. 50 zł                              C. 60 zł                  D. 70 zł",
+      "options": [
+        "Leon chce kupić 15 batonów za 4 zł każdy. Ile zapłaci za zakupy?",
+        "A. 40 zł",
+        "B. 50 zł",
+        "C. 60 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Natasza pomyślała o liczbie, która jest większa od 15, ale mniejsza od 27. O której liczbie mogła pomyśleć Natasza?\nA. 12                               B. 17                                C. 25                        D. 29",
+      "options": [
+        "Natasza pomyślała o liczbie, która jest większa od 15, ale mniejsza od 27. O której liczbie mogła pomyśleć Natasza?",
+        "A. 12",
+        "B. 17",
+        "C. 25"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Gdzie została poprawnie zapisana liczba: trzysta dwa tysiące sto pięć.\nA. 302105                         B. 32105                               C. 3021005                D. 30215",
+      "options": [
+        "Gdzie została poprawnie zapisana liczba: trzysta dwa tysiące sto pięć.",
+        "A. 302105",
+        "B. 32105",
+        "C. 3021005"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Które zdania są prawdziwe?\nA. dodawanie zera nie zmienia dodawanej liczby\nB. kolejność składników nie wpływa na wynik dodawania\nC. liczbę 16 można przedstawić w postaci sumy na kilka sposobów\nD. odejmowanie jest przemienne",
+      "options": [
+        "Które zdania są prawdziwe?",
+        "A. dodawanie zera nie zmienia dodawanej liczby",
+        "B. kolejność składników nie wpływa na wynik dodawania",
+        "C. liczbę 16 można przedstawić w postaci sumy na kilka sposobów"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "W której liczbie cyfra setek jest większa od liczby jedności.\nA. 321                                B. 231                             C. 132                    D. 312",
+      "options": [
+        "W której liczbie cyfra setek jest większa od liczby jedności.",
+        "A. 321",
+        "B. 231",
+        "C. 132"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Oblicz sumę liczb z pierwszego wiersza poniższej tabelki:\n\n                 22                     18             14                  37                42\n                 21                     12             16                  55                18\n\nA. 123                                    B. 133                         C. 122                    D. 43",
+      "options": [
+        "Oblicz sumę liczb z pierwszego wiersza poniższej tabelki:\n\n                 22                     18             14                  37                42\n                 21                     12             16                  55                18",
+        "A. 123",
+        "B. 133",
+        "C. 122"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "W 1957 roku skonstruowano pierwszy polski telewizor („Belweder”). Ile lat temu to było?\nA. 54                            B. 62                               C. 66                         D. 68",
+      "options": [
+        "W 1957 roku skonstruowano pierwszy polski telewizor („Belweder”). Ile lat temu to było?",
+        "A. 54",
+        "B. 62",
+        "C. 66"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "W autobusie siedzi 13 osób, a stoi 3 razy więcej. Ile jest osób w autobusie?\nA. 47                               B. 49                                 C. 51                    D. 52",
+      "options": [
+        "W autobusie siedzi 13 osób, a stoi 3 razy więcej. Ile jest osób w autobusie?",
+        "A. 47",
+        "B. 49",
+        "C. 51"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Ile możemy kupić biletów do ZOO, jeżeli jeden kosztuje 13 zł, a mamy uzbierane 55 zł?\nA. 3                              B. 4                                 C. 5                        D. 6",
+      "options": [
+        "Ile możemy kupić biletów do ZOO, jeżeli jeden kosztuje 13 zł, a mamy uzbierane 55 zł?",
+        "A. 3",
+        "B. 4",
+        "C. 5"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Które nierówności zostały zapisane poprawnie?\nA. 15 : 5 > 20 : 4                 B. 4 5 > 12 2                             C. 40 : 5 < 3 3             D. 2 + 2 2 < 7 1",
+      "options": [
+        "Które nierówności zostały zapisane poprawnie?",
+        "A. 15 : 5 > 20 : 4",
+        "B. 4 5 > 12 2",
+        "C. 40 : 5 < 3 3"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Błażej codziennie jedzie w jedną stronę do szkoły na rowerze przez 17 minut. Ile czasu poświęca Błażej na jazdę rowerem do\nszkoły i ze szkoły do domu od poniedziałku do piątku?\nA. 180 minut                        B. 170 minut                        C. 10200 sekund            D. 12000 s",
+      "options": [
+        "Błażej codziennie jedzie w jedną stronę do szkoły na rowerze przez 17 minut. Ile czasu poświęca Błażej na jazdę rowerem do\nszkoły i ze szkoły do domu od poniedziałku do piątku?",
+        "A. 180 minut",
+        "B. 170 minut",
+        "C. 10200 sekund"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Jedna godzina i 20 minut to:\nA. 3 kwadranse i 5 minut               B. 5 kwadransów i 5 minut             C. 90 minut                 D. 4800 sekund",
+      "options": [
+        "Jedna godzina i 20 minut to:",
+        "A. 3 kwadranse i 5 minut",
+        "B. 5 kwadransów i 5 minut",
+        "C. 90 minut"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Który miesiąc ma zawsze 28 dni?\nA. styczeń                        B. luty                                    C. kwiecień                 D. każdy",
+      "options": [
+        "Który miesiąc ma zawsze 28 dni?",
+        "A. styczeń",
+        "B. luty",
+        "C. kwiecień"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "\u0007Lukrecja chce ogrodzić swój prostokątny ogródek kwiatowy płotem. Ile metrów płotu musi kupić, jeżeli rabatka ma wymiary\n    1 m 20 cm i 1 m 80 cm.\nA. 3 m                              B. 4,2 m                          C. 6 m                    D. 6,5 m",
+      "options": [
+        "\u0007Lukrecja chce ogrodzić swój prostokątny ogródek kwiatowy płotem. Ile metrów płotu musi kupić, jeżeli rabatka ma wymiary\n    1 m 20 cm i 1 m 80 cm.",
+        "A. 3 m",
+        "B. 4,2 m",
+        "C. 6 m"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Liczba o 12 większa od iloczynu liczb 8 i 9 to:\nA. 72                               B. 79                                    C. 82                       D. 84",
+      "options": [
+        "Liczba o 12 większa od iloczynu liczb 8 i 9 to:",
+        "A. 72",
+        "B. 79",
+        "C. 82"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Ciocia ma 38 lat i jest młodsza od wujka o 7 lat. Ile lat mają łącznie ciocia i wujek?\nA. 69                                B. 74                                   C. 83                       D. 85",
+      "options": [
+        "Ciocia ma 38 lat i jest młodsza od wujka o 7 lat. Ile lat mają łącznie ciocia i wujek?",
+        "A. 69",
+        "B. 74",
+        "C. 83"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Do liczby tysiąc pięć dodano dwa tysiące trzynaście. Wynik, który otrzymano jest:\nA. podzielny przez 2               B. podzielny przez 3\nC. podzielny przez 9               D. podzielny przez 5",
+      "options": [
+        "Do liczby tysiąc pięć dodano dwa tysiące trzynaście. Wynik, który otrzymano jest:",
+        "A. podzielny przez 2",
+        "B. podzielny przez 3",
+        "C. podzielny przez 9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Kasia ma 120 monet po 20 groszy. Ile złotych ma Kasia?\nA. 24 zł                         B. 240 zł                                   C. 2400 zł                  D. 2,4 zł",
+      "options": [
+        "Kasia ma 120 monet po 20 groszy. Ile złotych ma Kasia?",
+        "A. 24 zł",
+        "B. 240 zł",
+        "C. 2400 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Uzupełnij równanie tak żeby było poprawne:\n\n                                                           123 + 231 = 432 - ?\nA. 27                                  B. 78                                 C. 82                       D. 87",
+      "options": [
+        "Uzupełnij równanie tak żeby było poprawne:\n\n                                                           123 + 231 = 432 - ?",
+        "A. 27",
+        "B. 78",
+        "C. 82"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Dzielimy 48 cukierków po równo między 6 uczniów. Ile cukierków dostanie każdy uczeń?\n                                                  A. 6                B. 7                C. 8             D. 9",
+      "options": [
+        "Dzielimy 48 cukierków po równo między 6 uczniów. Ile cukierków dostanie każdy uczeń?",
+        "A. 6",
+        "B. 7",
+        "C. 8"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Wynik poniższego działania jest:\n\n                                                                 2 7 5\nA. większy od 68                       B. mniejszy od 70                     C. liczbą pierwszą          D. liczbą złożoną",
+      "options": [
+        "Wynik poniższego działania jest:\n\n                                                                 2 7 5",
+        "A. większy od 68",
+        "B. mniejszy od 70",
+        "C. liczbą pierwszą"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Gdzie zostały poprawnie wypisane miesiące z II kwartału?\nA. kwiecień, luty, maj            B. kwiecień, czerwiec, maj\nC. kwiecień, maj, lipiec          D. styczeń, luty, marzec",
+      "options": [
+        "Gdzie zostały poprawnie wypisane miesiące z II kwartału?",
+        "A. kwiecień, luty, maj",
+        "B. kwiecień, czerwiec, maj",
+        "C. kwiecień, maj, lipiec"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Zwykły rok ma:\nA. 366 dni                             B. 52 tygodnie                        C. 52 tygodnie i 1 dzień    D. 52 tygodnie i 2 dni",
+      "options": [
+        "Zwykły rok ma:",
+        "A. 366 dni",
+        "B. 52 tygodnie",
+        "C. 52 tygodnie i 1 dzień"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 26,
+      "page": 0,
+      "rawText": "Jaki obwód ma trójkąt równoramienny, jeżeli podstawa jest równa 8 cm, a ramię jest o 3 cm krótsze od podstawy?\nA. 12 cm                          B.13 cm                             C. 18 cm                    D. 21 cm",
+      "options": [
+        "Jaki obwód ma trójkąt równoramienny, jeżeli podstawa jest równa 8 cm, a ramię jest o 3 cm krótsze od podstawy?",
+        "A. 12 cm                          B.13 cm",
+        "C. 18 cm",
+        "D. 21 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 27,
+      "page": 0,
+      "rawText": "Filip chce przelać 2 litry soku do szklanek o objętości ćwierć litra. Ile szklanek napełni Filip?\nA. 8                                  B. 7                                    C. 6                       D. 4",
+      "options": [
+        "Filip chce przelać 2 litry soku do szklanek o objętości ćwierć litra. Ile szklanek napełni Filip?",
+        "A. 8",
+        "B. 7",
+        "C. 6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 28,
+      "page": 0,
+      "rawText": "Ile jest liczb dwucyfrowych, których cyfry są jednakowe?\nA. 5                                 B. 7                                    C. 9                        D. 10",
+      "options": [
+        "Ile jest liczb dwucyfrowych, których cyfry są jednakowe?",
+        "A. 5",
+        "B. 7",
+        "C. 9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 29,
+      "page": 0,
+      "rawText": "Prawdziwe są zdania:\nA. można dzielić przez 0\t\t                                                   B. liczba podzielona przez samą siebie daje 1\nC. dzielenie liczby przez 1 nie zmienia tej liczby                           D. wynik dzielenia to iloczyn",
+      "options": [
+        "Prawdziwe są zdania:",
+        "A. można dzielić przez 0",
+        "B. liczba podzielona przez samą siebie daje 1",
+        "C. dzielenie liczby przez 1 nie zmienia tej liczby"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

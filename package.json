@@ -8,7 +8,11 @@
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "test": "vitest run",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "archive:extract": "node scripts/archive/extract.ts",
+    "migrate:seeds": "node scripts/migrate-seeds.ts",
+    "generate:pools": "node scripts/generate-pools.ts",
+    "validate:pools": "node scripts/validate-pools.ts"
   },
   "dependencies": {
     "react": "^19.2.8",

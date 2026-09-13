@@ -43,6 +43,24 @@
     "zrodlo": { "type": "string" },
     "trudnosc": { "type": "integer", "minimum": 1, "maximum": 3 },
     "hint": { "type": "string" },
-    "openAnswer": { "type": "string" }
+    "openAnswer": { "type": "string" },
+    "seedId": { "type": "string", "description": "Stabilny klucz seeda (zadania generowane)" },
+    "pool": { "type": "string", "enum": ["learn", "quiz", "exam"], "description": "Jawna pula trybu" },
+    "variant": { "type": "integer", "minimum": 0, "description": "0 = parafraza exam, 1..n = warianty" },
+    "archiveRef": {
+      "type": "object",
+      "required": ["sheet", "number"],
+      "properties": {
+        "sheet": { "type": "string" },
+        "number": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "illustration": {
+      "type": "object",
+      "required": ["kind"],
+      "properties": {
+        "kind": { "type": "string", "enum": ["clock", "shapes", "domino", "number-line", "bars", "grid"] }
+      }
+    }
   }
 }

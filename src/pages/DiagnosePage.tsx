@@ -1,26 +1,31 @@
-import { useMemo, useState } from 'react'
+import { useState } from 'react'
 import { QuizRunner } from '../components/QuizRunner'
 import { useProfile } from '../context/ProfileContext'
-import { getTasksForPool } from '../data'
+import { loadTasksForPool } from '../data'
 import { selectDiagnosticSet } from '../engine/adaptive'
-import type { SessionRecord } from '../types'
+import type { SessionRecord, Task } from '../types'
 
 export function DiagnosePage() {
   const { profile, recordSession } = useProfile()
-  const [running, setRunning] = useState(false)
-  const tasks = useMemo(() => {
-    if (!running) return []
-    return selectDiagnosticSet(getTasksForPool(profile.klasa, 'quiz'), 12)
-  }, [running, profile.klasa])
+  const [tasks, setTasks] = useState<Task[]>([])
+  const [loading, setLoading] = useState(false)
 
-  if (running && tasks.length > 0) {
+  const startDiagnosis = () => {
+    setLoading(true)
+    void loadTasksForPool(profile.klasa, 'quiz').then((pool) => {
+      setTasks(selectDiagnosticSet(pool, 12))
+      setLoading(false)
+    })
+  }
+
+  if (tasks.length > 0) {
     return (
       <QuizRunner
         tasks={tasks}
         mode="diagnoza"
         title="Diagnoza startowa"
         showFeedbackImmediate
-        onCancel={() => setRunning(false)}
+        onCancel={() => setTasks([])}
         onComplete={({ score, maxScore, attempts, startedAt, durationSec }) => {
           const session: SessionRecord = {
             id: `diag-${Date.now()}`,
@@ -48,10 +53,11 @@ export function DiagnosePage() {
       </p>
       <button
         type="button"
-        onClick={() => setRunning(true)}
-        className="w-full rounded-2xl bg-sky-600 py-4 text-lg font-bold text-white shadow-lg"
+        disabled={loading}
+        onClick={startDiagnosis}
+        className="w-full rounded-2xl bg-sky-600 py-4 text-lg font-bold text-white shadow-lg disabled:opacity-50"
       >
-        Rozpocznij diagnozę
+        {loading ? 'Ładowanie zadań…' : 'Rozpocznij diagnozę'}
       </button>
     </div>
   )

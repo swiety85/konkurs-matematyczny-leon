@@ -1,0 +1,292 @@
+{
+  "sheet": "kl1-2023-jesien",
+  "label": "Klasa 1 / Jesien 2023",
+  "file": "MATEMATYKA Klasa I jesień 2023.pdf",
+  "pages": 2,
+  "detectedQuestions": 22,
+  "expectedQuestions": 23,
+  "diff": -1,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Jakie liczby zostały zastąpione listkami?\n                                                1     3          7       11\n\n    4 8 12                                 4 9 13                             5 8 13                          5 9 13",
+      "options": [
+        "4 8 12",
+        "4 9 13",
+        "5 8 13",
+        "5 9 13"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Który wynik jest błędny? Wskaż go.\n    15 - 9 = 7                             17 + 8 = 24                        16 + 7 = 23                     26 - 9 = 17",
+      "options": [
+        "15 - 9 = 7",
+        "17 + 8 = 24",
+        "16 + 7 = 23",
+        "26 - 9 = 17"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Jakimi monetami można wypłacić 9 zł?\n    5 zł, 2 zł, 2 zł                       1 zł, 5 zł, 2 zł, 1 zł             1 zł, 2 zł, 2 zł, 5 zł          2 zł, 2 zł, 1 zł, 2 zł, 1 zł",
+      "options": [
+        "5 zł, 2 zł, 2 zł",
+        "1 zł, 5 zł, 2 zł, 1 zł",
+        "1 zł, 2 zł, 2 zł, 5 zł",
+        "2 zł, 2 zł, 1 zł, 2 zł, 1 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Wskaż parę pszczółek, która leci w prawą stronę.",
+      "options": [],
+      "confidence": "low",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Suma liczb 6 i 3 jest równa:\n    9                                      7                                  8                               6",
+      "options": [
+        "9",
+        "7",
+        "8",
+        "6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Jakie liczby ukryły się pod obrazkami? Rozwiąż zaszyfrowane działania.\n\n              7+         = 16                                 + 9 = 17                       = 7+ 6\n\n       =      8                            16                                 9                               7\n       =      17                           8                                  7                               10\n       =      13                           11                                 12                              7",
+      "options": [
+        "13",
+        "11",
+        "12",
+        "7"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Oblicz i zaznacz prawidłową odpowiedź.\n6+1=                          8                           7                   9                        6\n\n\n2+3+4=                        7                           8                   6                        9\n\n\n1+1+2+2=                      6                           5                   7                        4\n\n\n4+1+1+2=                      10                          9                   8                        7",
+      "options": [
+        "10",
+        "9",
+        "8",
+        "7"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Jaka cyfra ukryła się pod kwiatkiem?\n                                              -                 -\n\n                                    15                    9                 3\n    5                                    8                                      7                             6",
+      "options": [
+        "5",
+        "8",
+        "7",
+        "6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Wskaż działanie pasujące do poniższego rysunku.\n\n\n\n    14 – 6 = 8                           8 + 6 = 15                            8 + 6 = 14                     14 – 8 = 7",
+      "options": [
+        "14 – 6 = 8",
+        "8 + 6 = 15",
+        "8 + 6 = 14",
+        "14 – 8 = 7"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Mama kupiła 5 śliwek, 4 pączki i 2 jabłka. Ile owoców kupiła mama?\n    11                                   9                                     4                              7",
+      "options": [
+        "11",
+        "9",
+        "4",
+        "7"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "W skarbonce znajdują się 4 monety po 5 zł i 3 monety po 2 zł. Ile to złotych?\n    15 zł                                6 zł                                  20 zł                          26 zł",
+      "options": [
+        "15 zł",
+        "6 zł",
+        "20 zł",
+        "26 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Zaznacz prawidłową odpowiedź. 15 to:\n    dwie dziesiątki i pięć jedności                jedna dziesiątka i pięć jedności\n    pięć dziesiątek i jedna jedność               jedna dziesiątka i sześć jedności",
+      "options": [
+        "dwie dziesiątki i pięć jedności",
+        "jedna dziesiątka i pięć jedności",
+        "pięć dziesiątek i jedna jedność",
+        "jedna dziesiątka i sześć jedności"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Anetka ma dziewięć lat. Ile lat będzie miała za siedem lat?\n    14 lat                               16 lat                                15 lat                         13 lat",
+      "options": [
+        "14 lat",
+        "16 lat",
+        "15 lat",
+        "13 lat"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Wichura zniszczyła 8 jabłoni i 7 śliw. Ile drzew zniszczyła wichura?\n    8                                    15                                     7                             14",
+      "options": [
+        "8",
+        "15",
+        "7",
+        "14"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "W koszyczku było 6 grzybów. Mama wzięła do zupy 4 grzyby. Ile grzybów zostało w koszyczku?\n    3                                    5                                     2                              4",
+      "options": [
+        "3",
+        "5",
+        "2",
+        "4"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Lenka ma chomiki i kanarki. Zwierzęta mają razem 12 nóg i 4 głowy.\nIle jest chomików?                       3                                 1                            2                             4\nIle jest kanarków?                       2                                 4                            3                             1",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Dziś jest środa. Wskaż nazwę poprzedniego i kolejnego dnia tygodnia.\n    piątek, niedziela                    wtorek, czwartek                      wtorek, piątek                 czwartek, sobota",
+      "options": [
+        "piątek, niedziela",
+        "wtorek, czwartek",
+        "wtorek, piątek",
+        "czwartek, sobota"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Wartość, którego wyrażenia wynosi 20?\n    17 + 5 - 2                           12 + 8                                30 - 10                        13 + 6",
+      "options": [
+        "17 + 5 - 2",
+        "12 + 8",
+        "30 - 10",
+        "13 + 6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Uzupełnij koło właściwą liczbą.                                       20. Zsumuj ze sobą wszystkie liczby i zaznacz wynik.\n                                                  4 6\n                                                    8\n\n    13                  10                    7                 9              37               38                34             36",
+      "options": [
+        "37",
+        "38",
+        "34",
+        "36"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Wskaż działanie, którego wynik jest liczbą parzystą.\n    6+2                                  3+4                                   4+5                            5+3",
+      "options": [
+        "6+2",
+        "3+4",
+        "4+5",
+        "5+3"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Ile dni trwa tydzień i 6 dni?\n    10                                   13                                    5                              13",
+      "options": [
+        "10",
+        "13",
+        "5",
+        "13"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Zaznacz prawidłowo wykonane działania.\n    4 + 7 + 5 = 16                       6 + 9 – 4 = 12                        3 + 8 + 6 = 17                 6 + 7 = 13",
+      "options": [
+        "4 + 7 + 5 = 16",
+        "6 + 9 – 4 = 12",
+        "3 + 8 + 6 = 17",
+        "6 + 7 = 13"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

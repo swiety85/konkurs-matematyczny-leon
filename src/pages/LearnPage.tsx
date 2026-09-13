@@ -2,9 +2,10 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { QuizRunner } from '../components/QuizRunner'
 import { useProfile } from '../context/ProfileContext'
-import { getTasksByTopic } from '../data'
 import { GRADES, TOPICS } from '../data/meta'
+import { poolOf } from '../data'
 import { selectByTopic } from '../engine/adaptive'
+import { usePoolTasks } from '../hooks/useGradeTasks'
 import type { SessionRecord, TopicId } from '../types'
 
 export function LearnPage() {
@@ -12,11 +13,17 @@ export function LearnPage() {
   const gradeMeta = GRADES.find((g) => g.klasa === profile.klasa) ?? GRADES[2]
   const [topic, setTopic] = useState<TopicId | null>(null)
   const [running, setRunning] = useState(false)
+  const learnTasks = usePoolTasks(profile.klasa, 'learn')
+
+  const topicTasks = useMemo(() => {
+    if (!topic) return []
+    return (learnTasks ?? []).filter((task) => task.dzial === topic && poolOf(task) === 'learn')
+  }, [learnTasks, topic])
 
   const tasks = useMemo(() => {
     if (!topic || !running) return []
-    return selectByTopic(getTasksByTopic(profile.klasa, topic, 'learn'), topic, 8)
-  }, [topic, profile.klasa, running])
+    return selectByTopic(topicTasks, topic, 8)
+  }, [topic, topicTasks, running])
 
   if (running && topic && tasks.length > 0) {
     return (
@@ -47,7 +54,7 @@ export function LearnPage() {
   if (topic) {
     const meta = TOPICS[topic]
     const gradeContent = meta.gradeContent?.[profile.klasa]
-    const available = getTasksByTopic(profile.klasa, topic, 'learn').length
+    const available = topicTasks.length
     return (
       <div className="mx-auto max-w-2xl space-y-6 p-4">
         <button type="button" onClick={() => setTopic(null)} className="text-sky-600 hover:underline">
@@ -64,7 +71,9 @@ export function LearnPage() {
             <h2 className="font-bold text-emerald-900">Przykład</h2>
             <p className="mt-2 text-emerald-900">{gradeContent?.przyklad ?? meta.przyklad}</p>
           </div>
-          <p className="mt-4 text-sm text-slate-500">Dostępnych zadań: {available}</p>
+          <p className="mt-4 text-sm text-slate-500">
+            {learnTasks ? `Dostępnych zadań: ${available}` : 'Ładowanie zadań…'}
+          </p>
           <button
             type="button"
             disabled={available === 0}
@@ -91,7 +100,7 @@ export function LearnPage() {
           const t = TOPICS[id]
           const stats = profile.topicStats[id]
           const mastery = Math.round((stats?.mastery ?? 0) * 100)
-          const count = getTasksByTopic(profile.klasa, id, 'learn').length
+          const count = learnTasks ? learnTasks.filter((task) => task.dzial === id).length : null
           return (
             <button
               key={id}
@@ -105,7 +114,7 @@ export function LearnPage() {
                 <div className="h-full rounded-full bg-emerald-500" style={{ width: `${mastery}%` }} />
               </div>
               <p className="mt-2 text-xs text-slate-400">
-                Biegłość {mastery}% · {count} zadań
+                Biegłość {mastery}% · {count === null ? '…' : `${count} zadań`}
               </p>
             </button>
           )
@@ -113,7 +122,7 @@ export function LearnPage() {
       </div>
       {!gradeMeta.dostepna && (
         <p className="rounded-2xl bg-slate-100 p-4 text-slate-600">
-          Ta klasa jest w szkielecie — pełna baza zadań jest dla klasy 3 (+ mostek 4).{' '}
+          Ta klasa jest w szkielecie — pełna baza zadań obejmuje klasy 1–4.{' '}
           <Link to="/rodzic" className="text-sky-600 underline">
             Zmień klasę
           </Link>

@@ -3,17 +3,17 @@ import { klasa2Tasks } from './klasa2/tasks'
 import { klasa3Tasks } from './klasa3/tasks'
 import { klasa4Tasks } from './klasa4/tasks'
 import type { Grade, Task, TopicId } from '../types'
+import type { GeneratedTask, TaskPool } from '../domain/taskSeed'
 
-export const ALL_TASKS: Task[] = [...klasa1Tasks, ...klasa2Tasks, ...klasa3Tasks, ...klasa4Tasks]
-export type TaskPool = 'learn' | 'quiz' | 'exam'
+export type { TaskPool } from '../domain/taskSeed'
 
-export function getTasksForGrade(klasa: Grade): Task[] {
-  if (klasa === 3) {
-    return ALL_TASKS.filter(
-      (task) => task.klasa === 3 || (task.klasa === 4 && task.id.startsWith('k4-w25-')),
-    )
-  }
-  return ALL_TASKS.filter((t) => t.klasa === klasa)
+/** Baza legacy (417 zadań): synchroniczna, cała w głównym bundlu. */
+export const LEGACY_TASKS: Task[] = [...klasa1Tasks, ...klasa2Tasks, ...klasa3Tasks, ...klasa4Tasks]
+
+/** Jawna pula zadania. Zadania generowane niosą ją w sobie, legacy to pula nauki. */
+export function poolOf(task: Task): TaskPool {
+  const pool = (task as Partial<GeneratedTask>).pool
+  return pool ?? 'learn'
 }
 
 function normalizeFingerprintPart(value: string): string {
@@ -26,67 +26,63 @@ export function getTaskFingerprint(task: Task): string {
   return JSON.stringify([normalizeFingerprintPart(task.tresc), options])
 }
 
-function partitionTasks(
-  tasks: Task[],
-  assignedFingerprints = new Map<string, TaskPool>(),
-): Record<TaskPool, Task[]> {
-  const result: Record<TaskPool, Task[]> = { learn: [], quiz: [], exam: [] }
-  const topics = Array.from(new Set(tasks.map(({ dzial }) => dzial))).sort()
-
-  for (const topic of topics) {
-    const groups = new Map<string, Task[]>()
-    for (const task of tasks.filter(({ dzial }) => dzial === topic)) {
-      const fingerprint = getTaskFingerprint(task)
-      const group = groups.get(fingerprint) ?? []
-      group.push(task)
-      groups.set(fingerprint, group)
-    }
-
-    const orderedGroups = Array.from(groups.entries()).sort(([left], [right]) =>
-      left.localeCompare(right, 'pl'),
-    )
-    const learnEnd = Math.max(1, Math.floor(orderedGroups.length * 0.5))
-    const quizEnd = Math.min(
-      orderedGroups.length - 1,
-      Math.max(learnEnd + 1, learnEnd + Math.floor(orderedGroups.length * 0.2)),
-    )
-
-    orderedGroups.forEach(([fingerprint, group], index) => {
-      const suggestedPool: TaskPool =
-        index < learnEnd ? 'learn' : index < quizEnd ? 'quiz' : 'exam'
-      const pool = assignedFingerprints.get(fingerprint) ?? suggestedPool
-      assignedFingerprints.set(fingerprint, pool)
-      result[pool].push(...group)
-    })
-  }
-
-  return result
-}
-
-const GLOBAL_POOL_BY_FINGERPRINT = (() => {
-  const assignments = new Map<string, TaskPool>()
-  for (const grade of [1, 2, 3, 4] as const) {
-    partitionTasks(
-      ALL_TASKS.filter((task) => task.klasa === grade),
-      assignments,
+/** Synchroniczny podzbiór legacy (reguła mostka: klasa 3 widzi też k4-w25-*). */
+export function legacyTasksForGrade(klasa: Grade): Task[] {
+  if (klasa === 3) {
+    return LEGACY_TASKS.filter(
+      (task) => task.klasa === 3 || (task.klasa === 4 && task.id.startsWith('k4-w25-')),
     )
   }
-  return assignments
-})()
-
-export function getTasksForPool(klasa: Grade, pool: TaskPool): Task[] {
-  return getTasksForGrade(klasa).filter(
-    (task) => GLOBAL_POOL_BY_FINGERPRINT.get(getTaskFingerprint(task)) === pool,
-  )
+  return LEGACY_TASKS.filter((t) => t.klasa === klasa)
 }
 
-export function getTasksByTopic(klasa: Grade, topic: TopicId, pool?: TaskPool): Task[] {
-  const tasks = pool ? getTasksForPool(klasa, pool) : getTasksForGrade(klasa)
+/**
+ * Leniwe chunki z zadaniami generowanymi — jeden chunk na klasę.
+ * Dzięki import.meta.glob pula exam/quiz/learn (~1459 zadań) nie wchodzi do początkowego bundla.
+ */
+const generatedLoaders: Record<string, () => Promise<unknown>> = import.meta.glob(
+  './generated/klasa*.ts',
+)
+const generatedCache = new Map<Grade, GeneratedTask[]>()
+const idCache = new Map<string, Task>(LEGACY_TASKS.map((task) => [task.id, task]))
+
+export async function loadGeneratedForGrade(klasa: Grade): Promise<GeneratedTask[]> {
+  const hit = generatedCache.get(klasa)
+  if (hit) return hit
+  const loader = generatedLoaders[`./generated/klasa${klasa}.ts`]
+  if (!loader) return []
+  const mod = (await loader()) as Record<string, GeneratedTask[]>
+  const tasks = Object.values(mod)[0] ?? []
+  generatedCache.set(klasa, tasks)
+  for (const task of tasks) idCache.set(task.id, task)
+  return tasks
+}
+
+/** Pełna baza klasy: legacy synchroniczne + leniwy chunk generowany. */
+export async function loadTasksForGrade(klasa: Grade): Promise<Task[]> {
+  const generated = await loadGeneratedForGrade(klasa)
+  if (klasa === 3) {
+    return [...legacyTasksForGrade(3), ...generated.filter((task) => task.klasa === 3)]
+  }
+  return [...legacyTasksForGrade(klasa), ...generated]
+}
+
+export async function loadTasksForPool(klasa: Grade, pool: TaskPool): Promise<Task[]> {
+  return (await loadTasksForGrade(klasa)).filter((task) => poolOf(task) === pool)
+}
+
+export async function loadTasksByTopic(
+  klasa: Grade,
+  topic: TopicId,
+  pool?: TaskPool,
+): Promise<Task[]> {
+  const tasks = pool ? await loadTasksForPool(klasa, pool) : await loadTasksForGrade(klasa)
   return tasks.filter((task) => task.dzial === topic)
 }
 
+/** Zadanie po ID — działa dla legacy od razu, dla generowanych po pierwszym load danej klasy. */
 export function getTaskById(id: string): Task | undefined {
-  return ALL_TASKS.find((t) => t.id === id)
+  return idCache.get(id)
 }
 
 export { TOPICS, GRADES } from './meta'

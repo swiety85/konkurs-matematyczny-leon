@@ -33,7 +33,57 @@ export interface Task {
   trudnosc: 1 | 2 | 3
   hint?: string
   openAnswer?: string
+  illustration?: IllustrationSpec
 }
+
+export type IllustrationKind = 'clock' | 'shapes' | 'domino' | 'number-line' | 'bars' | 'grid'
+
+export interface ClockIllustration {
+  kind: 'clock'
+  hour: number
+  minute: number
+  label?: string
+}
+
+export interface ShapesIllustration {
+  kind: 'shapes'
+  shapes: string[]
+  highlight?: string
+}
+
+export interface DominoIllustration {
+  kind: 'domino'
+  left: number
+  right: number
+}
+
+export interface NumberLineIllustration {
+  kind: 'number-line'
+  from: number
+  to: number
+  marks: number[]
+}
+
+export interface BarsIllustration {
+  kind: 'bars'
+  values: number[]
+  labels: string[]
+}
+
+export interface GridIllustration {
+  kind: 'grid'
+  rows: number
+  cols: number
+  filled: number
+}
+
+export type IllustrationSpec =
+  | ClockIllustration
+  | ShapesIllustration
+  | DominoIllustration
+  | NumberLineIllustration
+  | BarsIllustration
+  | GridIllustration
 
 export interface TopicMeta {
   id: TopicId

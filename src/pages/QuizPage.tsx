@@ -1,13 +1,22 @@
 import { useState } from 'react'
 import { QuizRunner } from '../components/QuizRunner'
 import { useProfile } from '../context/ProfileContext'
-import { getTasksForPool } from '../data'
+import { loadTasksForPool } from '../data'
 import { selectAdaptiveTasks } from '../engine/adaptive'
 import type { SessionRecord, Task } from '../types'
 
 export function QuizPage() {
   const { profile, recordSession } = useProfile()
   const [tasks, setTasks] = useState<Task[]>([])
+  const [loading, setLoading] = useState(false)
+
+  const startQuiz = () => {
+    setLoading(true)
+    void loadTasksForPool(profile.klasa, 'quiz').then((pool) => {
+      setTasks(selectAdaptiveTasks(pool, profile, 10, { preferDue: true }))
+      setLoading(false)
+    })
+  }
 
   if (tasks.length > 0) {
     return (
@@ -42,16 +51,11 @@ export function QuizPage() {
       </p>
       <button
         type="button"
-        onClick={() =>
-          setTasks(
-            selectAdaptiveTasks(getTasksForPool(profile.klasa, 'quiz'), profile, 10, {
-              preferDue: true,
-            }),
-          )
-        }
-        className="w-full rounded-2xl bg-sky-600 py-4 text-lg font-bold text-white shadow-lg hover:bg-sky-700"
+        disabled={loading}
+        onClick={startQuiz}
+        className="w-full rounded-2xl bg-sky-600 py-4 text-lg font-bold text-white shadow-lg hover:bg-sky-700 disabled:opacity-50"
       >
-        Start quizu
+        {loading ? 'Ładowanie zadań…' : 'Start quizu'}
       </button>
     </div>
   )

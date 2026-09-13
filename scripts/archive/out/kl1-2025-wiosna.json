@@ -1,0 +1,336 @@
+{
+  "sheet": "kl1-2025-wiosna",
+  "label": "Klasa 1 / Wiosna 2025",
+  "file": "MATEMATYKA_Klasa1 - WIOSNA 2025.pdf",
+  "pages": 2,
+  "detectedQuestions": 25,
+  "expectedQuestions": 25,
+  "diff": 0,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Ile to tygodni i dni? 12 dni to:\n\n                    1 tydzień i 4 dni                  1 tydzień i 5 dni                   1 tydzień i 6 dni                  2 tygodnie",
+      "options": [
+        "1 tydzień i 4 dni",
+        "1 tydzień i 5 dni",
+        "1 tydzień i 6 dni",
+        "2 tygodnie"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Jest godzina 19:45. Jaką godzinę wskaże zegar za kwadrans?\nsa IV            klasa V         klasa VI          klasa VII      klasa VIII\nsa IV               19:30\n                 klasa V         klasa VI      20:15\n                                                   klasa VII      klasa VIII20:00                                             19:15\n\nX w odpowiednim polu.",
+      "options": [
+        "20:15",
+        "klasa VII",
+        "klasa VIII20:00",
+        "19:15\n\nX w odpowiednim polu."
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Wskaż prawidłowe odpowiedzi.\n         Asia ma 11 lat. Ile lat będzie miała za 9 lat?\n  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29\n               19 lat                         20 lat    18 lat                                                                21 lat\n             O ile lat młodsza jest Asia od osoby w wieku 30 lat?\n                     21 lat                            20 lat                              19 lat                             18 lat",
+      "options": [
+        "21 lat",
+        "20 lat",
+        "19 lat",
+        "18 lat"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Wskaż prawidłowe odpowiedzi.\ndzi zaznacz, stawiając krzyżyk X w polu A, B, C, lub D przy odpowiednim numerze pytania.\n             Doba to:                                 24 godziny                           12 godzin                          6 godzin                         30 godzin\n\n             Rok ma:                                  3 kwartały                           4 kwartały                         1 kwartał                        2 kwartały",
+      "options": [
+        "3 kwartały",
+        "4 kwartały",
+        "1 kwartał",
+        "2 kwartały"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Ustal, jakie wartości ukryły się pod motylkami.\n\n                                                                = 22 + 16                  = 30 - 14           19 + 3 - 5 =\n\n                                                      36                                   38                                 25                              37\n                                                      13                                   15                                 16                              17\n                                                      17                                   16                                 15                              18",
+      "options": [
+        "17",
+        "16",
+        "15",
+        "18"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Ania ma 20 zł. Kupiła książkę za 14 zł. Ile reszty dostanie? Oblicz i zaznacz.\n\n             20 zł - 14 zł = …..                      5 zł                                 6 zł                               4 zł                            7 zł",
+      "options": [
+        "5 zł",
+        "6 zł",
+        "4 zł",
+        "7 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Jaka liczba ukryła się pod pszczółką?\n                                                                              +            +         +         = 16\n\n                    5                                 3                                    2                                  4",
+      "options": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Zaznacz figury z czterema bokami:\n                   prostokąt                          koło                                 kwadrat                            trójkąt",
+      "options": [
+        "prostokąt",
+        "koło",
+        "kwadrat",
+        "trójkąt"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Jakimi monetami można zapłacić 9 zł?\n                   5 zł + 2 zł + 2 zł                 10 zł - 1 zł                  1 zł + 2 zł + 2 zł + 5 zł                 2 zł + 2 zł + 2 zł + 1 zł + 1 zł + 1 zł",
+      "options": [
+        "5 zł + 2 zł + 2 zł",
+        "10 zł - 1 zł",
+        "1 zł + 2 zł + 2 zł + 5 zł",
+        "2 zł + 2 zł + 2 zł + 1 zł + 1 zł + 1 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "Przedstaw liczbę 24 jako: sumę trzech składników.\n                   5+5+5+9                            10 + 12 + 12                         5 + 10 + 9                         8+8+8",
+      "options": [
+        "5+5+5+9",
+        "10 + 12 + 12",
+        "5 + 10 + 9",
+        "8+8+8"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "Każdy kwiatek zastępuje tą samą liczbę. Jaka to liczba?\n\n                                                        36 -       -            -        = 27\n\n      5                           3                                4                            6",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Wskaż liczby uszeregowane rosnąco:\n      2, 5, 8, 11                  12, 9, 7, 5                         3, 1, 4, 2               6, 8, 10, 7",
+      "options": [
+        "2, 5, 8, 11",
+        "12, 9, 7, 5",
+        "3, 1, 4, 2",
+        "6, 8, 10, 7"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Wskaż sumę i różnicę liczb pasującą do poniższego rysunku.\n\n\n      8 + 11                      11 + 9                           11 - 9                       20 - 9",
+      "options": [
+        "8 + 11",
+        "11 + 9",
+        "11 - 9",
+        "20 - 9"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Wskaż zbiór, w którym znajdują się tylko liczby nieparzyste.\n          1, 3, 5, 8, 11               2, 4, 6, 8, 10                    0, 2, 5, 7, 8              15, 5, 7, 9, 13",
+      "options": [
+        "1, 3, 5, 8, 11",
+        "2, 4, 6, 8, 10",
+        "0, 2, 5, 7, 8",
+        "15, 5, 7, 9, 13"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Wstaw odpowiedni znak: <, =, >.\n16 + 8 ... 15 + 9                 <                                =                            >                     -\n32 - 6 ... 16 + 12                <                                =                            >                     -\n25 - 5 ... 28 + 4                 <                                =                            >                     -",
+      "options": [
+        "<",
+        "=",
+        ">",
+        "-"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Na drzewie siedziały 4 wróbelki. Przyleciały jeszcze 3. Ile nóg mają wszystkie wróbelki na drzewie?\n      16                           7                                   14                       8",
+      "options": [
+        "16",
+        "7",
+        "14",
+        "8"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Który wynik jest błędny?\n      10 - 3 = 7                   6 + 4 = 11                          8 + 5 = 13               32 - 26 = 6",
+      "options": [
+        "10 - 3 = 7",
+        "6 + 4 = 11",
+        "8 + 5 = 13",
+        "32 - 26 = 6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "Wskaż liczby sąsiadujące z liczbą 15.\n      14 i 16                      13 i 15                             15 i 16                  12 i 14",
+      "options": [
+        "14 i 16",
+        "13 i 15",
+        "15 i 16",
+        "12 i 14"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Zosia była u babci 3 tygodnie i 4 dni. Ile to razem dni?\n                                  24                                   25                       26                    27",
+      "options": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Zaznacz prawidłową odpowiedź. 36 : 6 = ...\n                                  siedem                               cztery                   trzy                  sześć",
+      "options": [
+        "siedem",
+        "cztery",
+        "trzy",
+        "sześć"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Dzisiaj jest środa. Jaki dzień tygodnia będzie za 3 dni?\n                                   sobota                              niedziela                poniedziałek          wtorek",
+      "options": [
+        "sobota",
+        "niedziela",
+        "poniedziałek",
+        "wtorek"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Wskaż działanie pasujące do schematu:\n                                                               -            +        = 28\n\n      22 - 10 + 6                  30 - 15 + 3                         15 + 10 + 3              30 - 20 + 18",
+      "options": [
+        "22 - 10 + 6",
+        "30 - 15 + 3",
+        "15 + 10 + 3",
+        "30 - 20 + 18"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Które z poniższych działań daje wynik 15?\n      7+7                          8+7                                 10 + 5                   9+6",
+      "options": [
+        "7+7",
+        "8+7",
+        "10 + 5",
+        "9+6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "Które działanie pasuje do sytuacji?\n                                Basia ma 3 czerwone balony i 5 niebieskich. Ile ma razem balonów?\n\n      3+5=8                        3-5=2                               5-3=2                    5+3=7",
+      "options": [
+        "3+5=8",
+        "3-5=2",
+        "5-3=2",
+        "5+3=7"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Jeżeli do liczby 22 dodasz tę liczbę, otrzymasz 35. Jaka to liczba?\n      12                           14                                  15                       13",
+      "options": [
+        "12",
+        "14",
+        "15",
+        "13"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}

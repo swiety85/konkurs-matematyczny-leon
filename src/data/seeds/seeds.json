@@ -1,0 +1,2989 @@
+{
+  "count": 347,
+  "seeds": [
+    {
+      "seedId": "k1-a-001",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-002",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-003",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-004",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-005",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-006",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-007",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-008",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-009",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-010",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-011",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-012",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-013",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-014",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-015",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-016",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-017",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-018",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-019",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-020",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-021",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-022",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-023",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-024",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-025",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-026",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-027",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-028",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-029",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-030",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-031",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-032",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-033",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-034",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-035",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-036",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-037",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-038",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-039",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-040",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-041",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-042",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-043",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-044",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-045",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-046",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-047",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-048",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-049",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-050",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-051",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-052",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-053",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-054",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-055",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-056",
+      "klasa": 1,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-057",
+      "klasa": 1,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-058",
+      "klasa": 1,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-059",
+      "klasa": 1,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-060",
+      "klasa": 1,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-061",
+      "klasa": 1,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-062",
+      "klasa": 1,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-063",
+      "klasa": 1,
+      "dzial": "geometria",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-064",
+      "klasa": 1,
+      "dzial": "geometria",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-065",
+      "klasa": 1,
+      "dzial": "geometria",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-066",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-067",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-068",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-069",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-070",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-071",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-072",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-073",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-074",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-075",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-076",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-077",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-078",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "none",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-079",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "none",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-080",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "none",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-081",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-082",
+      "klasa": 1,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-083",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-084",
+      "klasa": 1,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-085",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-086",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-087",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-088",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-089",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-090",
+      "klasa": 1,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-091",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-092",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-093",
+      "klasa": 1,
+      "dzial": "zadania-tekstowe",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-094",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k1-a-095",
+      "klasa": 1,
+      "dzial": "logika",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-001",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-002",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-003",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-004",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-005",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-006",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-007",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-008",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-009",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-010",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-011",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-012",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-013",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-014",
+      "klasa": 2,
+      "dzial": "liczby-ciagi",
+      "typ": "none",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-015",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-016",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-017",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-018",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-019",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-020",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-021",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-022",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-023",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-024",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-025",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-026",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-027",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-028",
+      "klasa": 2,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "none",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-029",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-030",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-031",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-032",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-033",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-034",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-035",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-036",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-037",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-038",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-039",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-040",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-041",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-042",
+      "klasa": 2,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-043",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-044",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-045",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-046",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-047",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-048",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-049",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-050",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-051",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-052",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-053",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-054",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-055",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-056",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-057",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-058",
+      "klasa": 2,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-059",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-060",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-061",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-062",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-063",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-064",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-065",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-066",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-067",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-068",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-069",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-070",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-071",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-072",
+      "klasa": 2,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-073",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-074",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-075",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-076",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-077",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-078",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-079",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-080",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-081",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-082",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-083",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-084",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-085",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-086",
+      "klasa": 2,
+      "dzial": "geometria",
+      "typ": "none",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-087",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-088",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-089",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-090",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-091",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-092",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-093",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-094",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-095",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-096",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-097",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-098",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "multi",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-099",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k2-a-100",
+      "klasa": 2,
+      "dzial": "logika",
+      "typ": "none",
+      "zrodlo": "Autorskie / styl konkursu Leon",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-w25-01",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Wiosna 2025 / zad.1",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 1
+      }
+    },
+    {
+      "seedId": "k3-w25-02",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Wiosna 2025 / zad.2",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 2
+      }
+    },
+    {
+      "seedId": "k3-w25-03",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.3",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 3
+      }
+    },
+    {
+      "seedId": "k3-w25-04",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.4",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 4
+      }
+    },
+    {
+      "seedId": "k3-w25-05",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.5",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 5
+      }
+    },
+    {
+      "seedId": "k3-w25-06",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.6",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 6
+      }
+    },
+    {
+      "seedId": "k3-w25-07",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.7",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 7
+      }
+    },
+    {
+      "seedId": "k3-w25-08",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Wiosna 2025 / zad.8",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 8
+      }
+    },
+    {
+      "seedId": "k3-w25-09",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.9",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 9
+      }
+    },
+    {
+      "seedId": "k3-w25-10",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.10",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 10
+      }
+    },
+    {
+      "seedId": "k3-w25-11",
+      "klasa": 3,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.11",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 11
+      }
+    },
+    {
+      "seedId": "k3-w25-12",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.12",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 12
+      }
+    },
+    {
+      "seedId": "k3-w25-13",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Wiosna 2025 / zad.13",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 13
+      }
+    },
+    {
+      "seedId": "k3-w25-14",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.14",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 14
+      }
+    },
+    {
+      "seedId": "k3-w25-15",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.15",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 15
+      }
+    },
+    {
+      "seedId": "k3-w25-16",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.16",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 16
+      }
+    },
+    {
+      "seedId": "k3-w25-17",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.17",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 17
+      }
+    },
+    {
+      "seedId": "k3-w25-18",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Wiosna 2025 / zad.18",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 18
+      }
+    },
+    {
+      "seedId": "k3-w25-19",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Wiosna 2025 / zad.19",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 19
+      }
+    },
+    {
+      "seedId": "k3-w25-20",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Wiosna 2025 / zad.20",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 20
+      }
+    },
+    {
+      "seedId": "k3-w25-21",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Wiosna 2025 / zad.21",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 21
+      }
+    },
+    {
+      "seedId": "k3-w25-22",
+      "klasa": 3,
+      "dzial": "podzielnosc",
+      "typ": "multi",
+      "zrodlo": "Wiosna 2025 / zad.22",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 22
+      }
+    },
+    {
+      "seedId": "k3-w25-23",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.23",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 23
+      }
+    },
+    {
+      "seedId": "k3-w25-24",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.24",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 24
+      }
+    },
+    {
+      "seedId": "k3-w25-25",
+      "klasa": 3,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.25",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 25
+      }
+    },
+    {
+      "seedId": "k3-w25-26",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Wiosna 2025 / zad.26",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2025-wiosna",
+        "number": 26
+      }
+    },
+    {
+      "seedId": "k3-j24-01",
+      "klasa": 3,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.1",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 1
+      }
+    },
+    {
+      "seedId": "k3-j24-02",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.2",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 2
+      }
+    },
+    {
+      "seedId": "k3-j24-03",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.3",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 3
+      }
+    },
+    {
+      "seedId": "k3-j24-04",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.4",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 4
+      }
+    },
+    {
+      "seedId": "k3-j24-05",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.5",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 5
+      }
+    },
+    {
+      "seedId": "k3-j24-06",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.5b",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 5
+      }
+    },
+    {
+      "seedId": "k3-j24-07",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.5c",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 5
+      }
+    },
+    {
+      "seedId": "k3-j24-08",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Jesień 2024 / zad.6",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 6
+      }
+    },
+    {
+      "seedId": "k3-j24-09",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Jesień 2024 / zad.7",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 7
+      }
+    },
+    {
+      "seedId": "k3-j24-10",
+      "klasa": 3,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.8",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 8
+      }
+    },
+    {
+      "seedId": "k3-j24-11",
+      "klasa": 3,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.8b",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 8
+      }
+    },
+    {
+      "seedId": "k3-j24-12",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.9",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 9
+      }
+    },
+    {
+      "seedId": "k3-j24-13",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.10",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 10
+      }
+    },
+    {
+      "seedId": "k3-j24-14",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Jesień 2024 / zad.11",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 11
+      }
+    },
+    {
+      "seedId": "k3-j24-15",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Jesień 2024 / zad.13",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 13
+      }
+    },
+    {
+      "seedId": "k3-j24-16",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Jesień 2024 / zad.14",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 14
+      }
+    },
+    {
+      "seedId": "k3-j24-17",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "multi",
+      "zrodlo": "Jesień 2024 / zad.15",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 15
+      }
+    },
+    {
+      "seedId": "k3-j24-18",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.16",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 16
+      }
+    },
+    {
+      "seedId": "k3-j24-19",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.17",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 17
+      }
+    },
+    {
+      "seedId": "k3-j24-20",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.17b",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 17
+      }
+    },
+    {
+      "seedId": "k3-j24-21",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.18",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 18
+      }
+    },
+    {
+      "seedId": "k3-j24-22",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "multi",
+      "zrodlo": "Jesień 2024 / zad.19",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 19
+      }
+    },
+    {
+      "seedId": "k3-j24-23",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.20",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 20
+      }
+    },
+    {
+      "seedId": "k3-j24-24",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Jesień 2024 / zad.22",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 22
+      }
+    },
+    {
+      "seedId": "k3-j24-25",
+      "klasa": 3,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.23",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 23
+      }
+    },
+    {
+      "seedId": "k3-j24-26",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Jesień 2024 / zad.24",
+      "pool": "learn",
+      "archiveRef": {
+        "sheet": "kl3-2024-jesien",
+        "number": 24
+      }
+    },
+    {
+      "seedId": "k3-a-01",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Autorskie (styl Wiosna 2024)",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-02",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-03",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-04",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-05",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-06",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-07",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-08",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-09",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-10",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-11",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-12",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-13",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-14",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-15",
+      "klasa": 3,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-16",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-17",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-18",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-19",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-20",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-21",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "multi",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-22",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-23",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-24",
+      "klasa": 3,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-25",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-26",
+      "klasa": 3,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-27",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-28",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-29",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-30",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-31",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-32",
+      "klasa": 3,
+      "dzial": "ulamki",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-33",
+      "klasa": 3,
+      "dzial": "ulamki",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-34",
+      "klasa": 3,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-35",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-36",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-37",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "multi",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-38",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-39",
+      "klasa": 3,
+      "dzial": "logika",
+      "typ": "none",
+      "zrodlo": "Autorskie (typ Leon: none)",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-40",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie — tabliczka",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-41",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie — tabliczka",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-42",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie — tabliczka",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-43",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie — tabliczka",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-44",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-45",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-46",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-47",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-48",
+      "klasa": 3,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-49",
+      "klasa": 3,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-50",
+      "klasa": 3,
+      "dzial": "podzielnosc",
+      "typ": "multi",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-51",
+      "klasa": 3,
+      "dzial": "podzielnosc",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-52",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-53",
+      "klasa": 3,
+      "dzial": "ulamki",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-54",
+      "klasa": 3,
+      "dzial": "logika",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-55",
+      "klasa": 3,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-56",
+      "klasa": 3,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-57",
+      "klasa": 3,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-58",
+      "klasa": 3,
+      "dzial": "dodawanie-odejmowanie",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-59",
+      "klasa": 3,
+      "dzial": "liczby-ciagi",
+      "typ": "single",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k3-a-60",
+      "klasa": 3,
+      "dzial": "logika",
+      "typ": "multi",
+      "zrodlo": "Autorskie",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-01",
+      "klasa": 4,
+      "dzial": "podzielnosc",
+      "typ": "multi",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-02",
+      "klasa": 4,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "multi",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-03",
+      "klasa": 4,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-04",
+      "klasa": 4,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-05",
+      "klasa": 4,
+      "dzial": "logika",
+      "typ": "multi",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-06",
+      "klasa": 4,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-07",
+      "klasa": 4,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-08",
+      "klasa": 4,
+      "dzial": "kolejnosc-dzialan",
+      "typ": "multi",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-09",
+      "klasa": 4,
+      "dzial": "czas-miary",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-10",
+      "klasa": 4,
+      "dzial": "podzielnosc",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-11",
+      "klasa": 4,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-12",
+      "klasa": 4,
+      "dzial": "kolejnosc-dzialan",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-13",
+      "klasa": 4,
+      "dzial": "podzielnosc",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-14",
+      "klasa": 4,
+      "dzial": "pola-jednostki",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-15",
+      "klasa": 4,
+      "dzial": "czas-miary",
+      "typ": "multi",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-16",
+      "klasa": 4,
+      "dzial": "kolejnosc-dzialan",
+      "typ": "multi",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-17",
+      "klasa": 4,
+      "dzial": "pola-jednostki",
+      "typ": "multi",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-18",
+      "klasa": 4,
+      "dzial": "liczby-wielocyfrowe",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-19",
+      "klasa": 4,
+      "dzial": "liczby-wielocyfrowe",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-20",
+      "klasa": 4,
+      "dzial": "liczby-wielocyfrowe",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-21",
+      "klasa": 4,
+      "dzial": "pola-jednostki",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-22",
+      "klasa": 4,
+      "dzial": "ulamki",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-23",
+      "klasa": 4,
+      "dzial": "mnozenie-dzielenie",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-24",
+      "klasa": 4,
+      "dzial": "pola-jednostki",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-w25-25",
+      "klasa": 4,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Mostek kl.4 / Wiosna 2025",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-01",
+      "klasa": 4,
+      "dzial": "kolejnosc-dzialan",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-02",
+      "klasa": 4,
+      "dzial": "kolejnosc-dzialan",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-03",
+      "klasa": 4,
+      "dzial": "ulamki",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-04",
+      "klasa": 4,
+      "dzial": "ulamki",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-05",
+      "klasa": 4,
+      "dzial": "liczby-wielocyfrowe",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-06",
+      "klasa": 4,
+      "dzial": "liczby-wielocyfrowe",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-07",
+      "klasa": 4,
+      "dzial": "pola-jednostki",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-08",
+      "klasa": 4,
+      "dzial": "pola-jednostki",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-09",
+      "klasa": 4,
+      "dzial": "zadania-tekstowe",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-10",
+      "klasa": 4,
+      "dzial": "geometria",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-11",
+      "klasa": 4,
+      "dzial": "liczby-wielocyfrowe",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-12",
+      "klasa": 4,
+      "dzial": "kolejnosc-dzialan",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-13",
+      "klasa": 4,
+      "dzial": "ulamki",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-14",
+      "klasa": 4,
+      "dzial": "podzielnosc",
+      "typ": "multi",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    },
+    {
+      "seedId": "k4-a-15",
+      "klasa": 4,
+      "dzial": "liczby-wielocyfrowe",
+      "typ": "single",
+      "zrodlo": "Autorskie mostek kl.4",
+      "pool": "learn"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "sheet": "kl4-2022-jesien",
+  "label": "Klasa 4 / Jesien 2022",
+  "file": "MATEMATYKA klasa 4. Jesień 2022.pdf",
+  "pages": 2,
+  "detectedQuestions": 28,
+  "expectedQuestions": 27,
+  "diff": 1,
+  "questions": [
+    {
+      "number": 1,
+      "page": 0,
+      "rawText": "Wskaż działanie, którego wynik jest największy.\nA. 6 + 56                          B. 70 - 5                                            C. 7 • 9                         D. 72 : 8",
+      "options": [
+        "Wskaż działanie, którego wynik jest największy.",
+        "A. 6 + 56",
+        "B. 70 - 5",
+        "C. 7 • 9"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 2,
+      "page": 0,
+      "rawText": "Ile jest wszystkich liczb nieparzystych większych od 7, ale mniejszych od 15?\nA. 3                                  B. 4                               C. 5                                            D. 6",
+      "options": [
+        "Ile jest wszystkich liczb nieparzystych większych od 7, ale mniejszych od 15?",
+        "A. 3",
+        "B. 4",
+        "C. 5"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 3,
+      "page": 0,
+      "rawText": "Jaką liczbę należy wstawić za x w działaniu 820 – x = 90?\nA. 630                              B. 720                                              C. 730                           D. 30",
+      "options": [
+        "Jaką liczbę należy wstawić za x w działaniu 820 – x = 90?",
+        "A. 630",
+        "B. 720",
+        "C. 730"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 4,
+      "page": 0,
+      "rawText": "Wskaż zdania prawdziwe.\nA. Dodawanie nie jest przemienne.\t\t                                                     B. Kwadrat ma wszystkie boki równej długości.\nC. Liczba podzielona przez samą siebie daje 1.                                          D. Odcinek ma początek i koniec.",
+      "options": [
+        "Wskaż zdania prawdziwe.",
+        "A. Dodawanie nie jest przemienne.",
+        "B. Kwadrat ma wszystkie boki równej długości.",
+        "C. Liczba podzielona przez samą siebie daje 1."
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 5,
+      "page": 0,
+      "rawText": "Stół waży 2 kilogramy i pół stołu. Ile waży ten stół?\nA. 2 kg                             B. 3 kg                                             C. 4 kg                          D. 6 kg",
+      "options": [
+        "Stół waży 2 kilogramy i pół stołu. Ile waży ten stół?",
+        "A. 2 kg",
+        "B. 3 kg",
+        "C. 4 kg"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 6,
+      "page": 0,
+      "rawText": "Heniek ma 189 naklejek, a Tomek o 67 naklejek mniej. Ile naklejek ma Tomek?\nA. 132                            B. 122                               C. 121                                            D. 144",
+      "options": [
+        "Heniek ma 189 naklejek, a Tomek o 67 naklejek mniej. Ile naklejek ma Tomek?",
+        "A. 132",
+        "B. 122",
+        "C. 121"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 7,
+      "page": 0,
+      "rawText": "Wskaż liczbę 3 razy większą niż 7.\nA. 21                               B. 18                                               C. 28                            D. 14",
+      "options": [
+        "Wskaż liczbę 3 razy większą niż 7.",
+        "A. 21",
+        "B. 18",
+        "C. 28"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 8,
+      "page": 0,
+      "rawText": "Karina ma 11 lat i jest o 48 lat młodsza od swojej babci. Ile lat ma babcia Kariny?\nA. 37                                 B. 59                                C. 69                                         D. 77",
+      "options": [
+        "Karina ma 11 lat i jest o 48 lat młodsza od swojej babci. Ile lat ma babcia Kariny?",
+        "A. 37",
+        "B. 59",
+        "C. 69"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 9,
+      "page": 0,
+      "rawText": "Które dzielenie z resztą nie jest wykonanie poprawnie?\nA. 30 : 7 = 4 r 2                     B. 42 : 5 = 8 r 3                                 C. 50 : 6 = 8 r 2                D. 16 : 5 = 3 r 2",
+      "options": [
+        "Które dzielenie z resztą nie jest wykonanie poprawnie?",
+        "A. 30 : 7 = 4 r 2",
+        "B. 42 : 5 = 8 r 3",
+        "C. 50 : 6 = 8 r 2"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 10,
+      "page": 0,
+      "rawText": "W zajezdni stało 19 autobusów oraz 3 razy tyle tramwajów. Ile tramwajów stało w zajezdni?\nA. 47                             B. 57                               C. 67                                              D. 77",
+      "options": [
+        "W zajezdni stało 19 autobusów oraz 3 razy tyle tramwajów. Ile tramwajów stało w zajezdni?",
+        "A. 47",
+        "B. 57",
+        "C. 67"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 11,
+      "page": 0,
+      "rawText": "W czwartek Gosia rozpoczyna lekcję o 8:15, a kończy o 14:45. Ile czasu Gosia spędza w czwartek w szkole?\n                 A. 6h 30 minut      B. 7h 30 minut                       C. 390 minut                D. 450 minut",
+      "options": [
+        "W czwartek Gosia rozpoczyna lekcję o 8:15, a kończy o 14:45. Ile czasu Gosia spędza w czwartek w szkole?",
+        "A. 6h 30 minut",
+        "B. 7h 30 minut",
+        "C. 390 minut"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 12,
+      "page": 0,
+      "rawText": "Zegar wskazuje godzinę 12:35. Którą godzinę zegar wskaże za 55 minut?\nA. 13:25                          B. 13:15                           C. 14:00                              D. 13:30",
+      "options": [
+        "Zegar wskazuje godzinę 12:35. Którą godzinę zegar wskaże za 55 minut?",
+        "A. 13:25",
+        "B. 13:15",
+        "C. 14:00"
+      ],
+      "confidence": "high",
+      "graphic": true
+    },
+    {
+      "number": 13,
+      "page": 0,
+      "rawText": "Ile zer będzie w wyniku działania 40 • 3500?\nA. 3                                B. 4                                      C. 5                         D. 6",
+      "options": [
+        "Ile zer będzie w wyniku działania 40 • 3500?",
+        "A. 3",
+        "B. 4",
+        "C. 5"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 14,
+      "page": 0,
+      "rawText": "Jak inaczej możemy zapisać 155 m?\nA. 15500 cm                       B. 1550 cm                                  C. 0,155 km                  D. 155000 mm",
+      "options": [
+        "Jak inaczej możemy zapisać 155 m?",
+        "A. 15500 cm",
+        "B. 1550 cm",
+        "C. 0,155 km"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 15,
+      "page": 0,
+      "rawText": "Adam miał 5,50 zł. Kupił jabłko za 1,35 zł oraz wodę za 0,90 zł. Ile reszty zostało Adamowi?\nA. 2,45 zł                          B. 3,25 zł                             C. 2,25 zł                      D. 3,45 zł",
+      "options": [
+        "Adam miał 5,50 zł. Kupił jabłko za 1,35 zł oraz wodę za 0,90 zł. Ile reszty zostało Adamowi?",
+        "A. 2,45 zł",
+        "B. 3,25 zł",
+        "C. 2,25 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 16,
+      "page": 0,
+      "rawText": "Obwód kwadratu jest równy 16cm. Jaką długość ma bok tego kwadratu?\nA. 8 cm                         B. 3,5 cm                         C. 2,5 cm                                D. 4 cm",
+      "options": [
+        "Obwód kwadratu jest równy 16cm. Jaką długość ma bok tego kwadratu?",
+        "A. 8 cm",
+        "B. 3,5 cm",
+        "C. 2,5 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 17,
+      "page": 0,
+      "rawText": "Ile wierzchołków ma prostopadłościan?\nA. 4                             B. 6                                         C. 8                         D. 10",
+      "options": [
+        "Ile wierzchołków ma prostopadłościan?",
+        "A. 4",
+        "B. 6",
+        "C. 8"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 18,
+      "page": 0,
+      "rawText": "4 • 3 – (8 : 2 +3). Które działanie należy wykonać jako pierwsze?\nA. mnożenie                            B. odejmowanie                         C. dzielenie                 D. dodawanie",
+      "options": [
+        "4 • 3 – (8 : 2 +3). Które działanie należy wykonać jako pierwsze?",
+        "A. mnożenie",
+        "B. odejmowanie",
+        "C. dzielenie"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 19,
+      "page": 0,
+      "rawText": "Wskaż poprawny zapis liczby osiem tysięcy siedemset trzydzieści pięć.\nA. 8735                           B. 7385                             C. 3758                              D. 5873",
+      "options": [
+        "Wskaż poprawny zapis liczby osiem tysięcy siedemset trzydzieści pięć.",
+        "A. 8735",
+        "B. 7385",
+        "C. 3758"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 20,
+      "page": 0,
+      "rawText": "Które działania mają taki sam wynik?\nA. 56 – 8                         B. 6 • 8                                    C. 12 + 36                   D. 100 : 2",
+      "options": [
+        "Które działania mają taki sam wynik?",
+        "A. 56 – 8",
+        "B. 6 • 8",
+        "C. 12 + 36"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 21,
+      "page": 0,
+      "rawText": "Leon za 3 jednakowe lizaki i 4 lody po 7 zł zapłacił 34 zł. Ile kosztuje jeden lizak?\n                   A. 6 zł             B. 3 zł                                C. 2 zł                       D. 1 zł",
+      "options": [
+        "Leon za 3 jednakowe lizaki i 4 lody po 7 zł zapłacił 34 zł. Ile kosztuje jeden lizak?",
+        "A. 6 zł",
+        "B. 3 zł",
+        "C. 2 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 22,
+      "page": 0,
+      "rawText": "Przyjrzyj się uważnie liczbom. Zaznacz jaki znak ukrył się pod .... ?     123+88 … 541-330\n                   A. >                 B. <                                 C. =                          D. -",
+      "options": [
+        "Przyjrzyj się uważnie liczbom. Zaznacz jaki znak ukrył się pod .... ?     123+88 … 541-330",
+        "A. >",
+        "B. <",
+        "C. ="
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 23,
+      "page": 0,
+      "rawText": "Jaki kąt otrzymamy po dodaniu do siebie dwóch kątów 45°?\nA. ostry                          B. prosty                                   C. rozwartokątny             D. pełny",
+      "options": [
+        "Jaki kąt otrzymamy po dodaniu do siebie dwóch kątów 45°?",
+        "A. ostry",
+        "B. prosty",
+        "C. rozwartokątny"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 24,
+      "page": 0,
+      "rawText": "\u0007Natasza dostaje co miesiąc 62 zł kieszonkowego i odkłada co miesiąc połowę na nowy rower.\n    Ile pieniędzy Natasza zbierze po roku?\nA. 372 zł                           B. 744 zł                          C. 374 zł               D. mniej niż 400 zł",
+      "options": [
+        "\u0007Natasza dostaje co miesiąc 62 zł kieszonkowego i odkłada co miesiąc połowę na nowy rower.\n    Ile pieniędzy Natasza zbierze po roku?",
+        "A. 372 zł",
+        "B. 744 zł",
+        "C. 374 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 25,
+      "page": 0,
+      "rawText": "Spodnie kosztowały 80 zł. Cenę obniżono o 25%. Ile kosztują spodnie?\nA. 55 zł                          B. 45 zł                             C. 60 zł                            D. 72 zł",
+      "options": [
+        "Spodnie kosztowały 80 zł. Cenę obniżono o 25%. Ile kosztują spodnie?",
+        "A. 55 zł",
+        "B. 45 zł",
+        "C. 60 zł"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 26,
+      "page": 0,
+      "rawText": "Z których odcinków można zbudować trójkąt?\nA. 3 cm, 3 cm, 5 cm              B. 2 cm, 3 cm, 5 cm                          C. 6 cm, 7 cm, 8 cm          D. 4 cm, 9 cm, 17 cm\n\n                                                                 23",
+      "options": [
+        "Z których odcinków można zbudować trójkąt?",
+        "A. 3 cm, 3 cm, 5 cm",
+        "B. 2 cm, 3 cm, 5 cm",
+        "C. 6 cm, 7 cm, 8 cm"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 27,
+      "page": 0,
+      "rawText": "Jaką całość otrzymamy po wyłączeniu jej przed ułamek 5 ?\nA. 5                             B. 4                                         C. 6                         D. 7",
+      "options": [
+        "Jaką całość otrzymamy po wyłączeniu jej przed ułamek 5 ?",
+        "A. 5",
+        "B. 4",
+        "C. 6"
+      ],
+      "confidence": "high",
+      "graphic": false
+    },
+    {
+      "number": 28,
+      "page": 0,
+      "rawText": "Wskaż figurę foremną.\nA. trójkąt prostokątny                 B. kwadrat                             C. deltoid                   D. prostokąt",
+      "options": [
+        "Wskaż figurę foremną.",
+        "A. trójkąt prostokątny",
+        "B. kwadrat",
+        "C. deltoid"
+      ],
+      "confidence": "high",
+      "graphic": false
+    }
+  ]
+}
