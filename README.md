@@ -27,6 +27,7 @@ npm run preview
 - **Nauka po działach** — krótka teoria, przykład i ćwiczenia
 - **Szybki quiz** — 10 pytań z naciskiem na słabe działy (adaptacyjnie)
 - **Symulacja 45 min** — pełny arkusz ~25 zadań z timerem i kartą odpowiedzi
+- **Rozłączne pule** — nauka, quiz i symulacja nie pokazują identycznych zadań
 - **Powtórki** — spaced repetition (1 / 3 / 7 dni) + fokus na słabe tematy
 - **Diagnoza** — szybki test startowy
 - **Postępy i odznaki** — biegłość per dział, historia sesji

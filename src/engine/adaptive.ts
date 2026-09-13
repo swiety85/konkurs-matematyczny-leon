@@ -140,10 +140,16 @@ export function selectExamSet(allTasks: Task[], count = 25): Task[] {
   const nEasy = Math.round(count * 0.4)
   const nHard = Math.round(count * 0.2)
   const nMid = count - nEasy - nHard
-  return interleave([...easy.slice(0, nEasy), ...mid.slice(0, nMid), ...hard.slice(0, nHard)]).slice(
-    0,
-    count,
-  )
+  const selected = [...easy.slice(0, nEasy), ...mid.slice(0, nMid), ...hard.slice(0, nHard)]
+  const usedIds = new Set(selected.map(({ id }) => id))
+
+  if (selected.length < count) {
+    selected.push(
+      ...shuffle(allTasks.filter(({ id }) => !usedIds.has(id))).slice(0, count - selected.length),
+    )
+  }
+
+  return interleave(selected).slice(0, count)
 }
 
 /** Wybiera co najmniej jedno zadanie z każdego działu, zanim zacznie uzupełniać zestaw. */

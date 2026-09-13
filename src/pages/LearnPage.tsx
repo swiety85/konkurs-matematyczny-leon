@@ -15,7 +15,7 @@ export function LearnPage() {
 
   const tasks = useMemo(() => {
     if (!topic || !running) return []
-    return selectByTopic(getTasksByTopic(profile.klasa, topic), topic, 8)
+    return selectByTopic(getTasksByTopic(profile.klasa, topic, 'learn'), topic, 8)
   }, [topic, profile.klasa, running])
 
   if (running && topic && tasks.length > 0) {
@@ -47,7 +47,7 @@ export function LearnPage() {
   if (topic) {
     const meta = TOPICS[topic]
     const gradeContent = meta.gradeContent?.[profile.klasa]
-    const available = getTasksByTopic(profile.klasa, topic).length
+    const available = getTasksByTopic(profile.klasa, topic, 'learn').length
     return (
       <div className="mx-auto max-w-2xl space-y-6 p-4">
         <button type="button" onClick={() => setTopic(null)} className="text-sky-600 hover:underline">
@@ -71,7 +71,7 @@ export function LearnPage() {
             onClick={() => setRunning(true)}
             className="mt-4 w-full rounded-2xl bg-sky-600 py-4 text-lg font-bold text-white disabled:opacity-40"
           >
-            Ćwicz ten dział (8 zadań)
+            Ćwicz ten dział ({Math.min(8, available)} zadań)
           </button>
         </div>
       </div>
@@ -91,7 +91,7 @@ export function LearnPage() {
           const t = TOPICS[id]
           const stats = profile.topicStats[id]
           const mastery = Math.round((stats?.mastery ?? 0) * 100)
-          const count = getTasksByTopic(profile.klasa, id).length
+          const count = getTasksByTopic(profile.klasa, id, 'learn').length
           return (
             <button
               key={id}

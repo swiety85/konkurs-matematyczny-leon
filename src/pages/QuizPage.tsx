@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { QuizRunner } from '../components/QuizRunner'
 import { useProfile } from '../context/ProfileContext'
-import { getTasksForGrade } from '../data'
+import { getTasksForPool } from '../data'
 import { selectAdaptiveTasks } from '../engine/adaptive'
 import type { SessionRecord, Task } from '../types'
 
@@ -44,7 +44,7 @@ export function QuizPage() {
         type="button"
         onClick={() =>
           setTasks(
-            selectAdaptiveTasks(getTasksForGrade(profile.klasa), profile, 10, {
+            selectAdaptiveTasks(getTasksForPool(profile.klasa, 'quiz'), profile, 10, {
               preferDue: true,
             }),
           )

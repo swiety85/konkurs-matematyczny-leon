@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { QuizRunner } from '../components/QuizRunner'
 import { useProfile } from '../context/ProfileContext'
-import { getTasksForGrade } from '../data'
+import { getTasksForPool } from '../data'
 import { TOPICS } from '../data/meta'
 import { selectAdaptiveTasks } from '../engine/adaptive'
 import { getDueTopics, getWeakTopics } from '../engine/storage'
@@ -16,7 +16,7 @@ export function ReviewPage() {
   const startReview = () => {
     const focus = Array.from(new Set([...due, ...weak]))
     setTasks(
-      selectAdaptiveTasks(getTasksForGrade(profile.klasa), profile, 12, {
+      selectAdaptiveTasks(getTasksForPool(profile.klasa, 'learn'), profile, 12, {
         topics: focus.length ? focus : undefined,
         preferDue: true,
       }),

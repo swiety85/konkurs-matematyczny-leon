@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { QuizRunner } from '../components/QuizRunner'
 import { useProfile } from '../context/ProfileContext'
-import { getTasksForGrade } from '../data'
+import { getTasksForPool } from '../data'
 import { selectDiagnosticSet } from '../engine/adaptive'
 import type { SessionRecord } from '../types'
 
@@ -10,7 +10,7 @@ export function DiagnosePage() {
   const [running, setRunning] = useState(false)
   const tasks = useMemo(() => {
     if (!running) return []
-    return selectDiagnosticSet(getTasksForGrade(profile.klasa), 12)
+    return selectDiagnosticSet(getTasksForPool(profile.klasa, 'quiz'), 12)
   }, [running, profile.klasa])
 
   if (running && tasks.length > 0) {

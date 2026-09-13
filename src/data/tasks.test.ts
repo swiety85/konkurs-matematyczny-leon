@@ -1,7 +1,12 @@
 import { describe, expect, it } from 'vitest'
-import { ALL_TASKS, getTasksForGrade } from './index'
+import {
+  ALL_TASKS,
+  getTaskFingerprint,
+  getTasksForGrade,
+  getTasksForPool,
+} from './index'
 import { scoreTask } from '../engine/scoring'
-import { selectDiagnosticSet } from '../engine/adaptive'
+import { selectDiagnosticSet, selectExamSet } from '../engine/adaptive'
 
 describe('spójność bazy zadań', () => {
   it('zadanie k3-w25-18 pozwala zaznaczyć oba malejące szeregi', () => {
@@ -156,5 +161,40 @@ describe('spójność bazy zadań', () => {
     const thirdGradeTasks = getTasksForGrade(3)
     expect(thirdGradeTasks.some(({ id }) => id.startsWith('k4-w25-'))).toBe(true)
     expect(thirdGradeTasks.some(({ id }) => id.startsWith('k4-a-'))).toBe(false)
+  })
+
+  it.each([1, 2, 3, 4] as const)(
+    'utrzymuje rozłączne pule nauki, quizu i egzaminu dla klasy %s',
+    (grade) => {
+      const learn = getTasksForPool(grade, 'learn')
+      const quiz = getTasksForPool(grade, 'quiz')
+      const exam = getTasksForPool(grade, 'exam')
+      const fingerprints = (tasks: typeof learn) => new Set(tasks.map(getTaskFingerprint))
+      const learnFingerprints = fingerprints(learn)
+      const quizFingerprints = fingerprints(quiz)
+      const examFingerprints = fingerprints(exam)
+
+      expect(quiz.length).toBeGreaterThanOrEqual(12)
+      expect(exam.length).toBeGreaterThanOrEqual(25)
+      expect(selectExamSet(exam, 25)).toHaveLength(25)
+      expect([...learnFingerprints].some((item) => quizFingerprints.has(item))).toBe(false)
+      expect([...learnFingerprints].some((item) => examFingerprints.has(item))).toBe(false)
+      expect([...quizFingerprints].some((item) => examFingerprints.has(item))).toBe(false)
+    },
+  )
+
+  it('utrzymuje rozłączne pule również między klasami i mostkiem', () => {
+    const fingerprints = (pool: 'learn' | 'quiz' | 'exam') =>
+      new Set(
+        ([1, 2, 3, 4] as const).flatMap((grade) =>
+          getTasksForPool(grade, pool).map(getTaskFingerprint),
+        ),
+      )
+    const learn = fingerprints('learn')
+    const quiz = fingerprints('quiz')
+    const exam = fingerprints('exam')
+
+    expect([...learn].some((item) => quiz.has(item) || exam.has(item))).toBe(false)
+    expect([...quiz].some((item) => exam.has(item))).toBe(false)
   })
 })
