@@ -93,4 +93,68 @@ describe('spójność bazy zadań', () => {
       }
     }
   })
+
+  it.each([
+    {
+      grade: 2 as const,
+      count: 100,
+      minimumPerTopic: 10,
+      topics: [
+        'liczby-ciagi',
+        'dodawanie-odejmowanie',
+        'mnozenie-dzielenie',
+        'zadania-tekstowe',
+        'czas-miary',
+        'geometria',
+        'logika',
+      ],
+    },
+    {
+      grade: 4 as const,
+      count: 110,
+      minimumPerTopic: 8,
+      topics: [
+        'liczby-wielocyfrowe',
+        'kolejnosc-dzialan',
+        'ulamki',
+        'pola-jednostki',
+        'podzielnosc',
+        'mnozenie-dzielenie',
+        'zadania-tekstowe',
+        'czas-miary',
+        'geometria',
+        'logika',
+      ],
+    },
+  ])('zawiera pełną i zrównoważoną bazę klasy $grade', ({
+    grade,
+    count,
+    minimumPerTopic,
+    topics,
+  }) => {
+    const tasks = getTasksForGrade(grade)
+
+    expect(tasks).toHaveLength(count)
+    expect(new Set(tasks.map(({ id }) => id)).size).toBe(count)
+
+    for (const topic of topics) {
+      expect(tasks.filter(({ dzial }) => dzial === topic).length, topic).toBeGreaterThanOrEqual(
+        minimumPerTopic,
+      )
+    }
+
+    for (const task of tasks) {
+      expect(Object.keys(task.opcje), task.id).toHaveLength(4)
+      expect(task.klasa, task.id).toBe(grade)
+      if (task.typ === 'multi') {
+        expect(task.poprawne.length, task.id).toBeGreaterThanOrEqual(2)
+      }
+    }
+  })
+
+  it('nie miesza pełnej bazy klasy 4 z mostkiem klasy 3', () => {
+    const thirdGradeTasks = getTasksForGrade(3)
+    expect(thirdGradeTasks.some(({ id }) => id.startsWith('k4-w25-'))).toBe(true)
+    expect(thirdGradeTasks.some(({ id }) => id.startsWith('k4-a-'))).toBe(false)
+  })
 })

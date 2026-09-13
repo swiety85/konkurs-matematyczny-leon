@@ -1,9 +1,10 @@
 import { klasa1Tasks } from './klasa1/tasks'
+import { klasa2Tasks } from './klasa2/tasks'
 import { klasa3Tasks } from './klasa3/tasks'
 import { klasa4Tasks } from './klasa4/tasks'
 import type { Grade, Task, TopicId } from '../types'
 
-export const ALL_TASKS: Task[] = [...klasa1Tasks, ...klasa3Tasks, ...klasa4Tasks]
+export const ALL_TASKS: Task[] = [...klasa1Tasks, ...klasa2Tasks, ...klasa3Tasks, ...klasa4Tasks]
 
 export function getTasksForGrade(klasa: Grade): Task[] {
   if (klasa === 3) {

@@ -1,8 +1,10 @@
 # Trener Leon — przygotowanie do konkursu matematycznego
 
-Aplikacja webowa (React + Vite + TypeScript + Tailwind) do nauki i testowania uczniów klas 1 i 3
+Aplikacja webowa (React + Vite + TypeScript + Tailwind) do nauki i testowania uczniów klas 1–4
 szkoły podstawowej przed [Ogólnopolskim Konkursem Matematycznym Leon](https://leon-konkursy.pl/ogolnopolski-konkurs-matematyczny),
-z mostkiem materiału do klasy 4 i szkieletem pod klasy 1–8.
+ze szkieletem umożliwiającym rozbudowę do klasy 8.
+
+**[Uruchom aplikację](https://swiety85.github.io/konkurs-matematyczny-leon/)**
 
 ## Uruchomienie
 
@@ -41,6 +43,7 @@ src/
   context/      # profil ucznia (localStorage)
   data/
     klasa1/tasks.ts
+    klasa2/tasks.ts
     klasa3/tasks.ts
     klasa4/tasks.ts
     meta.ts           # działy i klasy 1–8
